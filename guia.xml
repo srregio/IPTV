@@ -9290,175 +9290,226 @@
   <programme start="20180317220000 -0600" stop="20180318010000 -0600" channel="Canal 22">
     <title lang="es">Grandes series</title>
   </programme>
-  <programme start="20180318220000 -0600" stop="20180319010000 -0600" channel="Canal 22">
-    <title lang="es">Grandes series</title>
-  </programme>
-  <programme start="20180319010000 -0600" stop="20180319020000 -0600" channel="Canal 22">
+  <programme start="20180318010000 -0600" stop="20180318020000 -0600" channel="Canal 22">
     <title lang="es">La Dichosa Palabra</title>
   </programme>
-  <programme start="20180319020000 -0600" stop="20180319070000 -0600" channel="Canal 22">
+  <programme start="20180318020000 -0600" stop="20180318070000 -0600" channel="Canal 22">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20180319070000 -0600" stop="20180319100000 -0600" channel="Canal 22">
+  <programme start="20180318070000 -0600" stop="20180318100000 -0600" channel="Canal 22">
     <title lang="es">Clic Clac!</title>
   </programme>
-  <programme start="20180319100000 -0600" stop="20180319110000 -0600" channel="Canal 22">
+  <programme start="20180318100000 -0600" stop="20180318110000 -0600" channel="Canal 22">
     <title lang="es">Perfil ciencia</title>
   </programme>
-  <programme start="20180319110000 -0600" stop="20180319120000 -0600" channel="Canal 22">
+  <programme start="20180318110000 -0600" stop="20180318120000 -0600" channel="Canal 22">
     <title lang="es">Voces y tambores de Uruguay</title>
   </programme>
-  <programme start="20180319120000 -0600" stop="20180319143000 -0600" channel="Canal 22">
+  <programme start="20180318120000 -0600" stop="20180318143000 -0600" channel="Canal 22">
     <title lang="es">OFUNAM</title>
   </programme>
-  <programme start="20180319143000 -0600" stop="20180319163000 -0600" channel="Canal 22">
+  <programme start="20180318143000 -0600" stop="20180318163000 -0600" channel="Canal 22">
     <title lang="es">Cineteca de oro</title>
   </programme>
-  <programme start="20180319163000 -0600" stop="20180319173000 -0600" channel="Canal 22">
+  <programme start="20180318163000 -0600" stop="20180318173000 -0600" channel="Canal 22">
     <title lang="es">Naturaleza</title>
   </programme>
-  <programme start="20180319173000 -0600" stop="20180319180000 -0600" channel="Canal 22">
+  <programme start="20180318173000 -0600" stop="20180318180000 -0600" channel="Canal 22">
     <title lang="es">Volvo Ocean Race</title>
   </programme>
-  <programme start="20180319180000 -0600" stop="20180319183000 -0600" channel="Canal 22">
+  <programme start="20180318180000 -0600" stop="20180318183000 -0600" channel="Canal 22">
     <title lang="es">México global</title>
   </programme>
-  <programme start="20180319183000 -0600" stop="20180319190000 -0600" channel="Canal 22">
+  <programme start="20180318183000 -0600" stop="20180318190000 -0600" channel="Canal 22">
     <title lang="es">Vidas y Bebidas</title>
   </programme>
-  <programme start="20180319190000 -0600" stop="20180319200000 -0600" channel="Canal 22">
+  <programme start="20180318190000 -0600" stop="20180318200000 -0600" channel="Canal 22">
     <title lang="es">Voces y tambores de Uruguay</title>
   </programme>
-  <programme start="20180319200000 -0600" stop="20180319210000 -0600" channel="Canal 22">
+  <programme start="20180318200000 -0600" stop="20180318210000 -0600" channel="Canal 22">
     <title lang="es">Perfil ciencia</title>
   </programme>
-  <programme start="20180319210000 -0600" stop="20180319223000 -0600" channel="Canal 22">
+  <programme start="20180318210000 -0600" stop="20180318223000 -0600" channel="Canal 22">
     <title lang="es">Series Estelares</title>
   </programme>
-  <programme start="20180319223000 -0600" stop="20180320000000 -0600" channel="Canal 22">
+  <programme start="20180318223000 -0600" stop="20180319000000 -0600" channel="Canal 22">
     <title lang="es">Eva no duerme</title>
   </programme>
-  <programme start="20180320000000 -0600" stop="20180320013000 -0600" channel="Canal 22">
+  <programme start="20180319000000 -0600" stop="20180319013000 -0600" channel="Canal 22">
     <title lang="es">Zona D</title>
   </programme>
-  <programme start="20180320013000 -0600" stop="20180320063000 -0600" channel="Canal 22">
+  <programme start="20180319013000 -0600" stop="20180319063000 -0600" channel="Canal 22">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20180319063000 -0600" stop="20180319080000 -0600" channel="Canal 22">
+    <title lang="es">México al día</title>
+  </programme>
+  <programme start="20180319080000 -0600" stop="20180319090000 -0600" channel="Canal 22">
+    <title lang="es">Clic Clac!</title>
+  </programme>
+  <programme start="20180319090000 -0600" stop="20180319100000 -0600" channel="Canal 22">
+    <title lang="es">Nuestras raíces</title>
+  </programme>
+  <programme start="20180319100000 -0600" stop="20180319110000 -0600" channel="Canal 22">
+    <title lang="es">La Dichosa Palabra</title>
+  </programme>
+  <programme start="20180319110000 -0600" stop="20180319120000 -0600" channel="Canal 22">
+    <title lang="es">Joyas del 22</title>
+  </programme>
+  <programme start="20180319120000 -0600" stop="20180319133000 -0600" channel="Canal 22">
+    <title lang="es">Cineteca de oro</title>
+  </programme>
+  <programme start="20180319133000 -0600" stop="20180319140000 -0600" channel="Canal 22">
+    <title lang="es">Nuestra América</title>
+  </programme>
+  <programme start="20180319140000 -0600" stop="20180319170000 -0600" channel="Canal 22">
+    <title lang="es">Clic Clac!</title>
+  </programme>
+  <programme start="20180319170000 -0600" stop="20180319180000 -0600" channel="Canal 22">
+    <title lang="es">Joyas del 22</title>
+  </programme>
+  <programme start="20180319180000 -0600" stop="20180319190000 -0600" channel="Canal 22">
+    <title lang="es">Naturaleza</title>
+  </programme>
+  <programme start="20180319190000 -0600" stop="20180319200000 -0600" channel="Canal 22">
+    <title lang="es">Noticias 22</title>
+  </programme>
+  <programme start="20180319200000 -0600" stop="20180319210000 -0600" channel="Canal 22">
+    <title lang="es">Naturaleza</title>
+  </programme>
+  <programme start="20180319210000 -0600" stop="20180319220000 -0600" channel="Canal 22">
+    <title lang="es">Series Estelares</title>
+  </programme>
+  <programme start="20180319220000 -0600" stop="20180319223000 -0600" channel="Canal 22">
+    <title lang="es">Días de Teatro</title>
+  </programme>
+  <programme start="20180319223000 -0600" stop="20180320000000 -0600" channel="Canal 22">
+    <title lang="es">Visión Periférica Con Jacaranda Correa</title>
+  </programme>
+  <programme start="20180320000000 -0600" stop="20180320020000 -0600" channel="Canal 22">
+    <title lang="es">Cineteca de oro</title>
+  </programme>
+  <programme start="20180320020000 -0600" stop="20180320030000 -0600" channel="Canal 22">
+    <title lang="es">Noticias 22</title>
+  </programme>
+  <programme start="20180320030000 -0600" stop="20180320063000 -0600" channel="Canal 22">
     <title lang="es">Cierre de transmisión</title>
   </programme>
   <programme start="20180320063000 -0600" stop="20180320080000 -0600" channel="Canal 22">
-    <title lang="es">México al día</title>
+    <title lang="es">Canal 22</title>
   </programme>
   <programme start="20180320080000 -0600" stop="20180320090000 -0600" channel="Canal 22">
-    <title lang="es">Clic Clac!</title>
+    <title lang="es">Cliclac!</title>
   </programme>
   <programme start="20180320090000 -0600" stop="20180320100000 -0600" channel="Canal 22">
-    <title lang="es">Nuestras raíces</title>
+    <title lang="es">Pasaporte</title>
   </programme>
-  <programme start="20180320100000 -0600" stop="20180320110000 -0600" channel="Canal 22">
-    <title lang="es">La Dichosa Palabra</title>
+  <programme start="20180320100000 -0600" stop="20180320103000 -0600" channel="Canal 22">
+    <title lang="es">Semanario N22</title>
   </programme>
-  <programme start="20180320110000 -0600" stop="20180320120000 -0600" channel="Canal 22">
-    <title lang="es">Joyas del 22</title>
+  <programme start="20180320103000 -0600" stop="20180320110000 -0600" channel="Canal 22">
+    <title lang="es">Así Se Hace: Productos hechos en México</title>
+  </programme>
+  <programme start="20180320110000 -0600" stop="20180320113000 -0600" channel="Canal 22">
+    <title lang="es">Chiapanecos por el mundo</title>
+  </programme>
+  <programme start="20180320113000 -0600" stop="20180320120000 -0600" channel="Canal 22">
+    <title lang="es">Tierra de magia</title>
   </programme>
   <programme start="20180320120000 -0600" stop="20180320133000 -0600" channel="Canal 22">
-    <title lang="es">Cineteca de oro</title>
+    <title lang="es">Película</title>
   </programme>
   <programme start="20180320133000 -0600" stop="20180320140000 -0600" channel="Canal 22">
-    <title lang="es">Nuestra América</title>
+    <title lang="es">Pasaporte</title>
   </programme>
   <programme start="20180320140000 -0600" stop="20180320170000 -0600" channel="Canal 22">
-    <title lang="es">Clic Clac!</title>
+    <title lang="es">Cliclac!</title>
   </programme>
   <programme start="20180320170000 -0600" stop="20180320180000 -0600" channel="Canal 22">
-    <title lang="es">Joyas del 22</title>
+    <title lang="es">Pasaporte</title>
   </programme>
   <programme start="20180320180000 -0600" stop="20180320190000 -0600" channel="Canal 22">
-    <title lang="es">Naturaleza</title>
+    <title lang="es">Perfil Cine</title>
   </programme>
   <programme start="20180320190000 -0600" stop="20180320200000 -0600" channel="Canal 22">
     <title lang="es">Noticias 22</title>
   </programme>
-  <programme start="20180320200000 -0600" stop="20180320210000 -0600" channel="Canal 22">
-    <title lang="es">Naturaleza</title>
-  </programme>
-  <programme start="20180320210000 -0600" stop="20180320220000 -0600" channel="Canal 22">
-    <title lang="es">Series Estelares</title>
-  </programme>
-  <programme start="20180320220000 -0600" stop="20180320223000 -0600" channel="Canal 22">
-    <title lang="es">Días de Teatro</title>
-  </programme>
-  <programme start="20180320223000 -0600" stop="20180321000000 -0600" channel="Canal 22">
-    <title lang="es">Visión Periférica Con Jacaranda Correa</title>
-  </programme>
-  <programme start="20180321000000 -0600" stop="20180321020000 -0600" channel="Canal 22">
-    <title lang="es">Cineteca de oro</title>
-  </programme>
-  <programme start="20180321020000 -0600" stop="20180321030000 -0600" channel="Canal 22">
-    <title lang="es">Noticias 22</title>
-  </programme>
-  <programme start="20180321030000 -0600" stop="20180321063000 -0600" channel="Canal 22">
-    <title lang="es">Cierre de transmisión</title>
-  </programme>
-  <programme start="20180321063000 -0600" stop="20180321080000 -0600" channel="Canal 22">
-    <title lang="es">Canal 22</title>
-  </programme>
-  <programme start="20180321080000 -0600" stop="20180321090000 -0600" channel="Canal 22">
-    <title lang="es">Cliclac!</title>
-  </programme>
-  <programme start="20180321090000 -0600" stop="20180321100000 -0600" channel="Canal 22">
-    <title lang="es">Pasaporte</title>
-  </programme>
-  <programme start="20180321100000 -0600" stop="20180321103000 -0600" channel="Canal 22">
-    <title lang="es">Semanario N22</title>
-  </programme>
-  <programme start="20180321103000 -0600" stop="20180321110000 -0600" channel="Canal 22">
-    <title lang="es">Así Se Hace: Productos hechos en México</title>
-  </programme>
-  <programme start="20180321110000 -0600" stop="20180321113000 -0600" channel="Canal 22">
-    <title lang="es">Chiapanecos por el mundo</title>
-  </programme>
-  <programme start="20180321113000 -0600" stop="20180321120000 -0600" channel="Canal 22">
-    <title lang="es">Tierra de magia</title>
-  </programme>
-  <programme start="20180321120000 -0600" stop="20180321133000 -0600" channel="Canal 22">
-    <title lang="es">Película</title>
-  </programme>
-  <programme start="20180321133000 -0600" stop="20180321140000 -0600" channel="Canal 22">
-    <title lang="es">Pasaporte</title>
-  </programme>
-  <programme start="20180321140000 -0600" stop="20180321170000 -0600" channel="Canal 22">
-    <title lang="es">Cliclac!</title>
-  </programme>
-  <programme start="20180321170000 -0600" stop="20180321180000 -0600" channel="Canal 22">
-    <title lang="es">Pasaporte</title>
-  </programme>
-  <programme start="20180321180000 -0600" stop="20180321190000 -0600" channel="Canal 22">
-    <title lang="es">Perfil Cine</title>
-  </programme>
-  <programme start="20180321190000 -0600" stop="20180321200000 -0600" channel="Canal 22">
-    <title lang="es">Noticias 22</title>
-  </programme>
-  <programme start="20180321200000 -0600" stop="20180321203000 -0600" channel="Canal 22">
+  <programme start="20180320200000 -0600" stop="20180320203000 -0600" channel="Canal 22">
     <title lang="es">Especiales del 22</title>
   </programme>
-  <programme start="20180321203000 -0600" stop="20180321210000 -0600" channel="Canal 22">
+  <programme start="20180320203000 -0600" stop="20180320210000 -0600" channel="Canal 22">
     <title lang="es">La oveja eléctrica</title>
   </programme>
-  <programme start="20180321210000 -0600" stop="20180321220000 -0600" channel="Canal 22">
+  <programme start="20180320210000 -0600" stop="20180320220000 -0600" channel="Canal 22">
     <title lang="es">Cervantes</title>
+  </programme>
+  <programme start="20180320220000 -0600" stop="20180321003000 -0600" channel="Canal 22">
+    <title lang="es">Película</title>
   </programme>
   <programme start="20180321220000 -0600" stop="20180322003000 -0600" channel="Canal 22">
     <title lang="es">Película</title>
   </programme>
-  <programme start="20180322220000 -0600" stop="20180323003000 -0600" channel="Canal 22">
-    <title lang="es">Película</title>
-  </programme>
-  <programme start="20180323003000 -0600" stop="20180323023000 -0600" channel="Canal 22">
+  <programme start="20180322003000 -0600" stop="20180322023000 -0600" channel="Canal 22">
     <title lang="es">Cineteca de oro</title>
   </programme>
-  <programme start="20180323023000 -0600" stop="20180323033000 -0600" channel="Canal 22">
+  <programme start="20180322023000 -0600" stop="20180322033000 -0600" channel="Canal 22">
     <title lang="es">Noticias 22</title>
   </programme>
-  <programme start="20180323033000 -0600" stop="20180323063000 -0600" channel="Canal 22">
+  <programme start="20180322033000 -0600" stop="20180322063000 -0600" channel="Canal 22">
+    <title lang="es">Fuera del aire</title>
+  </programme>
+  <programme start="20180322063000 -0600" stop="20180322080000 -0600" channel="Canal 22">
+    <title lang="es">México al día</title>
+  </programme>
+  <programme start="20180322080000 -0600" stop="20180322090000 -0600" channel="Canal 22">
+    <title lang="es">Cliclac!</title>
+  </programme>
+  <programme start="20180322090000 -0600" stop="20180322100000 -0600" channel="Canal 22">
+    <title lang="es">Pasaporte</title>
+  </programme>
+  <programme start="20180322100000 -0600" stop="20180322103000 -0600" channel="Canal 22">
+    <title lang="es">La ruta del teatro</title>
+  </programme>
+  <programme start="20180322103000 -0600" stop="20180322110000 -0600" channel="Canal 22">
+    <title lang="es">La oveja eléctrica</title>
+  </programme>
+  <programme start="20180322110000 -0600" stop="20180322113000 -0600" channel="Canal 22">
+    <title lang="es">Chiapanecos por el mundo</title>
+  </programme>
+  <programme start="20180322113000 -0600" stop="20180322120000 -0600" channel="Canal 22">
+    <title lang="es">Tierra de magia</title>
+  </programme>
+  <programme start="20180322120000 -0600" stop="20180322140000 -0600" channel="Canal 22">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20180322140000 -0600" stop="20180322170000 -0600" channel="Canal 22">
+    <title lang="es">Cliclac!</title>
+  </programme>
+  <programme start="20180322170000 -0600" stop="20180322180000 -0600" channel="Canal 22">
+    <title lang="es">Pasaporte</title>
+  </programme>
+  <programme start="20180322180000 -0600" stop="20180322190000 -0600" channel="Canal 22">
+    <title lang="es">La Dichosa Palabra</title>
+  </programme>
+  <programme start="20180322190000 -0600" stop="20180322200000 -0600" channel="Canal 22">
+    <title lang="es">Noticias 22</title>
+  </programme>
+  <programme start="20180322200000 -0600" stop="20180322210000 -0600" channel="Canal 22">
+    <title lang="es">Especiales del 22</title>
+  </programme>
+  <programme start="20180322210000 -0600" stop="20180322220000 -0600" channel="Canal 22">
+    <title lang="es">Cervantes</title>
+  </programme>
+  <programme start="20180322220000 -0600" stop="20180323010000 -0600" channel="Canal 22">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20180323010000 -0600" stop="20180323030000 -0600" channel="Canal 22">
+    <title lang="es">Cineteca de oro</title>
+  </programme>
+  <programme start="20180323030000 -0600" stop="20180323040000 -0600" channel="Canal 22">
+    <title lang="es">Noticias 22</title>
+  </programme>
+  <programme start="20180323040000 -0600" stop="20180323063000 -0600" channel="Canal 22">
     <title lang="es">Fuera del aire</title>
   </programme>
   <programme start="20180323063000 -0600" stop="20180323080000 -0600" channel="Canal 22">
@@ -9474,7 +9525,7 @@
     <title lang="es">La ruta del teatro</title>
   </programme>
   <programme start="20180323103000 -0600" stop="20180323110000 -0600" channel="Canal 22">
-    <title lang="es">La oveja eléctrica</title>
+    <title lang="es">NCI noticias</title>
   </programme>
   <programme start="20180323110000 -0600" stop="20180323113000 -0600" channel="Canal 22">
     <title lang="es">Chiapanecos por el mundo</title>
@@ -9482,8 +9533,11 @@
   <programme start="20180323113000 -0600" stop="20180323120000 -0600" channel="Canal 22">
     <title lang="es">Tierra de magia</title>
   </programme>
-  <programme start="20180323120000 -0600" stop="20180323140000 -0600" channel="Canal 22">
+  <programme start="20180323120000 -0600" stop="20180323133000 -0600" channel="Canal 22">
     <title lang="es">Película</title>
+  </programme>
+  <programme start="20180323133000 -0600" stop="20180323140000 -0600" channel="Canal 22">
+    <title lang="es">Pasaporte</title>
   </programme>
   <programme start="20180323140000 -0600" stop="20180323170000 -0600" channel="Canal 22">
     <title lang="es">Cliclac!</title>
@@ -9492,19 +9546,25 @@
     <title lang="es">Pasaporte</title>
   </programme>
   <programme start="20180323180000 -0600" stop="20180323190000 -0600" channel="Canal 22">
-    <title lang="es">La Dichosa Palabra</title>
+    <title lang="es">Perfil Música</title>
   </programme>
   <programme start="20180323190000 -0600" stop="20180323200000 -0600" channel="Canal 22">
     <title lang="es">Noticias 22</title>
   </programme>
-  <programme start="20180323200000 -0600" stop="20180323210000 -0600" channel="Canal 22">
-    <title lang="es">Especiales del 22</title>
+  <programme start="20180323200000 -0600" stop="20180323203000 -0600" channel="Canal 22">
+    <title lang="es">Tesoros del Golfo de California</title>
+  </programme>
+  <programme start="20180323203000 -0600" stop="20180323210000 -0600" channel="Canal 22">
+    <title lang="es">Será Anunciado</title>
   </programme>
   <programme start="20180323210000 -0600" stop="20180323220000 -0600" channel="Canal 22">
     <title lang="es">Cervantes</title>
   </programme>
-  <programme start="20180323220000 -0600" stop="20180324010000 -0600" channel="Canal 22">
-    <title lang="es">Película</title>
+  <programme start="20180323220000 -0600" stop="20180323230000 -0600" channel="Canal 22">
+    <title lang="es">Especiales del 22</title>
+  </programme>
+  <programme start="20180323230000 -0600" stop="20180324010000 -0600" channel="Canal 22">
+    <title lang="es">Cineteca de oro</title>
   </programme>
   <programme start="20180317003000 -0600" stop="20180317021500 -0600" channel="Telefe">
     <title lang="es">Morfi, Todos A La Mesa</title>
@@ -16845,38 +16905,35 @@
   <programme start="20180317223200 -0600" stop="20180318002100 -0600" channel="FOX Life">
     <title lang="es">Closer, llevados por el deseo</title>
   </programme>
-  <programme start="20180318223200 -0600" stop="20180319002100 -0600" channel="FOX Life">
-    <title lang="es">Closer, llevados por el deseo</title>
-  </programme>
-  <programme start="20180319002100 -0600" stop="20180319014800 -0600" channel="FOX Life">
+  <programme start="20180318002100 -0600" stop="20180318014800 -0600" channel="FOX Life">
     <title lang="es">Legalmente Tierna</title>
   </programme>
-  <programme start="20180319014800 -0600" stop="20180319031400 -0600" channel="FOX Life">
+  <programme start="20180318014800 -0600" stop="20180318031400 -0600" channel="FOX Life">
     <title lang="es">Los Michaels</title>
   </programme>
-  <programme start="20180319031400 -0600" stop="20180319040000 -0600" channel="FOX Life">
+  <programme start="20180318031400 -0600" stop="20180318040000 -0600" channel="FOX Life">
     <title lang="es">Bones</title>
     <sub-title lang="es">La sal en las heridas</sub-title>
   </programme>
-  <programme start="20180319040000 -0600" stop="20180319043000 -0600" channel="FOX Life">
+  <programme start="20180318040000 -0600" stop="20180318043000 -0600" channel="FOX Life">
     <title lang="es">Paid Programming</title>
   </programme>
-  <programme start="20180319043000 -0600" stop="20180319050000 -0600" channel="FOX Life">
+  <programme start="20180318043000 -0600" stop="20180318050000 -0600" channel="FOX Life">
     <title lang="es">Paid Programming</title>
   </programme>
-  <programme start="20180319050000 -0600" stop="20180319053000 -0600" channel="FOX Life">
+  <programme start="20180318050000 -0600" stop="20180318053000 -0600" channel="FOX Life">
     <title lang="es">Paid Programming</title>
   </programme>
-  <programme start="20180319053000 -0600" stop="20180319060000 -0600" channel="FOX Life">
+  <programme start="20180318053000 -0600" stop="20180318060000 -0600" channel="FOX Life">
     <title lang="es">Paid Programming</title>
   </programme>
-  <programme start="20180319060000 -0600" stop="20180319062900 -0600" channel="FOX Life">
+  <programme start="20180318060000 -0600" stop="20180318062900 -0600" channel="FOX Life">
     <title lang="es">Paid Programming</title>
   </programme>
-  <programme start="20180319062900 -0600" stop="20180319070000 -0600" channel="FOX Life">
+  <programme start="20180318062900 -0600" stop="20180318070000 -0600" channel="FOX Life">
     <title lang="es">Paid Programming</title>
   </programme>
-  <programme start="20180319070000 -0600" stop="20180319072700 -0600" channel="FOX Life">
+  <programme start="20180318070000 -0600" stop="20180318072700 -0600" channel="FOX Life">
     <title lang="es">Modern Family</title>
     <title lang="xx">Modern Family</title>
     <sub-title lang="es">Hazlo tú mismo</sub-title>
@@ -16905,7 +16962,7 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20180319072700 -0600" stop="20180319075500 -0600" channel="FOX Life">
+  <programme start="20180318072700 -0600" stop="20180318075500 -0600" channel="FOX Life">
     <title lang="es">Modern Family</title>
     <title lang="xx">Modern Family</title>
     <sub-title lang="es">Difícil ser el jefe</sub-title>
@@ -16934,7 +16991,7 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20180319075500 -0600" stop="20180319082200 -0600" channel="FOX Life">
+  <programme start="20180318075500 -0600" stop="20180318082200 -0600" channel="FOX Life">
     <title lang="es">Modern Family</title>
     <title lang="xx">Modern Family</title>
     <sub-title lang="es">Buscando a Fizbo</sub-title>
@@ -16963,7 +17020,7 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20180319082200 -0600" stop="20180319085300 -0600" channel="FOX Life">
+  <programme start="20180318082200 -0600" stop="20180318085300 -0600" channel="FOX Life">
     <title lang="es">Modern Family</title>
     <title lang="xx">Modern Family</title>
     <sub-title lang="es">Basketball</sub-title>
@@ -16992,13 +17049,13 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20180319085300 -0600" stop="20180319103800 -0600" channel="FOX Life">
+  <programme start="20180318085300 -0600" stop="20180318103800 -0600" channel="FOX Life">
     <title lang="es">Legalmente Tierna</title>
   </programme>
-  <programme start="20180319103800 -0600" stop="20180319124600 -0600" channel="FOX Life">
+  <programme start="20180318103800 -0600" stop="20180318124600 -0600" channel="FOX Life">
     <title lang="es">Hechizada</title>
   </programme>
-  <programme start="20180319124600 -0600" stop="20180319135400 -0600" channel="FOX Life">
+  <programme start="20180318124600 -0600" stop="20180318135400 -0600" channel="FOX Life">
     <title lang="es">Private Eyes</title>
     <title lang="xx">Private Eyes</title>
     <sub-title lang="es">Ahora la ves</sub-title>
@@ -17014,7 +17071,7 @@
     <category lang="es">Serie</category>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/private_eyes.jpg" />
   </programme>
-  <programme start="20180319135400 -0600" stop="20180319145500 -0600" channel="FOX Life">
+  <programme start="20180318135400 -0600" stop="20180318145500 -0600" channel="FOX Life">
     <title lang="es">Private Eyes</title>
     <title lang="xx">Private Eyes</title>
     <sub-title lang="es">Código investigativo</sub-title>
@@ -17030,25 +17087,25 @@
     <category lang="es">Serie</category>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/private_eyes.jpg" />
   </programme>
-  <programme start="20180319145500 -0600" stop="20180319165000 -0600" channel="FOX Life">
+  <programme start="20180318145500 -0600" stop="20180318165000 -0600" channel="FOX Life">
     <title lang="es">Unos Vaqueros Tontos</title>
   </programme>
-  <programme start="20180319165000 -0600" stop="20180319190000 -0600" channel="FOX Life">
+  <programme start="20180318165000 -0600" stop="20180318190000 -0600" channel="FOX Life">
     <title lang="es">Amigos con derechos</title>
   </programme>
-  <programme start="20180319190000 -0600" stop="20180319205000 -0600" channel="FOX Life">
+  <programme start="20180318190000 -0600" stop="20180318205000 -0600" channel="FOX Life">
     <title lang="es">Fuerzas de la naturaleza</title>
   </programme>
-  <programme start="20180319205000 -0600" stop="20180319231500 -0600" channel="FOX Life">
+  <programme start="20180318205000 -0600" stop="20180318231500 -0600" channel="FOX Life">
     <title lang="es">La Mexicana</title>
   </programme>
-  <programme start="20180319231500 -0600" stop="20180320011200 -0600" channel="FOX Life">
+  <programme start="20180318231500 -0600" stop="20180319011200 -0600" channel="FOX Life">
     <title lang="es">La sonrisa de Mona Lisa</title>
   </programme>
-  <programme start="20180320011200 -0600" stop="20180320033500 -0600" channel="FOX Life">
+  <programme start="20180319011200 -0600" stop="20180319033500 -0600" channel="FOX Life">
     <title lang="es">El talentoso sr. Ripley</title>
   </programme>
-  <programme start="20180320033500 -0600" stop="20180320040000 -0600" channel="FOX Life">
+  <programme start="20180319033500 -0600" stop="20180319040000 -0600" channel="FOX Life">
     <title lang="es">Modern Family</title>
     <title lang="xx">Modern Family</title>
     <sub-title lang="es">Hazlo tú mismo</sub-title>
@@ -17077,29 +17134,29 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20180320040000 -0600" stop="20180320043000 -0600" channel="FOX Life">
+  <programme start="20180319040000 -0600" stop="20180319043000 -0600" channel="FOX Life">
     <title lang="es">Paid Programming</title>
   </programme>
-  <programme start="20180320043000 -0600" stop="20180320050000 -0600" channel="FOX Life">
+  <programme start="20180319043000 -0600" stop="20180319050000 -0600" channel="FOX Life">
     <title lang="es">Paid Programming</title>
   </programme>
-  <programme start="20180320050000 -0600" stop="20180320053000 -0600" channel="FOX Life">
+  <programme start="20180319050000 -0600" stop="20180319053000 -0600" channel="FOX Life">
     <title lang="es">Paid Programming</title>
   </programme>
-  <programme start="20180320053000 -0600" stop="20180320060000 -0600" channel="FOX Life">
+  <programme start="20180319053000 -0600" stop="20180319060000 -0600" channel="FOX Life">
     <title lang="es">Paid Programming</title>
   </programme>
-  <programme start="20180320060000 -0600" stop="20180320063000 -0600" channel="FOX Life">
+  <programme start="20180319060000 -0600" stop="20180319063000 -0600" channel="FOX Life">
     <title lang="es">Paid Programming</title>
   </programme>
-  <programme start="20180320063000 -0600" stop="20180320070000 -0600" channel="FOX Life">
+  <programme start="20180319063000 -0600" stop="20180319070000 -0600" channel="FOX Life">
     <title lang="es">Paid Programming</title>
   </programme>
-  <programme start="20180320070000 -0600" stop="20180320075700 -0600" channel="FOX Life">
+  <programme start="20180319070000 -0600" stop="20180319075700 -0600" channel="FOX Life">
     <title lang="es">Bones</title>
     <sub-title lang="es">Harbingers in a Fountain</sub-title>
   </programme>
-  <programme start="20180320075700 -0600" stop="20180320083000 -0600" channel="FOX Life">
+  <programme start="20180319075700 -0600" stop="20180319083000 -0600" channel="FOX Life">
     <title lang="es">Modern Family</title>
     <title lang="xx">Modern Family</title>
     <sub-title lang="es">Basketball</sub-title>
@@ -17128,22 +17185,22 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20180320083000 -0600" stop="20180320105700 -0600" channel="FOX Life">
+  <programme start="20180319083000 -0600" stop="20180319105700 -0600" channel="FOX Life">
     <title lang="es">La Mexicana</title>
   </programme>
-  <programme start="20180320105700 -0600" stop="20180320115500 -0600" channel="FOX Life">
+  <programme start="20180319105700 -0600" stop="20180319115500 -0600" channel="FOX Life">
     <title lang="es">Rosewood</title>
     <sub-title lang="es">Tórax, trombosis y tríos</sub-title>
   </programme>
-  <programme start="20180320115500 -0600" stop="20180320125500 -0600" channel="FOX Life">
+  <programme start="20180319115500 -0600" stop="20180319125500 -0600" channel="FOX Life">
     <title lang="es">Bones</title>
     <sub-title lang="es">Harbingers in a Fountain</sub-title>
   </programme>
-  <programme start="20180320125500 -0600" stop="20180320134700 -0600" channel="FOX Life">
+  <programme start="20180319125500 -0600" stop="20180319134700 -0600" channel="FOX Life">
     <title lang="es">La Hermandad</title>
     <sub-title lang="es">Cabo suelto</sub-title>
   </programme>
-  <programme start="20180320134700 -0600" stop="20180320141500 -0600" channel="FOX Life">
+  <programme start="20180319134700 -0600" stop="20180319141500 -0600" channel="FOX Life">
     <title lang="es">Modern Family</title>
     <title lang="xx">Modern Family</title>
     <sub-title lang="es">El fin de la mentira del cerdo</sub-title>
@@ -17172,73 +17229,73 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20180320141500 -0600" stop="20180320161500 -0600" channel="FOX Life">
+  <programme start="20180319141500 -0600" stop="20180319161500 -0600" channel="FOX Life">
     <title lang="es">Como agua para chocolate</title>
   </programme>
-  <programme start="20180320161500 -0600" stop="20180320171000 -0600" channel="FOX Life">
+  <programme start="20180319161500 -0600" stop="20180319171000 -0600" channel="FOX Life">
     <title lang="es">Rosewood</title>
     <sub-title lang="es">Muerte súbita y sombras</sub-title>
   </programme>
-  <programme start="20180320171000 -0600" stop="20180320180000 -0600" channel="FOX Life">
+  <programme start="20180319171000 -0600" stop="20180319180000 -0600" channel="FOX Life">
     <title lang="es">Bones</title>
     <sub-title lang="es">The Bond in the Boot</sub-title>
   </programme>
-  <programme start="20180320180000 -0600" stop="20180320190000 -0600" channel="FOX Life">
+  <programme start="20180319180000 -0600" stop="20180319190000 -0600" channel="FOX Life">
     <title lang="es">La Hermandad</title>
     <sub-title lang="es">Cambio de planes</sub-title>
   </programme>
-  <programme start="20180320190000 -0600" stop="20180320203700 -0600" channel="FOX Life">
+  <programme start="20180319190000 -0600" stop="20180319203700 -0600" channel="FOX Life">
     <title lang="es">El secuestro de Jocelyn</title>
   </programme>
-  <programme start="20180320203700 -0600" stop="20180320222000 -0600" channel="FOX Life">
+  <programme start="20180319203700 -0600" stop="20180319222000 -0600" channel="FOX Life">
     <title lang="es">Novata Mortal</title>
   </programme>
-  <programme start="20180320222000 -0600" stop="20180320231400 -0600" channel="FOX Life">
+  <programme start="20180319222000 -0600" stop="20180319231400 -0600" channel="FOX Life">
     <title lang="es">Bones</title>
     <sub-title lang="es">The Bond in the Boot</sub-title>
   </programme>
-  <programme start="20180320231400 -0600" stop="20180321000000 -0600" channel="FOX Life">
+  <programme start="20180319231400 -0600" stop="20180320000000 -0600" channel="FOX Life">
     <title lang="es">Rosewood</title>
     <sub-title lang="es">Muerte súbita y sombras</sub-title>
   </programme>
-  <programme start="20180321000000 -0600" stop="20180321013700 -0600" channel="FOX Life">
+  <programme start="20180320000000 -0600" stop="20180320013700 -0600" channel="FOX Life">
     <title lang="es">El Abuso</title>
   </programme>
-  <programme start="20180321013700 -0600" stop="20180321022500 -0600" channel="FOX Life">
+  <programme start="20180320013700 -0600" stop="20180320022500 -0600" channel="FOX Life">
     <title lang="es">Chasing Life</title>
     <sub-title lang="es">Primera Persona</sub-title>
   </programme>
-  <programme start="20180321022500 -0600" stop="20180321031300 -0600" channel="FOX Life">
+  <programme start="20180320022500 -0600" stop="20180320031300 -0600" channel="FOX Life">
     <title lang="es">Cumbia Ninja</title>
     <sub-title lang="es">Verdades que mejor no</sub-title>
   </programme>
-  <programme start="20180321031300 -0600" stop="20180321040000 -0600" channel="FOX Life">
+  <programme start="20180320031300 -0600" stop="20180320040000 -0600" channel="FOX Life">
     <title lang="es">Bones</title>
     <sub-title lang="es">La ciencia del físico</sub-title>
   </programme>
-  <programme start="20180321040000 -0600" stop="20180321043000 -0600" channel="FOX Life">
+  <programme start="20180320040000 -0600" stop="20180320043000 -0600" channel="FOX Life">
     <title lang="es">Paid Programming</title>
   </programme>
-  <programme start="20180321043000 -0600" stop="20180321050000 -0600" channel="FOX Life">
+  <programme start="20180320043000 -0600" stop="20180320050000 -0600" channel="FOX Life">
     <title lang="es">Paid Programming</title>
   </programme>
-  <programme start="20180321050000 -0600" stop="20180321053000 -0600" channel="FOX Life">
+  <programme start="20180320050000 -0600" stop="20180320053000 -0600" channel="FOX Life">
     <title lang="es">Paid Programming</title>
   </programme>
-  <programme start="20180321053000 -0600" stop="20180321060000 -0600" channel="FOX Life">
+  <programme start="20180320053000 -0600" stop="20180320060000 -0600" channel="FOX Life">
     <title lang="es">Paid Programming</title>
   </programme>
-  <programme start="20180321060000 -0600" stop="20180321063000 -0600" channel="FOX Life">
+  <programme start="20180320060000 -0600" stop="20180320063000 -0600" channel="FOX Life">
     <title lang="es">Paid Programming</title>
   </programme>
-  <programme start="20180321063000 -0600" stop="20180321070000 -0600" channel="FOX Life">
+  <programme start="20180320063000 -0600" stop="20180320070000 -0600" channel="FOX Life">
     <title lang="es">Paid Programming</title>
   </programme>
-  <programme start="20180321070000 -0600" stop="20180321075500 -0600" channel="FOX Life">
+  <programme start="20180320070000 -0600" stop="20180320075500 -0600" channel="FOX Life">
     <title lang="es">Bones</title>
     <sub-title lang="es">The Bond in the Boot</sub-title>
   </programme>
-  <programme start="20180321075500 -0600" stop="20180321081800 -0600" channel="FOX Life">
+  <programme start="20180320075500 -0600" stop="20180320081800 -0600" channel="FOX Life">
     <title lang="es">Modern Family</title>
     <title lang="xx">Modern Family</title>
     <sub-title lang="es">Jamboree de Acción de Gracias</sub-title>
@@ -17267,7 +17324,7 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20180321081800 -0600" stop="20180321084700 -0600" channel="FOX Life">
+  <programme start="20180320081800 -0600" stop="20180320084700 -0600" channel="FOX Life">
     <title lang="es">Modern Family</title>
     <title lang="xx">Modern Family</title>
     <sub-title lang="es">La alianza</sub-title>
@@ -17296,7 +17353,7 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20180321084700 -0600" stop="20180321090500 -0600" channel="FOX Life">
+  <programme start="20180320084700 -0600" stop="20180320090500 -0600" channel="FOX Life">
     <title lang="es">Modern Family</title>
     <title lang="xx">Modern Family</title>
     <sub-title lang="es">El fin de la mentira del cerdo</sub-title>
@@ -17325,18 +17382,18 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20180321090500 -0600" stop="20180321111200 -0600" channel="FOX Life">
+  <programme start="20180320090500 -0600" stop="20180320111200 -0600" channel="FOX Life">
     <title lang="es">Cambio de Vida</title>
   </programme>
-  <programme start="20180321111200 -0600" stop="20180321120200 -0600" channel="FOX Life">
+  <programme start="20180320111200 -0600" stop="20180320120200 -0600" channel="FOX Life">
     <title lang="es">Rosewood</title>
     <sub-title lang="es">Muerte súbita y sombras</sub-title>
   </programme>
-  <programme start="20180321120200 -0600" stop="20180321125200 -0600" channel="FOX Life">
+  <programme start="20180320120200 -0600" stop="20180320125200 -0600" channel="FOX Life">
     <title lang="es">Bones</title>
     <sub-title lang="es">The Bond in the Boot</sub-title>
   </programme>
-  <programme start="20180321125200 -0600" stop="20180321131700 -0600" channel="FOX Life">
+  <programme start="20180320125200 -0600" stop="20180320131700 -0600" channel="FOX Life">
     <title lang="es">Modern Family</title>
     <title lang="xx">Modern Family</title>
     <sub-title lang="es">Jamboree de Acción de Gracias</sub-title>
@@ -17365,7 +17422,7 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20180321131700 -0600" stop="20180321134200 -0600" channel="FOX Life">
+  <programme start="20180320131700 -0600" stop="20180320134200 -0600" channel="FOX Life">
     <title lang="es">Modern Family</title>
     <title lang="xx">Modern Family</title>
     <sub-title lang="es">La alianza</sub-title>
@@ -17394,7 +17451,7 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20180321134200 -0600" stop="20180321140500 -0600" channel="FOX Life">
+  <programme start="20180320134200 -0600" stop="20180320140500 -0600" channel="FOX Life">
     <title lang="es">Modern Family</title>
     <title lang="xx">Modern Family</title>
     <sub-title lang="es">Cinco minutos</sub-title>
@@ -17423,14 +17480,14 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20180321140500 -0600" stop="20180321161500 -0600" channel="FOX Life">
+  <programme start="20180320140500 -0600" stop="20180320161500 -0600" channel="FOX Life">
     <title lang="es">Definitivamente, Quizás</title>
   </programme>
-  <programme start="20180321161500 -0600" stop="20180321171000 -0600" channel="FOX Life">
+  <programme start="20180320161500 -0600" stop="20180320171000 -0600" channel="FOX Life">
     <title lang="es">Rosewood</title>
     <sub-title lang="es">Queratina y beso para la foto</sub-title>
   </programme>
-  <programme start="20180321171000 -0600" stop="20180321180000 -0600" channel="FOX Life">
+  <programme start="20180320171000 -0600" stop="20180320180000 -0600" channel="FOX Life">
     <title lang="es">Bones</title>
     <sub-title lang="es">The Plain in the Prodigy</sub-title>
   </programme>
@@ -21099,31 +21156,28 @@
   <programme start="20180317222500 -0600" stop="20180318004500 -0600" channel="Fox Action">
     <title lang="es">X-Men: Apocalipsis</title>
   </programme>
-  <programme start="20180318222500 -0600" stop="20180319004500 -0600" channel="Fox Action">
-    <title lang="es">X-Men: Apocalipsis</title>
-  </programme>
-  <programme start="20180319004500 -0600" stop="20180319023500 -0600" channel="Fox Action">
+  <programme start="20180318004500 -0600" stop="20180318023500 -0600" channel="Fox Action">
     <title lang="es">5 días de guerra</title>
   </programme>
-  <programme start="20180319023500 -0600" stop="20180319041000 -0600" channel="Fox Action">
+  <programme start="20180318023500 -0600" stop="20180318041000 -0600" channel="Fox Action">
     <title lang="es">Muy duro de matar</title>
   </programme>
-  <programme start="20180319041000 -0600" stop="20180319055000 -0600" channel="Fox Action">
+  <programme start="20180318041000 -0600" stop="20180318055000 -0600" channel="Fox Action">
     <title lang="es">El infiltrado</title>
   </programme>
-  <programme start="20180319055000 -0600" stop="20180319073500 -0600" channel="Fox Action">
+  <programme start="20180318055000 -0600" stop="20180318073500 -0600" channel="Fox Action">
     <title lang="es">El rey Escorpión 3</title>
   </programme>
-  <programme start="20180319073500 -0600" stop="20180319093500 -0600" channel="Fox Action">
+  <programme start="20180318073500 -0600" stop="20180318093500 -0600" channel="Fox Action">
     <title lang="es">Indiana Jones y el reino</title>
   </programme>
-  <programme start="20180319093500 -0600" stop="20180319113500 -0600" channel="Fox Action">
+  <programme start="20180318093500 -0600" stop="20180318113500 -0600" channel="Fox Action">
     <title lang="es">Riddick</title>
   </programme>
-  <programme start="20180319113500 -0600" stop="20180319130500 -0600" channel="Fox Action">
+  <programme start="20180318113500 -0600" stop="20180318130500 -0600" channel="Fox Action">
     <title lang="es">Momentum</title>
   </programme>
-  <programme start="20180319130500 -0600" stop="20180319145000 -0600" channel="Fox Action">
+  <programme start="20180318130500 -0600" stop="20180318145000 -0600" channel="Fox Action">
     <title lang="es">X-Men Orígenes: Wolverine</title>
     <title lang="xx">X-Men Origins: Wolverine</title>
     <desc lang="es">El misterioso origen de Wolverine, este descubre un pasado caótico y la creación abominable de un arma X que desata su furia con los mutantes cerca de él(n)</desc>
@@ -21153,13 +21207,13 @@
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20180319145000 -0600" stop="20180319171000 -0600" channel="Fox Action">
+  <programme start="20180318145000 -0600" stop="20180318171000 -0600" channel="Fox Action">
     <title lang="es">X-Men: Apocalipsis</title>
   </programme>
-  <programme start="20180319171000 -0600" stop="20180319190000 -0600" channel="Fox Action">
+  <programme start="20180318171000 -0600" stop="20180318190000 -0600" channel="Fox Action">
     <title lang="es">Las Tortugas Ninja 2</title>
   </programme>
-  <programme start="20180319190000 -0600" stop="20180319204500 -0600" channel="Fox Action">
+  <programme start="20180318190000 -0600" stop="20180318204500 -0600" channel="Fox Action">
     <title lang="es">Assassin's Creed</title>
     <title lang="xx">Assassin's Creed: The Movie</title>
     <desc lang="es">Un hombre condenado a muerte que al ser ejecutado este despierta obtiene los recuerdos de una sociedad secreta de asesinos(n)</desc>
@@ -21192,16 +21246,16 @@
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20180319204500 -0600" stop="20180319224000 -0600" channel="Fox Action">
+  <programme start="20180318204500 -0600" stop="20180318224000 -0600" channel="Fox Action">
     <title lang="es">Jack Reacher: Never Go Back</title>
+  </programme>
+  <programme start="20180318224000 -0600" stop="20180319001500 -0600" channel="Fox Action">
+    <title lang="es">Dulce venganza</title>
   </programme>
   <programme start="20180319224000 -0600" stop="20180320001500 -0600" channel="Fox Action">
     <title lang="es">Dulce venganza</title>
   </programme>
-  <programme start="20180320224000 -0600" stop="20180321001500 -0600" channel="Fox Action">
-    <title lang="es">Dulce venganza</title>
-  </programme>
-  <programme start="20180321001500 -0600" stop="20180321014500 -0600" channel="Fox Action">
+  <programme start="20180320001500 -0600" stop="20180320014500 -0600" channel="Fox Action">
     <title lang="es">Apuesta Máxima</title>
     <title lang="xx">Runner Runner</title>
     <desc lang="es">Cuando un estudiante universitario que juega póker en un sitio en internet es estafado, se las arreglar para encontrarse frente a frente con el hombre que cree lo estafó(n)</desc>
@@ -21226,37 +21280,37 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20180321014500 -0600" stop="20180321033500 -0600" channel="Fox Action">
+  <programme start="20180320014500 -0600" stop="20180320033500 -0600" channel="Fox Action">
     <title lang="es">Cold War 2</title>
   </programme>
-  <programme start="20180321033500 -0600" stop="20180321052500 -0600" channel="Fox Action">
+  <programme start="20180320033500 -0600" stop="20180320052500 -0600" channel="Fox Action">
     <title lang="es">Carreras clandestinas</title>
   </programme>
-  <programme start="20180321052500 -0600" stop="20180321070000 -0600" channel="Fox Action">
+  <programme start="20180320052500 -0600" stop="20180320070000 -0600" channel="Fox Action">
     <title lang="es">Isolation</title>
   </programme>
-  <programme start="20180321070000 -0600" stop="20180321085500 -0600" channel="Fox Action">
+  <programme start="20180320070000 -0600" stop="20180320085500 -0600" channel="Fox Action">
     <title lang="es">Ni una Palabra</title>
   </programme>
-  <programme start="20180321085500 -0600" stop="20180321102000 -0600" channel="Fox Action">
+  <programme start="20180320085500 -0600" stop="20180320102000 -0600" channel="Fox Action">
     <title lang="es">El Arma perfecta</title>
   </programme>
-  <programme start="20180321102000 -0600" stop="20180321115500 -0600" channel="Fox Action">
+  <programme start="20180320102000 -0600" stop="20180320115500 -0600" channel="Fox Action">
     <title lang="es">D-tox</title>
   </programme>
-  <programme start="20180321115500 -0600" stop="20180321133000 -0600" channel="Fox Action">
+  <programme start="20180320115500 -0600" stop="20180320133000 -0600" channel="Fox Action">
     <title lang="es">Beyond the call to duty</title>
   </programme>
-  <programme start="20180321133000 -0600" stop="20180321150500 -0600" channel="Fox Action">
+  <programme start="20180320133000 -0600" stop="20180320150500 -0600" channel="Fox Action">
     <title lang="es">Dulce venganza</title>
   </programme>
-  <programme start="20180321150500 -0600" stop="20180321171000 -0600" channel="Fox Action">
+  <programme start="20180320150500 -0600" stop="20180320171000 -0600" channel="Fox Action">
     <title lang="es">USS Indianapolis</title>
   </programme>
-  <programme start="20180321171000 -0600" stop="20180321190000 -0600" channel="Fox Action">
+  <programme start="20180320171000 -0600" stop="20180320190000 -0600" channel="Fox Action">
     <title lang="es">La legión del águila</title>
   </programme>
-  <programme start="20180321190000 -0600" stop="20180321204000 -0600" channel="Fox Action">
+  <programme start="20180320190000 -0600" stop="20180320204000 -0600" channel="Fox Action">
     <title lang="es">La Llamada 3</title>
     <title lang="xx">Rings</title>
     <desc lang="es">Una joven mujer se encuentra al extremo de una maldición que amenaza con matarla en 7 días, ella hará lo imposible para evitar que esa maldición se cumpla(n)</desc>
@@ -21288,7 +21342,7 @@
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20180321204000 -0600" stop="20180321222000 -0600" channel="Fox Action">
+  <programme start="20180320204000 -0600" stop="20180320222000 -0600" channel="Fox Action">
     <title lang="es">XXX: Reactivado</title>
     <title lang="xx">xXx: Return of Xander Cage</title>
     <desc lang="es">Xander Cage es dado por muerto luego de un aparatoso accidente, sin embargo, aparece nuevamente en una nueva misión(n)</desc>
@@ -21320,10 +21374,10 @@
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20180321222000 -0600" stop="20180322003500 -0600" channel="Fox Action">
+  <programme start="20180320222000 -0600" stop="20180321003500 -0600" channel="Fox Action">
     <title lang="es">Miami Vice</title>
   </programme>
-  <programme start="20180322003500 -0600" stop="20180322022000 -0600" channel="Fox Action">
+  <programme start="20180321003500 -0600" stop="20180321022000 -0600" channel="Fox Action">
     <title lang="es">X-Men Orígenes: Wolverine</title>
     <title lang="xx">X-Men Origins: Wolverine</title>
     <desc lang="es">El misterioso origen de Wolverine, este descubre un pasado caótico y la creación abominable de un arma X que desata su furia con los mutantes cerca de él(n)</desc>
@@ -21353,76 +21407,76 @@
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20180322022000 -0600" stop="20180322042000 -0600" channel="Fox Action">
+  <programme start="20180321022000 -0600" stop="20180321042000 -0600" channel="Fox Action">
     <title lang="es">Riddick</title>
   </programme>
-  <programme start="20180322042000 -0600" stop="20180322061000 -0600" channel="Fox Action">
+  <programme start="20180321042000 -0600" stop="20180321061000 -0600" channel="Fox Action">
     <title lang="es">Fuerza delta 2</title>
   </programme>
-  <programme start="20180322061000 -0600" stop="20180322073500 -0600" channel="Fox Action">
+  <programme start="20180321061000 -0600" stop="20180321073500 -0600" channel="Fox Action">
     <title lang="es">Vanished</title>
   </programme>
-  <programme start="20180322073500 -0600" stop="20180322091000 -0600" channel="Fox Action">
+  <programme start="20180321073500 -0600" stop="20180321091000 -0600" channel="Fox Action">
     <title lang="es">El otro lado de la puerta</title>
   </programme>
-  <programme start="20180322091000 -0600" stop="20180322105000 -0600" channel="Fox Action">
+  <programme start="20180321091000 -0600" stop="20180321105000 -0600" channel="Fox Action">
     <title lang="es">Open Grave</title>
   </programme>
-  <programme start="20180322105000 -0600" stop="20180322122500 -0600" channel="Fox Action">
+  <programme start="20180321105000 -0600" stop="20180321122500 -0600" channel="Fox Action">
     <title lang="es">Andron</title>
   </programme>
-  <programme start="20180322122500 -0600" stop="20180322141000 -0600" channel="Fox Action">
+  <programme start="20180321122500 -0600" stop="20180321141000 -0600" channel="Fox Action">
     <title lang="es">Calle Cloverfield 10</title>
   </programme>
-  <programme start="20180322141000 -0600" stop="20180322155500 -0600" channel="Fox Action">
+  <programme start="20180321141000 -0600" stop="20180321155500 -0600" channel="Fox Action">
     <title lang="es">Escupiré sobre tu tumba</title>
   </programme>
-  <programme start="20180322155500 -0600" stop="20180322173000 -0600" channel="Fox Action">
+  <programme start="20180321155500 -0600" stop="20180321173000 -0600" channel="Fox Action">
     <title lang="es">Justicia Ciega</title>
   </programme>
-  <programme start="20180322173000 -0600" stop="20180322190000 -0600" channel="Fox Action">
+  <programme start="20180321173000 -0600" stop="20180321190000 -0600" channel="Fox Action">
     <title lang="es">El infiltrado</title>
   </programme>
-  <programme start="20180322190000 -0600" stop="20180322205000 -0600" channel="Fox Action">
+  <programme start="20180321190000 -0600" stop="20180321205000 -0600" channel="Fox Action">
     <title lang="es">Cold War 2</title>
   </programme>
-  <programme start="20180322205000 -0600" stop="20180322223500 -0600" channel="Fox Action">
+  <programme start="20180321205000 -0600" stop="20180321223500 -0600" channel="Fox Action">
     <title lang="es">5 días de guerra</title>
   </programme>
-  <programme start="20180322223500 -0600" stop="20180323001500 -0600" channel="Fox Action">
+  <programme start="20180321223500 -0600" stop="20180322001500 -0600" channel="Fox Action">
     <title lang="es">Cazador de demonios: Solomon</title>
   </programme>
-  <programme start="20180323001500 -0600" stop="20180323014500 -0600" channel="Fox Action">
+  <programme start="20180322001500 -0600" stop="20180322014500 -0600" channel="Fox Action">
     <title lang="es">Countdown</title>
   </programme>
-  <programme start="20180323014500 -0600" stop="20180323033000 -0600" channel="Fox Action">
+  <programme start="20180322014500 -0600" stop="20180322033000 -0600" channel="Fox Action">
     <title lang="es">Escupiré sobre tu tumba</title>
   </programme>
-  <programme start="20180323033000 -0600" stop="20180323050500 -0600" channel="Fox Action">
+  <programme start="20180322033000 -0600" stop="20180322050500 -0600" channel="Fox Action">
     <title lang="es">El otro lado de la puerta</title>
   </programme>
-  <programme start="20180323050500 -0600" stop="20180323064500 -0600" channel="Fox Action">
+  <programme start="20180322050500 -0600" stop="20180322064500 -0600" channel="Fox Action">
     <title lang="es">Born to Race: Fast Track</title>
   </programme>
-  <programme start="20180323064500 -0600" stop="20180323083500 -0600" channel="Fox Action">
+  <programme start="20180322064500 -0600" stop="20180322083500 -0600" channel="Fox Action">
     <title lang="es">Carreras clandestinas</title>
   </programme>
-  <programme start="20180323083500 -0600" stop="20180323102000 -0600" channel="Fox Action">
+  <programme start="20180322083500 -0600" stop="20180322102000 -0600" channel="Fox Action">
     <title lang="es">El cielo peligroso</title>
   </programme>
-  <programme start="20180323102000 -0600" stop="20180323123500 -0600" channel="Fox Action">
+  <programme start="20180322102000 -0600" stop="20180322123500 -0600" channel="Fox Action">
     <title lang="es">La isla siniestra</title>
   </programme>
-  <programme start="20180323123500 -0600" stop="20180323140000 -0600" channel="Fox Action">
+  <programme start="20180322123500 -0600" stop="20180322140000 -0600" channel="Fox Action">
     <title lang="es">Countdown</title>
   </programme>
-  <programme start="20180323140000 -0600" stop="20180323165500 -0600" channel="Fox Action">
+  <programme start="20180322140000 -0600" stop="20180322165500 -0600" channel="Fox Action">
     <title lang="es">Corazón Valiente</title>
   </programme>
-  <programme start="20180323165500 -0600" stop="20180323190000 -0600" channel="Fox Action">
+  <programme start="20180322165500 -0600" stop="20180322190000 -0600" channel="Fox Action">
     <title lang="es">USS Indianapolis</title>
   </programme>
-  <programme start="20180323190000 -0600" stop="20180323205500 -0600" channel="Fox Action">
+  <programme start="20180322190000 -0600" stop="20180322205500 -0600" channel="Fox Action">
     <title lang="es">El Día Después de Mañana</title>
     <desc lang="es">Jack Hall, un experto en el clima deberá atravesar el país para llegar a su hijo, atrapado en una tormenta repentina que cambiará por completo la tierra(n)</desc>
     <credits>
@@ -21446,7 +21500,7 @@
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20180323205500 -0600" stop="20180323224000 -0600" channel="Fox Action">
+  <programme start="20180322205500 -0600" stop="20180322224000 -0600" channel="Fox Action">
     <title lang="es">Assassin's Creed</title>
     <title lang="xx">Assassin's Creed: The Movie</title>
     <desc lang="es">Un hombre condenado a muerte que al ser ejecutado este despierta obtiene los recuerdos de una sociedad secreta de asesinos(n)</desc>
@@ -21477,6 +21531,31 @@
     <country>España</country>
     <rating>
       <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20180322224000 -0600" stop="20180323001000 -0600" channel="Fox Action">
+    <title lang="es">Apuesta Máxima</title>
+    <title lang="xx">Runner Runner</title>
+    <desc lang="es">Cuando un estudiante universitario que juega póker en un sitio en internet es estafado, se las arreglar para encontrarse frente a frente con el hombre que cree lo estafó(n)</desc>
+    <credits>
+      <actor>Justin Timberlake</actor>
+      <actor>Gemma Arterton</actor>
+      <actor>Ben Affleck</actor>
+      <producer>Arnon Milchan</producer>
+      <producer>Jennifer Davisson Killoran</producer>
+      <producer>Leonardo DiCaprio</producer>
+      <producer>Michael Shamberg</producer>
+      <producer>Stacey Sher</producer>
+      <producer>Brian Koppelman</producer>
+      <producer>David Levien</producer>
+      <composer>Christophe Beck</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Crimen</category>
+    <category lang="es">Suspenso</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/apuesta_maxima.jpg" />
+    <rating>
+      <value>R</value>
     </rating>
   </programme>
   <programme start="20180323224000 -0600" stop="20180324001000 -0600" channel="Fox Action">
@@ -21963,25 +22042,22 @@
   <programme start="20180317220000 -0600" stop="20180318000100 -0600" channel="Golden Edge">
     <title lang="es">Solace</title>
   </programme>
-  <programme start="20180318220000 -0600" stop="20180319000100 -0600" channel="Golden Edge">
-    <title lang="es">Solace</title>
-  </programme>
-  <programme start="20180319000100 -0600" stop="20180319013000 -0600" channel="Golden Edge">
+  <programme start="20180318000100 -0600" stop="20180318013000 -0600" channel="Golden Edge">
     <title lang="es">La hija de Lady Chatterly</title>
   </programme>
-  <programme start="20180319013000 -0600" stop="20180319030000 -0600" channel="Golden Edge">
+  <programme start="20180318013000 -0600" stop="20180318030000 -0600" channel="Golden Edge">
     <title lang="es">Soldado Universal: el regreso</title>
   </programme>
-  <programme start="20180319030000 -0600" stop="20180319043400 -0600" channel="Golden Edge">
+  <programme start="20180318030000 -0600" stop="20180318043400 -0600" channel="Golden Edge">
     <title lang="es">Solos en la oscuridad</title>
   </programme>
-  <programme start="20180319043400 -0600" stop="20180319061000 -0600" channel="Golden Edge">
+  <programme start="20180318043400 -0600" stop="20180318061000 -0600" channel="Golden Edge">
     <title lang="es">Comandos en cadena</title>
   </programme>
-  <programme start="20180319061000 -0600" stop="20180319075400 -0600" channel="Golden Edge">
+  <programme start="20180318061000 -0600" stop="20180318075400 -0600" channel="Golden Edge">
     <title lang="es">El arte del robo</title>
   </programme>
-  <programme start="20180319075400 -0600" stop="20180319094400 -0600" channel="Golden Edge">
+  <programme start="20180318075400 -0600" stop="20180318094400 -0600" channel="Golden Edge">
     <title lang="es">Resident Evil 5: La Venganza</title>
     <desc lang="es">2012 - Alice (Milla Jovovich) Despierta en el centro de operaciones más clandestinas de Umbrella donde se dan a conocer más secretos de su misterioso pasado(n)</desc>
     <credits>
@@ -22006,22 +22082,22 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20180319094400 -0600" stop="20180319114200 -0600" channel="Golden Edge">
+  <programme start="20180318094400 -0600" stop="20180318114200 -0600" channel="Golden Edge">
     <title lang="es">El guardaespaldas 2</title>
   </programme>
-  <programme start="20180319114200 -0600" stop="20180319132400 -0600" channel="Golden Edge">
+  <programme start="20180318114200 -0600" stop="20180318132400 -0600" channel="Golden Edge">
     <title lang="es">Anaconda</title>
   </programme>
-  <programme start="20180319132400 -0600" stop="20180319161300 -0600" channel="Golden Edge">
+  <programme start="20180318132400 -0600" stop="20180318161300 -0600" channel="Golden Edge">
     <title lang="es">Spectre</title>
   </programme>
-  <programme start="20180319161300 -0600" stop="20180319175900 -0600" channel="Golden Edge">
+  <programme start="20180318161300 -0600" stop="20180318175900 -0600" channel="Golden Edge">
     <title lang="es">Crank: alto voltaje</title>
   </programme>
-  <programme start="20180319175900 -0600" stop="20180319194800 -0600" channel="Golden Edge">
+  <programme start="20180318175900 -0600" stop="20180318194800 -0600" channel="Golden Edge">
     <title lang="es">Por la libre</title>
   </programme>
-  <programme start="20180319194800 -0600" stop="20180319220000 -0600" channel="Golden Edge">
+  <programme start="20180318194800 -0600" stop="20180318220000 -0600" channel="Golden Edge">
     <title lang="es">Terminator: La Salvación</title>
     <title lang="xx">Terminator Salvation</title>
     <desc lang="es">En el 2018, una misteriosa arma en la guerra contra las máquinas – mitad humano y mitad máquina – busca a John Connor para ayudar con la misión de atacar a Skynet(n)</desc>
@@ -22046,13 +22122,13 @@
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20180319220000 -0600" stop="20180319234600 -0600" channel="Golden Edge">
+  <programme start="20180318220000 -0600" stop="20180318234600 -0600" channel="Golden Edge">
     <title lang="es">Malas enseñanzas</title>
   </programme>
-  <programme start="20180319234600 -0600" stop="20180320011500 -0600" channel="Golden Edge">
+  <programme start="20180318234600 -0600" stop="20180319011500 -0600" channel="Golden Edge">
     <title lang="es">Guerreras en bikini</title>
   </programme>
-  <programme start="20180320011500 -0600" stop="20180320031800 -0600" channel="Golden Edge">
+  <programme start="20180319011500 -0600" stop="20180319031800 -0600" channel="Golden Edge">
     <title lang="es">Terminator: La Salvación</title>
     <title lang="xx">Terminator Salvation</title>
     <desc lang="es">En el 2018, una misteriosa arma en la guerra contra las máquinas – mitad humano y mitad máquina – busca a John Connor para ayudar con la misión de atacar a Skynet(n)</desc>
@@ -22077,13 +22153,13 @@
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20180320031800 -0600" stop="20180320045800 -0600" channel="Golden Edge">
+  <programme start="20180319031800 -0600" stop="20180319045800 -0600" channel="Golden Edge">
     <title lang="es">Malas enseñanzas</title>
   </programme>
-  <programme start="20180320045800 -0600" stop="20180320063000 -0600" channel="Golden Edge">
+  <programme start="20180319045800 -0600" stop="20180319063000 -0600" channel="Golden Edge">
     <title lang="es">Dragon Ball Z: la batalla</title>
   </programme>
-  <programme start="20180320063000 -0600" stop="20180320081000 -0600" channel="Golden Edge">
+  <programme start="20180319063000 -0600" stop="20180319081000 -0600" channel="Golden Edge">
     <title lang="es">Cuando un Extraño Llama</title>
     <title lang="xx">When a Stranger Calls</title>
     <desc lang="es">Jill Johnson es una joven adinerada que sus padres la obligan a trabajar como niñera para pagar una tarifa estratosférica de teléfono(n)</desc>
@@ -22104,22 +22180,22 @@
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20180320081000 -0600" stop="20180320095900 -0600" channel="Golden Edge">
+  <programme start="20180319081000 -0600" stop="20180319095900 -0600" channel="Golden Edge">
     <title lang="es">Por la libre</title>
   </programme>
-  <programme start="20180320095900 -0600" stop="20180320115100 -0600" channel="Golden Edge">
+  <programme start="20180319095900 -0600" stop="20180319115100 -0600" channel="Golden Edge">
     <title lang="es">Fuego cruzado</title>
   </programme>
-  <programme start="20180320115100 -0600" stop="20180320135500 -0600" channel="Golden Edge">
+  <programme start="20180319115100 -0600" stop="20180319135500 -0600" channel="Golden Edge">
     <title lang="es">Hijo del crímen</title>
   </programme>
-  <programme start="20180320135500 -0600" stop="20180320153300 -0600" channel="Golden Edge">
+  <programme start="20180319135500 -0600" stop="20180319153300 -0600" channel="Golden Edge">
     <title lang="es">Dragon Ball Z: la batalla</title>
   </programme>
-  <programme start="20180320153300 -0600" stop="20180320172300 -0600" channel="Golden Edge">
+  <programme start="20180319153300 -0600" stop="20180319172300 -0600" channel="Golden Edge">
     <title lang="es">Evan almighty</title>
   </programme>
-  <programme start="20180320172300 -0600" stop="20180320191600 -0600" channel="Golden Edge">
+  <programme start="20180319172300 -0600" stop="20180319191600 -0600" channel="Golden Edge">
     <title lang="es">Venganza Letal (Faster)</title>
     <desc lang="es">Un asalta bancos tras 10 años de condena decide vengar la muerte de su hermano por quienes lo traicionaron e hicieron que fuera a prisión(n)</desc>
     <credits>
@@ -22143,10 +22219,10 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20180320191600 -0600" stop="20180320220000 -0600" channel="Golden Edge">
+  <programme start="20180319191600 -0600" stop="20180319220000 -0600" channel="Golden Edge">
     <title lang="es">007 - Operación Skyfall</title>
   </programme>
-  <programme start="20180320220000 -0600" stop="20180321002400 -0600" channel="Golden Edge">
+  <programme start="20180319220000 -0600" stop="20180320002400 -0600" channel="Golden Edge">
     <title lang="es">Los Ilusionistas: Nada es lo que Parece</title>
     <title lang="xx">Now You See Me</title>
     <desc lang="es">Un escuadrón del FBI busca a los más grandes ilusionistas del mundo que durante sus presentaciones dejan vacíos los bolsillos de empresarios corruptos(n)</desc>
@@ -22174,13 +22250,13 @@
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20180321002400 -0600" stop="20180321015300 -0600" channel="Golden Edge">
+  <programme start="20180320002400 -0600" stop="20180320015300 -0600" channel="Golden Edge">
     <title lang="es">Brujería sexual</title>
   </programme>
-  <programme start="20180321015300 -0600" stop="20180321042800 -0600" channel="Golden Edge">
+  <programme start="20180320015300 -0600" stop="20180320042800 -0600" channel="Golden Edge">
     <title lang="es">007 - Operación Skyfall</title>
   </programme>
-  <programme start="20180321042800 -0600" stop="20180321061500 -0600" channel="Golden Edge">
+  <programme start="20180320042800 -0600" stop="20180320061500 -0600" channel="Golden Edge">
     <title lang="es">Venganza Letal (Faster)</title>
     <desc lang="es">Un asalta bancos tras 10 años de condena decide vengar la muerte de su hermano por quienes lo traicionaron e hicieron que fuera a prisión(n)</desc>
     <credits>
@@ -22204,13 +22280,13 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20180321061500 -0600" stop="20180321082700 -0600" channel="Golden Edge">
+  <programme start="20180320061500 -0600" stop="20180320082700 -0600" channel="Golden Edge">
     <title lang="es">The arrival</title>
   </programme>
-  <programme start="20180321082700 -0600" stop="20180321103000 -0600" channel="Golden Edge">
+  <programme start="20180320082700 -0600" stop="20180320103000 -0600" channel="Golden Edge">
     <title lang="es">El engaño</title>
   </programme>
-  <programme start="20180321103000 -0600" stop="20180321125400 -0600" channel="Golden Edge">
+  <programme start="20180320103000 -0600" stop="20180320125400 -0600" channel="Golden Edge">
     <title lang="es">Los Ilusionistas: Nada es lo que Parece</title>
     <title lang="xx">Now You See Me</title>
     <desc lang="es">Un escuadrón del FBI busca a los más grandes ilusionistas del mundo que durante sus presentaciones dejan vacíos los bolsillos de empresarios corruptos(n)</desc>
@@ -22238,95 +22314,131 @@
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20180321125400 -0600" stop="20180321143500 -0600" channel="Golden Edge">
+  <programme start="20180320125400 -0600" stop="20180320143500 -0600" channel="Golden Edge">
     <title lang="es">Comandos en cadena</title>
   </programme>
-  <programme start="20180321143500 -0600" stop="20180321161500 -0600" channel="Golden Edge">
+  <programme start="20180320143500 -0600" stop="20180320161500 -0600" channel="Golden Edge">
     <title lang="es">Tan muertos como yo</title>
   </programme>
-  <programme start="20180321161500 -0600" stop="20180321175900 -0600" channel="Golden Edge">
+  <programme start="20180320161500 -0600" stop="20180320175900 -0600" channel="Golden Edge">
     <title lang="es">El principe: La Venganza</title>
   </programme>
-  <programme start="20180321175900 -0600" stop="20180321195600 -0600" channel="Golden Edge">
+  <programme start="20180320175900 -0600" stop="20180320195600 -0600" channel="Golden Edge">
     <title lang="es">Érase una vez en México</title>
   </programme>
-  <programme start="20180321195600 -0600" stop="20180321220000 -0600" channel="Golden Edge">
+  <programme start="20180320195600 -0600" stop="20180320220000 -0600" channel="Golden Edge">
     <title lang="es">Especies</title>
   </programme>
-  <programme start="20180321220000 -0600" stop="20180322002100 -0600" channel="Golden Edge">
+  <programme start="20180320220000 -0600" stop="20180321002100 -0600" channel="Golden Edge">
     <title lang="es">El Quinto Elemento</title>
   </programme>
-  <programme start="20180322002100 -0600" stop="20180322014900 -0600" channel="Golden Edge">
+  <programme start="20180321002100 -0600" stop="20180321014900 -0600" channel="Golden Edge">
     <title lang="es">Amas de casa de otro mundo</title>
   </programme>
-  <programme start="20180322014900 -0600" stop="20180322034700 -0600" channel="Golden Edge">
+  <programme start="20180321014900 -0600" stop="20180321034700 -0600" channel="Golden Edge">
     <title lang="es">Especies</title>
   </programme>
-  <programme start="20180322034700 -0600" stop="20180322053800 -0600" channel="Golden Edge">
+  <programme start="20180321034700 -0600" stop="20180321053800 -0600" channel="Golden Edge">
     <title lang="es">Érase una vez en México</title>
   </programme>
-  <programme start="20180322053800 -0600" stop="20180322073300 -0600" channel="Golden Edge">
+  <programme start="20180321053800 -0600" stop="20180321073300 -0600" channel="Golden Edge">
     <title lang="es">Proyecto Lazarus</title>
   </programme>
-  <programme start="20180322073300 -0600" stop="20180322094300 -0600" channel="Golden Edge">
+  <programme start="20180321073300 -0600" stop="20180321094300 -0600" channel="Golden Edge">
     <title lang="es">Gridlocked</title>
   </programme>
-  <programme start="20180322094300 -0600" stop="20180322112900 -0600" channel="Golden Edge">
+  <programme start="20180321094300 -0600" stop="20180321112900 -0600" channel="Golden Edge">
     <title lang="es">París en la mira</title>
   </programme>
-  <programme start="20180322112900 -0600" stop="20180322133200 -0600" channel="Golden Edge">
+  <programme start="20180321112900 -0600" stop="20180321133200 -0600" channel="Golden Edge">
     <title lang="es">Este es el fin</title>
   </programme>
-  <programme start="20180322133200 -0600" stop="20180322151400 -0600" channel="Golden Edge">
+  <programme start="20180321133200 -0600" stop="20180321151400 -0600" channel="Golden Edge">
     <title lang="es">S.W.A.T. - Unidad especial II</title>
   </programme>
-  <programme start="20180322151400 -0600" stop="20180322171400 -0600" channel="Golden Edge">
+  <programme start="20180321151400 -0600" stop="20180321171400 -0600" channel="Golden Edge">
     <title lang="es">Vengador Anónimo</title>
   </programme>
-  <programme start="20180322171400 -0600" stop="20180322201800 -0600" channel="Golden Edge">
+  <programme start="20180321171400 -0600" stop="20180321201800 -0600" channel="Golden Edge">
     <title lang="es">La chica del dragón tatuado</title>
   </programme>
-  <programme start="20180322201800 -0600" stop="20180322220000 -0600" channel="Golden Edge">
+  <programme start="20180321201800 -0600" stop="20180321220000 -0600" channel="Golden Edge">
     <title lang="es">Mercenaries</title>
   </programme>
-  <programme start="20180322220000 -0600" stop="20180323002500 -0600" channel="Golden Edge">
+  <programme start="20180321220000 -0600" stop="20180322002500 -0600" channel="Golden Edge">
     <title lang="es">Los indestructibles 3</title>
   </programme>
-  <programme start="20180323002500 -0600" stop="20180323015300 -0600" channel="Golden Edge">
+  <programme start="20180322002500 -0600" stop="20180322015300 -0600" channel="Golden Edge">
     <title lang="es">Bikini Royal 2</title>
   </programme>
-  <programme start="20180323015300 -0600" stop="20180323044800 -0600" channel="Golden Edge">
+  <programme start="20180322015300 -0600" stop="20180322044800 -0600" channel="Golden Edge">
     <title lang="es">La chica del dragón tatuado</title>
   </programme>
-  <programme start="20180323044800 -0600" stop="20180323062800 -0600" channel="Golden Edge">
+  <programme start="20180322044800 -0600" stop="20180322062800 -0600" channel="Golden Edge">
     <title lang="es">París en la mira</title>
   </programme>
-  <programme start="20180323062800 -0600" stop="20180323081200 -0600" channel="Golden Edge">
+  <programme start="20180322062800 -0600" stop="20180322081200 -0600" channel="Golden Edge">
     <title lang="es">Prisioneros de la isla</title>
   </programme>
-  <programme start="20180323081200 -0600" stop="20180323103500 -0600" channel="Golden Edge">
+  <programme start="20180322081200 -0600" stop="20180322103500 -0600" channel="Golden Edge">
     <title lang="es">Bunraku</title>
   </programme>
-  <programme start="20180323103500 -0600" stop="20180323130000 -0600" channel="Golden Edge">
+  <programme start="20180322103500 -0600" stop="20180322130000 -0600" channel="Golden Edge">
     <title lang="es">Los indestructibles 3</title>
   </programme>
-  <programme start="20180323130000 -0600" stop="20180323143200 -0600" channel="Golden Edge">
+  <programme start="20180322130000 -0600" stop="20180322143200 -0600" channel="Golden Edge">
     <title lang="es">Infierno en black rock</title>
   </programme>
-  <programme start="20180323143200 -0600" stop="20180323162500 -0600" channel="Golden Edge">
+  <programme start="20180322143200 -0600" stop="20180322162500 -0600" channel="Golden Edge">
     <title lang="es">Mi novio es un zombie</title>
   </programme>
-  <programme start="20180323162500 -0600" stop="20180323180900 -0600" channel="Golden Edge">
+  <programme start="20180322162500 -0600" stop="20180322180900 -0600" channel="Golden Edge">
     <title lang="es">Yo soy furia</title>
   </programme>
-  <programme start="20180323180900 -0600" stop="20180323200600 -0600" channel="Golden Edge">
+  <programme start="20180322180900 -0600" stop="20180322200600 -0600" channel="Golden Edge">
     <title lang="es">Una Mujer para Matar o Morir</title>
   </programme>
-  <programme start="20180323200600 -0600" stop="20180323220000 -0600" channel="Golden Edge">
+  <programme start="20180322200600 -0600" stop="20180322220000 -0600" channel="Golden Edge">
     <title lang="es">El Gringo</title>
   </programme>
-  <programme start="20180323220000 -0600" stop="20180324000000 -0600" channel="Golden Edge">
+  <programme start="20180322220000 -0600" stop="20180323000000 -0600" channel="Golden Edge">
     <title lang="es">Amar te duele</title>
+  </programme>
+  <programme start="20180323000000 -0600" stop="20180323022400 -0600" channel="Golden Edge">
+    <title lang="es">Father figure</title>
+  </programme>
+  <programme start="20180323022400 -0600" stop="20180323041300 -0600" channel="Golden Edge">
+    <title lang="es">Vacaciones para ellos</title>
+  </programme>
+  <programme start="20180323041300 -0600" stop="20180323060500 -0600" channel="Golden Edge">
+    <title lang="es">El Gringo</title>
+  </programme>
+  <programme start="20180323060500 -0600" stop="20180323080200 -0600" channel="Golden Edge">
+    <title lang="es">Al borde del abismo</title>
+  </programme>
+  <programme start="20180323080200 -0600" stop="20180323095800 -0600" channel="Golden Edge">
+    <title lang="es">Buscando a un amigo</title>
+  </programme>
+  <programme start="20180323095800 -0600" stop="20180323113800 -0600" channel="Golden Edge">
+    <title lang="es">Paraíso perdido</title>
+  </programme>
+  <programme start="20180323113800 -0600" stop="20180323141700 -0600" channel="Golden Edge">
+    <title lang="es">La máscara del Zorro</title>
+  </programme>
+  <programme start="20180323141700 -0600" stop="20180323160600 -0600" channel="Golden Edge">
+    <title lang="es">Criaturas Salvajes 2</title>
+  </programme>
+  <programme start="20180323160600 -0600" stop="20180323180600 -0600" channel="Golden Edge">
+    <title lang="es">Amar te duele</title>
+  </programme>
+  <programme start="20180323180600 -0600" stop="20180323201100 -0600" channel="Golden Edge">
+    <title lang="es">Comando especial</title>
+  </programme>
+  <programme start="20180323201100 -0600" stop="20180323220000 -0600" channel="Golden Edge">
+    <title lang="es">Evan almighty</title>
+  </programme>
+  <programme start="20180323220000 -0600" stop="20180324002600 -0600" channel="Golden Edge">
+    <title lang="es">El tigre de Santa Julia</title>
   </programme>
   <programme start="20180317000500 -0600" stop="20180317015500 -0600" channel="HBO">
     <title lang="es">Hasta que el Cuerpo Aguante</title>
@@ -23384,13 +23496,10 @@
   <programme start="20180317220000 -0600" stop="20180318001500 -0600" channel="HBO 2">
     <title lang="es">La bella y la bestia</title>
   </programme>
-  <programme start="20180318220000 -0600" stop="20180319001500 -0600" channel="HBO 2">
-    <title lang="es">La bella y la bestia</title>
-  </programme>
-  <programme start="20180319001500 -0600" stop="20180319020000 -0600" channel="HBO 2">
+  <programme start="20180318001500 -0600" stop="20180318020000 -0600" channel="HBO 2">
     <title lang="es">Chios: Patrulla motorizada rec</title>
   </programme>
-  <programme start="20180319020000 -0600" stop="20180319040000 -0600" channel="HBO 2">
+  <programme start="20180318020000 -0600" stop="20180318040000 -0600" channel="HBO 2">
     <title lang="es">No te metas con Zohan</title>
     <desc lang="es">Adam Sandler.  Un soldado de las fuerzas especiales de Israel finge su muerte para que poder vivir su sueño como estilista en Nueva York(n)</desc>
     <credits>
@@ -23408,33 +23517,33 @@
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20180319040000 -0600" stop="20180319061000 -0600" channel="HBO 2">
+  <programme start="20180318040000 -0600" stop="20180318061000 -0600" channel="HBO 2">
     <title lang="es">Una tormenta perfecta</title>
   </programme>
-  <programme start="20180319061000 -0600" stop="20180319083000 -0600" channel="HBO 2">
+  <programme start="20180318061000 -0600" stop="20180318083000 -0600" channel="HBO 2">
     <title lang="es">El triunfo del espíritu</title>
   </programme>
-  <programme start="20180319083000 -0600" stop="20180319102200 -0600" channel="HBO 2">
+  <programme start="20180318083000 -0600" stop="20180318102200 -0600" channel="HBO 2">
     <title lang="es">Los cazafantasmas</title>
   </programme>
-  <programme start="20180319102200 -0600" stop="20180319123000 -0600" channel="HBO 2">
+  <programme start="20180318102200 -0600" stop="20180318123000 -0600" channel="HBO 2">
     <title lang="es">90 minutos en el cielo</title>
   </programme>
-  <programme start="20180319123000 -0600" stop="20180319131000 -0600" channel="HBO 2">
+  <programme start="20180318123000 -0600" stop="20180318131000 -0600" channel="HBO 2">
     <title lang="es">Divorce</title>
     <sub-title lang="es">S2-Ep8</sub-title>
     <episode-num>S2-Ep8</episode-num>
   </programme>
-  <programme start="20180319131000 -0600" stop="20180319151000 -0600" channel="HBO 2">
+  <programme start="20180318131000 -0600" stop="20180318151000 -0600" channel="HBO 2">
     <title lang="es">Inseparables</title>
   </programme>
-  <programme start="20180319151000 -0600" stop="20180319165400 -0600" channel="HBO 2">
+  <programme start="20180318151000 -0600" stop="20180318165400 -0600" channel="HBO 2">
     <title lang="es">El expreso de los recuerdos</title>
   </programme>
-  <programme start="20180319165400 -0600" stop="20180319184000 -0600" channel="HBO 2">
+  <programme start="20180318165400 -0600" stop="20180318184000 -0600" channel="HBO 2">
     <title lang="es">Atrapado en los noventas</title>
   </programme>
-  <programme start="20180319184000 -0600" stop="20180319203000 -0600" channel="HBO 2">
+  <programme start="20180318184000 -0600" stop="20180318203000 -0600" channel="HBO 2">
     <title lang="es">Hasta que el Cuerpo Aguante</title>
     <title lang="xx">Rough Night</title>
     <desc lang="es">Cinco amigas se reúnen después de 10 años en una despedida de soltera alocada en Miami, pero todo cambia cuando accidentalmente matan a un stripper masculino(n)</desc>
@@ -23459,10 +23568,10 @@
     <category lang="es">Película</category>
     <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/hasta_que_el_cuerpo_aguante.jpg" />
   </programme>
-  <programme start="20180319203000 -0600" stop="20180319220000 -0600" channel="HBO 2">
+  <programme start="20180318203000 -0600" stop="20180318220000 -0600" channel="HBO 2">
     <title lang="es">Miedo Profundo</title>
   </programme>
-  <programme start="20180319220000 -0600" stop="20180319235000 -0600" channel="HBO 2">
+  <programme start="20180318220000 -0600" stop="20180318235000 -0600" channel="HBO 2">
     <title lang="es">¡Huye!</title>
     <title lang="xx">Get Out</title>
     <desc lang="es">Un joven afroamericano sostiene una relación con chica blanca pero cuando visitan a la familia de su novia, descubre un inquietante misterio que les rodea(n)</desc>
@@ -23485,7 +23594,7 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20180319235000 -0600" stop="20180320013500 -0600" channel="HBO 2">
+  <programme start="20180318235000 -0600" stop="20180319013500 -0600" channel="HBO 2">
     <title lang="es">Mío o de Nadie</title>
     <title lang="xx">Unforgettable (2017)</title>
     <desc lang="es">Tessa Connover está asimilando la separación de su matrimonio, ahora hará lo imposible para arruinar la vida de la nueva esposa de su ex marido(n)</desc>
@@ -23509,28 +23618,28 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20180320013500 -0600" stop="20180320032500 -0600" channel="HBO 2">
+  <programme start="20180319013500 -0600" stop="20180319032500 -0600" channel="HBO 2">
     <title lang="es">Buenas noches mami</title>
   </programme>
-  <programme start="20180320032500 -0600" stop="20180320050000 -0600" channel="HBO 2">
+  <programme start="20180319032500 -0600" stop="20180319050000 -0600" channel="HBO 2">
     <title lang="es">Totem</title>
   </programme>
-  <programme start="20180320050000 -0600" stop="20180320063500 -0600" channel="HBO 2">
+  <programme start="20180319050000 -0600" stop="20180319063500 -0600" channel="HBO 2">
     <title lang="es">Trenchcoat</title>
   </programme>
-  <programme start="20180320063500 -0600" stop="20180320081000 -0600" channel="HBO 2">
+  <programme start="20180319063500 -0600" stop="20180319081000 -0600" channel="HBO 2">
     <title lang="es">Puntos de vista</title>
   </programme>
-  <programme start="20180320081000 -0600" stop="20180320100500 -0600" channel="HBO 2">
+  <programme start="20180319081000 -0600" stop="20180319100500 -0600" channel="HBO 2">
     <title lang="es">Billy Lynn: honor y sentimient</title>
   </programme>
-  <programme start="20180320100500 -0600" stop="20180320114800 -0600" channel="HBO 2">
+  <programme start="20180319100500 -0600" stop="20180319114800 -0600" channel="HBO 2">
     <title lang="es">El poder de la esperanza</title>
   </programme>
-  <programme start="20180320114800 -0600" stop="20180320131500 -0600" channel="HBO 2">
+  <programme start="20180319114800 -0600" stop="20180319131500 -0600" channel="HBO 2">
     <title lang="es">Reyes de las olas 2: Wavemania</title>
   </programme>
-  <programme start="20180320131500 -0600" stop="20180320150000 -0600" channel="HBO 2">
+  <programme start="20180319131500 -0600" stop="20180319150000 -0600" channel="HBO 2">
     <title lang="es">La Razón de Estar Contigo</title>
     <title lang="xx">A Dog's Purpose</title>
     <desc lang="es">La perspectiva de vida de un perro narrada maravillosamente a través de su convivencia con los diferentes amos y lo que aprende de ellos(n)</desc>
@@ -23558,10 +23667,10 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20180320150000 -0600" stop="20180320153000 -0600" channel="HBO 2">
+  <programme start="20180319150000 -0600" stop="20180319153000 -0600" channel="HBO 2">
     <title lang="es">Chumel con Chumel Torres</title>
   </programme>
-  <programme start="20180320153000 -0600" stop="20180320171500 -0600" channel="HBO 2">
+  <programme start="20180319153000 -0600" stop="20180319171500 -0600" channel="HBO 2">
     <title lang="es">Un Golpe con Estilo</title>
     <title lang="xx">Going in Style (2017)</title>
     <desc lang="es">Luego de haberse retirado Willie, Joe y Albert, y después de que su fondo de pensiones desapareciera deciden derribar el mismo banco que huyó con su dinero(n)</desc>
@@ -23581,7 +23690,7 @@
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20180320171500 -0600" stop="20180320192000 -0600" channel="HBO 2">
+  <programme start="20180319171500 -0600" stop="20180319192000 -0600" channel="HBO 2">
     <title lang="es">Kong: La Isla Calavera</title>
     <title lang="xx">Kong: Skull Island</title>
     <desc lang="es">Un grupo de exploradores viajan a una misteriosa isla del Pacifico que tiene forma de calavera sin saber de los peligros de esta(n)</desc>
@@ -23611,15 +23720,15 @@
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20180320192000 -0600" stop="20180320210000 -0600" channel="HBO 2">
+  <programme start="20180319192000 -0600" stop="20180319210000 -0600" channel="HBO 2">
     <title lang="es">El niño</title>
   </programme>
-  <programme start="20180320210000 -0600" stop="20180320220000 -0600" channel="HBO 2">
+  <programme start="20180319210000 -0600" stop="20180319220000 -0600" channel="HBO 2">
     <title lang="es">El negocio</title>
     <sub-title lang="es">S4-Ep1</sub-title>
     <episode-num>S4-Ep1</episode-num>
   </programme>
-  <programme start="20180320220000 -0600" stop="20180321002000 -0600" channel="HBO 2">
+  <programme start="20180319220000 -0600" stop="20180320002000 -0600" channel="HBO 2">
     <title lang="es">Rápidos y Furiosos 8</title>
     <title lang="xx">The Fate of the Furious</title>
     <desc lang="es">Dominic y su equipo ha vuelto, pero una traición les aguarda en el camino cuando Torreto decide darle la espalda a su familia(n)</desc>
@@ -23650,28 +23759,28 @@
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20180321002000 -0600" stop="20180321020000 -0600" channel="HBO 2">
+  <programme start="20180320002000 -0600" stop="20180320020000 -0600" channel="HBO 2">
     <title lang="es">Noche de venganza</title>
   </programme>
-  <programme start="20180321020000 -0600" stop="20180321034500 -0600" channel="HBO 2">
+  <programme start="20180320020000 -0600" stop="20180320034500 -0600" channel="HBO 2">
     <title lang="es">Hardcore: Misión Extrema</title>
   </programme>
-  <programme start="20180321034500 -0600" stop="20180321053500 -0600" channel="HBO 2">
+  <programme start="20180320034500 -0600" stop="20180320053500 -0600" channel="HBO 2">
     <title lang="es">Coctel</title>
   </programme>
-  <programme start="20180321053500 -0600" stop="20180321073500 -0600" channel="HBO 2">
+  <programme start="20180320053500 -0600" stop="20180320073500 -0600" channel="HBO 2">
     <title lang="es">Toma mi mano</title>
   </programme>
-  <programme start="20180321073500 -0600" stop="20180321095500 -0600" channel="HBO 2">
+  <programme start="20180320073500 -0600" stop="20180320095500 -0600" channel="HBO 2">
     <title lang="es">El triunfo del espíritu</title>
   </programme>
-  <programme start="20180321095500 -0600" stop="20180321114500 -0600" channel="HBO 2">
+  <programme start="20180320095500 -0600" stop="20180320114500 -0600" channel="HBO 2">
     <title lang="es">Rápidos y furiosos</title>
   </programme>
-  <programme start="20180321114500 -0600" stop="20180321135500 -0600" channel="HBO 2">
+  <programme start="20180320114500 -0600" stop="20180320135500 -0600" channel="HBO 2">
     <title lang="es">El contador</title>
   </programme>
-  <programme start="20180321135500 -0600" stop="20180321154000 -0600" channel="HBO 2">
+  <programme start="20180320135500 -0600" stop="20180320154000 -0600" channel="HBO 2">
     <title lang="es">Enemigo de Todos</title>
     <title lang="xx">Hell or High Water</title>
     <desc lang="es">Un padre desesperado se entera que el banco les quitará sus tierras, sin tener otra opción hará asaltos a bancos, pero se cruzará con viejo Ranger de Texas(n)</desc>
@@ -23694,27 +23803,27 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20180321154000 -0600" stop="20180321173000 -0600" channel="HBO 2">
+  <programme start="20180320154000 -0600" stop="20180320173000 -0600" channel="HBO 2">
     <title lang="es">La Jugada</title>
   </programme>
-  <programme start="20180321173000 -0600" stop="20180321191500 -0600" channel="HBO 2">
+  <programme start="20180320173000 -0600" stop="20180320191500 -0600" channel="HBO 2">
     <title lang="es">¡Veteranos al ataque!</title>
   </programme>
-  <programme start="20180321191500 -0600" stop="20180321210000 -0600" channel="HBO 2">
+  <programme start="20180320191500 -0600" stop="20180320210000 -0600" channel="HBO 2">
     <title lang="es">Chios: Patrulla motorizada rec</title>
   </programme>
-  <programme start="20180321210000 -0600" stop="20180321220000 -0600" channel="HBO 2">
+  <programme start="20180320210000 -0600" stop="20180320220000 -0600" channel="HBO 2">
     <title lang="es">Here And Now</title>
     <sub-title lang="es">S1-Ep6</sub-title>
     <episode-num>S1-Ep6</episode-num>
   </programme>
+  <programme start="20180320220000 -0600" stop="20180321001000 -0600" channel="HBO 2">
+    <title lang="es">El contador</title>
+  </programme>
   <programme start="20180321220000 -0600" stop="20180322001000 -0600" channel="HBO 2">
     <title lang="es">El contador</title>
   </programme>
-  <programme start="20180322220000 -0600" stop="20180323001000 -0600" channel="HBO 2">
-    <title lang="es">El contador</title>
-  </programme>
-  <programme start="20180323001000 -0600" stop="20180323021000 -0600" channel="HBO 2">
+  <programme start="20180322001000 -0600" stop="20180322021000 -0600" channel="HBO 2">
     <title lang="es">Animales Nocturnos</title>
     <title lang="xx">Nocturnal Animals</title>
     <desc lang="es">Susan, una galerista privilegiada de Los Ángeles que recibe un paquete de su ex marido diciéndole que lea su novela y cuando termine de leerla él la llamará(n)</desc>
@@ -23740,22 +23849,22 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20180323021000 -0600" stop="20180323040500 -0600" channel="HBO 2">
+  <programme start="20180322021000 -0600" stop="20180322040500 -0600" channel="HBO 2">
     <title lang="es">Al filo de la sospecha</title>
   </programme>
-  <programme start="20180323040500 -0600" stop="20180323055100 -0600" channel="HBO 2">
+  <programme start="20180322040500 -0600" stop="20180322055100 -0600" channel="HBO 2">
     <title lang="es">Red De Corrupción</title>
   </programme>
-  <programme start="20180323055100 -0600" stop="20180323070500 -0600" channel="HBO 2">
+  <programme start="20180322055100 -0600" stop="20180322070500 -0600" channel="HBO 2">
     <title lang="es">Condor Crux</title>
   </programme>
-  <programme start="20180323070500 -0600" stop="20180323085000 -0600" channel="HBO 2">
+  <programme start="20180322070500 -0600" stop="20180322085000 -0600" channel="HBO 2">
     <title lang="es">Tini: el cambio de Violetta</title>
   </programme>
-  <programme start="20180323085000 -0600" stop="20180323103500 -0600" channel="HBO 2">
+  <programme start="20180322085000 -0600" stop="20180322103500 -0600" channel="HBO 2">
     <title lang="es">Desafío De Cuerdas</title>
   </programme>
-  <programme start="20180323103500 -0600" stop="20180323122500 -0600" channel="HBO 2">
+  <programme start="20180322103500 -0600" stop="20180322122500 -0600" channel="HBO 2">
     <title lang="es">La Gran Muralla</title>
     <desc lang="es">Dos mercenarios que mientras buscan un arma poderosa unen sus fuerzas para defender la Gran Muralla de China del ataque de criaturas monstruosas(n)</desc>
     <credits>
@@ -23785,7 +23894,7 @@
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20180323122500 -0600" stop="20180323143000 -0600" channel="HBO 2">
+  <programme start="20180322122500 -0600" stop="20180322143000 -0600" channel="HBO 2">
     <title lang="es">Kong: La Isla Calavera</title>
     <title lang="xx">Kong: Skull Island</title>
     <desc lang="es">Un grupo de exploradores viajan a una misteriosa isla del Pacifico que tiene forma de calavera sin saber de los peligros de esta(n)</desc>
@@ -23815,10 +23924,10 @@
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20180323143000 -0600" stop="20180323151500 -0600" channel="HBO 2">
+  <programme start="20180322143000 -0600" stop="20180322151500 -0600" channel="HBO 2">
     <title lang="es">Una chica en el río: el precio</title>
   </programme>
-  <programme start="20180323151500 -0600" stop="20180323173000 -0600" channel="HBO 2">
+  <programme start="20180322151500 -0600" stop="20180322173000 -0600" channel="HBO 2">
     <title lang="es">Vivir de Noche</title>
     <title lang="xx">Live by Night</title>
     <desc lang="es">Un grupo de gánsteres nacidos en Boston se establecen en Florida en la era y de la prohibición para crear su propia red de contrabando de alcohol(n)</desc>
@@ -23846,7 +23955,7 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20180323173000 -0600" stop="20180323192000 -0600" channel="HBO 2">
+  <programme start="20180322173000 -0600" stop="20180322192000 -0600" channel="HBO 2">
     <title lang="es">¡Huye!</title>
     <title lang="xx">Get Out</title>
     <desc lang="es">Un joven afroamericano sostiene una relación con chica blanca pero cuando visitan a la familia de su novia, descubre un inquietante misterio que les rodea(n)</desc>
@@ -23869,16 +23978,46 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20180323192000 -0600" stop="20180323202500 -0600" channel="HBO 2">
+  <programme start="20180322192000 -0600" stop="20180322202500 -0600" channel="HBO 2">
     <title lang="es">Here And Now</title>
     <sub-title lang="es">S1-Ep6</sub-title>
     <episode-num>S1-Ep6</episode-num>
   </programme>
-  <programme start="20180323202500 -0600" stop="20180323220000 -0600" channel="HBO 2">
+  <programme start="20180322202500 -0600" stop="20180322220000 -0600" channel="HBO 2">
     <title lang="es">Totem</title>
   </programme>
-  <programme start="20180323220000 -0600" stop="20180323234000 -0600" channel="HBO 2">
+  <programme start="20180322220000 -0600" stop="20180322234000 -0600" channel="HBO 2">
     <title lang="es">El niño</title>
+  </programme>
+  <programme start="20180322234000 -0600" stop="20180323012500 -0600" channel="HBO 2">
+    <title lang="es">La Gran Muralla</title>
+    <desc lang="es">Dos mercenarios que mientras buscan un arma poderosa unen sus fuerzas para defender la Gran Muralla de China del ataque de criaturas monstruosas(n)</desc>
+    <credits>
+      <actor>Matt Damon</actor>
+      <actor>Tian Jing</actor>
+      <actor>Pedro Pascal</actor>
+      <actor>Willem Dafoe</actor>
+      <actor>Lu Han</actor>
+      <actor>Andy Lau</actor>
+      <producer>Thomas Tull</producer>
+      <producer>Charles Roven</producer>
+      <producer>Jon Jashni</producer>
+      <producer>Peter Loehr</producer>
+      <producer>Zhang Zhao</producer>
+      <composer>Ramin Djawadi</composer>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/la_gran_muralla.jpg" />
+    <country>Estados Unidos</country>
+    <country>China</country>
+    <rating>
+      <value>PG-13</value>
+    </rating>
   </programme>
   <programme start="20180323234000 -0600" stop="20180324012500 -0600" channel="HBO 2">
     <title lang="es">La Gran Muralla</title>
@@ -27529,157 +27668,154 @@
   <programme start="20180317220000 -0600" stop="20180318004000 -0600" channel="TBS">
     <title lang="es">¿Qué pasó anoche?</title>
   </programme>
-  <programme start="20180318220000 -0600" stop="20180319004000 -0600" channel="TBS">
-    <title lang="es">¿Qué pasó anoche?</title>
-  </programme>
-  <programme start="20180319004000 -0600" stop="20180319015800 -0600" channel="TBS">
+  <programme start="20180318004000 -0600" stop="20180318015800 -0600" channel="TBS">
     <title lang="es">Los Videos + Tontos del Mundo</title>
   </programme>
-  <programme start="20180319015800 -0600" stop="20180319021300 -0600" channel="TBS">
+  <programme start="20180318015800 -0600" stop="20180318021300 -0600" channel="TBS">
     <title lang="es">Tom goes to the mayor</title>
   </programme>
-  <programme start="20180319021300 -0600" stop="20180319034600 -0600" channel="TBS">
+  <programme start="20180318021300 -0600" stop="20180318034600 -0600" channel="TBS">
     <title lang="es">Se dice de mí</title>
   </programme>
-  <programme start="20180319034600 -0600" stop="20180319040800 -0600" channel="TBS">
+  <programme start="20180318034600 -0600" stop="20180318040800 -0600" channel="TBS">
     <title lang="es">Los Videos + Tontos del Mundo</title>
   </programme>
-  <programme start="20180319040800 -0600" stop="20180319043000 -0600" channel="TBS">
+  <programme start="20180318040800 -0600" stop="20180318043000 -0600" channel="TBS">
     <title lang="es">Los Videos + Tontos del Mundo</title>
   </programme>
-  <programme start="20180319043000 -0600" stop="20180319061400 -0600" channel="TBS">
+  <programme start="20180318043000 -0600" stop="20180318061400 -0600" channel="TBS">
     <title lang="es">Los Videos + Tontos del Mundo</title>
   </programme>
-  <programme start="20180319061400 -0600" stop="20180319070000 -0600" channel="TBS">
+  <programme start="20180318061400 -0600" stop="20180318070000 -0600" channel="TBS">
     <title lang="es">Los Videos + Tontos del Mundo</title>
   </programme>
-  <programme start="20180319070000 -0600" stop="20180319072200 -0600" channel="TBS">
+  <programme start="20180318070000 -0600" stop="20180318072200 -0600" channel="TBS">
     <title lang="es">La Niñera</title>
   </programme>
-  <programme start="20180319072200 -0600" stop="20180319074400 -0600" channel="TBS">
+  <programme start="20180318072200 -0600" stop="20180318074400 -0600" channel="TBS">
     <title lang="es">La Niñera</title>
   </programme>
-  <programme start="20180319074400 -0600" stop="20180319080900 -0600" channel="TBS">
+  <programme start="20180318074400 -0600" stop="20180318080900 -0600" channel="TBS">
     <title lang="es">La Niñera</title>
   </programme>
-  <programme start="20180319080900 -0600" stop="20180319083100 -0600" channel="TBS">
+  <programme start="20180318080900 -0600" stop="20180318083100 -0600" channel="TBS">
     <title lang="es">Isla del drama</title>
   </programme>
-  <programme start="20180319083100 -0600" stop="20180319085300 -0600" channel="TBS">
+  <programme start="20180318083100 -0600" stop="20180318085300 -0600" channel="TBS">
     <title lang="es">Isla del drama</title>
   </programme>
-  <programme start="20180319085300 -0600" stop="20180319091500 -0600" channel="TBS">
+  <programme start="20180318085300 -0600" stop="20180318091500 -0600" channel="TBS">
     <title lang="es">Isla del drama</title>
   </programme>
-  <programme start="20180319091500 -0600" stop="20180319093700 -0600" channel="TBS">
+  <programme start="20180318091500 -0600" stop="20180318093700 -0600" channel="TBS">
     <title lang="es">Isla del drama</title>
   </programme>
-  <programme start="20180319093700 -0600" stop="20180319105100 -0600" channel="TBS">
+  <programme start="20180318093700 -0600" stop="20180318105100 -0600" channel="TBS">
     <title lang="es">Isla del drama</title>
   </programme>
-  <programme start="20180319105100 -0600" stop="20180319120900 -0600" channel="TBS">
+  <programme start="20180318105100 -0600" stop="20180318120900 -0600" channel="TBS">
     <title lang="es">Cazadores de dragones</title>
   </programme>
-  <programme start="20180319120900 -0600" stop="20180319123100 -0600" channel="TBS">
+  <programme start="20180318120900 -0600" stop="20180318123100 -0600" channel="TBS">
     <title lang="es">La Niñera</title>
   </programme>
-  <programme start="20180319123100 -0600" stop="20180319125300 -0600" channel="TBS">
+  <programme start="20180318123100 -0600" stop="20180318125300 -0600" channel="TBS">
     <title lang="es">La Niñera</title>
   </programme>
-  <programme start="20180319125300 -0600" stop="20180319131500 -0600" channel="TBS">
+  <programme start="20180318125300 -0600" stop="20180318131500 -0600" channel="TBS">
     <title lang="es">La Niñera</title>
   </programme>
-  <programme start="20180319131500 -0600" stop="20180319133700 -0600" channel="TBS">
+  <programme start="20180318131500 -0600" stop="20180318133700 -0600" channel="TBS">
     <title lang="es">La Niñera</title>
   </programme>
-  <programme start="20180319133700 -0600" stop="20180319141200 -0600" channel="TBS">
+  <programme start="20180318133700 -0600" stop="20180318141200 -0600" channel="TBS">
     <title lang="es">La Niñera</title>
   </programme>
-  <programme start="20180319141200 -0600" stop="20180319155300 -0600" channel="TBS">
+  <programme start="20180318141200 -0600" stop="20180318155300 -0600" channel="TBS">
     <title lang="es">La familia del futuro</title>
   </programme>
-  <programme start="20180319155300 -0600" stop="20180319180800 -0600" channel="TBS">
+  <programme start="20180318155300 -0600" stop="20180318180800 -0600" channel="TBS">
     <title lang="es">Julie &amp; julia</title>
   </programme>
-  <programme start="20180319180800 -0600" stop="20180319201900 -0600" channel="TBS">
+  <programme start="20180318180800 -0600" stop="20180318201900 -0600" channel="TBS">
     <title lang="es">Se dice de mí</title>
   </programme>
-  <programme start="20180319201900 -0600" stop="20180319220000 -0600" channel="TBS">
+  <programme start="20180318201900 -0600" stop="20180318220000 -0600" channel="TBS">
     <title lang="es">Todo un parto</title>
   </programme>
-  <programme start="20180319220000 -0600" stop="20180320003800 -0600" channel="TBS">
+  <programme start="20180318220000 -0600" stop="20180319003800 -0600" channel="TBS">
     <title lang="es">American Pie El libro de amor</title>
   </programme>
-  <programme start="20180320003800 -0600" stop="20180320015700 -0600" channel="TBS">
+  <programme start="20180319003800 -0600" stop="20180319015700 -0600" channel="TBS">
     <title lang="es">Los Videos + Tontos del Mundo</title>
   </programme>
-  <programme start="20180320015700 -0600" stop="20180320021200 -0600" channel="TBS">
+  <programme start="20180319015700 -0600" stop="20180319021200 -0600" channel="TBS">
     <title lang="es">Tom goes to the mayor</title>
   </programme>
-  <programme start="20180320021200 -0600" stop="20180320041700 -0600" channel="TBS">
+  <programme start="20180319021200 -0600" stop="20180319041700 -0600" channel="TBS">
     <title lang="es">El Camino</title>
   </programme>
-  <programme start="20180320041700 -0600" stop="20180320043900 -0600" channel="TBS">
+  <programme start="20180319041700 -0600" stop="20180319043900 -0600" channel="TBS">
     <title lang="es">Los Videos + Tontos del Mundo</title>
   </programme>
-  <programme start="20180320043900 -0600" stop="20180320060200 -0600" channel="TBS">
+  <programme start="20180319043900 -0600" stop="20180319060200 -0600" channel="TBS">
     <title lang="es">Los Videos + Tontos del Mundo</title>
   </programme>
-  <programme start="20180320060200 -0600" stop="20180320062400 -0600" channel="TBS">
+  <programme start="20180319060200 -0600" stop="20180319062400 -0600" channel="TBS">
     <title lang="es">Los Videos + Tontos del Mundo</title>
   </programme>
-  <programme start="20180320062400 -0600" stop="20180320073100 -0600" channel="TBS">
+  <programme start="20180319062400 -0600" stop="20180319073100 -0600" channel="TBS">
     <title lang="es">Los Videos + Tontos del Mundo</title>
   </programme>
-  <programme start="20180320073100 -0600" stop="20180320075300 -0600" channel="TBS">
+  <programme start="20180319073100 -0600" stop="20180319075300 -0600" channel="TBS">
     <title lang="es">Angie Tribeca</title>
   </programme>
-  <programme start="20180320075300 -0600" stop="20180320082700 -0600" channel="TBS">
+  <programme start="20180319075300 -0600" stop="20180319082700 -0600" channel="TBS">
     <title lang="es">Angie Tribeca</title>
   </programme>
-  <programme start="20180320082700 -0600" stop="20180320084900 -0600" channel="TBS">
+  <programme start="20180319082700 -0600" stop="20180319084900 -0600" channel="TBS">
     <title lang="es">30 Rock</title>
   </programme>
-  <programme start="20180320084900 -0600" stop="20180320091100 -0600" channel="TBS">
+  <programme start="20180319084900 -0600" stop="20180319091100 -0600" channel="TBS">
     <title lang="es">30 Rock</title>
   </programme>
-  <programme start="20180320091100 -0600" stop="20180320093300 -0600" channel="TBS">
+  <programme start="20180319091100 -0600" stop="20180319093300 -0600" channel="TBS">
     <title lang="es">30 Rock</title>
   </programme>
-  <programme start="20180320093300 -0600" stop="20180320095800 -0600" channel="TBS">
+  <programme start="20180319093300 -0600" stop="20180319095800 -0600" channel="TBS">
     <title lang="es">30 Rock</title>
   </programme>
-  <programme start="20180320095800 -0600" stop="20180320102000 -0600" channel="TBS">
+  <programme start="20180319095800 -0600" stop="20180319102000 -0600" channel="TBS">
     <title lang="es">30 Rock</title>
   </programme>
-  <programme start="20180320102000 -0600" stop="20180320104200 -0600" channel="TBS">
+  <programme start="20180319102000 -0600" stop="20180319104200 -0600" channel="TBS">
     <title lang="es">30 Rock</title>
   </programme>
-  <programme start="20180320104200 -0600" stop="20180320110400 -0600" channel="TBS">
+  <programme start="20180319104200 -0600" stop="20180319110400 -0600" channel="TBS">
     <title lang="es">30 Rock</title>
   </programme>
-  <programme start="20180320110400 -0600" stop="20180320113000 -0600" channel="TBS">
+  <programme start="20180319110400 -0600" stop="20180319113000 -0600" channel="TBS">
     <title lang="es">30 Rock</title>
   </programme>
-  <programme start="20180320113000 -0600" stop="20180320120100 -0600" channel="TBS">
+  <programme start="20180319113000 -0600" stop="20180319120100 -0600" channel="TBS">
     <title lang="es">Angie Tribeca</title>
   </programme>
-  <programme start="20180320120100 -0600" stop="20180320141900 -0600" channel="TBS">
+  <programme start="20180319120100 -0600" stop="20180319141900 -0600" channel="TBS">
     <title lang="es">Julie &amp; julia</title>
   </programme>
-  <programme start="20180320141900 -0600" stop="20180320162400 -0600" channel="TBS">
+  <programme start="20180319141900 -0600" stop="20180319162400 -0600" channel="TBS">
     <title lang="es">Todo un parto</title>
   </programme>
-  <programme start="20180320162400 -0600" stop="20180320180500 -0600" channel="TBS">
+  <programme start="20180319162400 -0600" stop="20180319180500 -0600" channel="TBS">
     <title lang="es">Menores sin control</title>
   </programme>
-  <programme start="20180320180500 -0600" stop="20180320195800 -0600" channel="TBS">
+  <programme start="20180319180500 -0600" stop="20180319195800 -0600" channel="TBS">
     <title lang="es">El hombre de la casa</title>
   </programme>
-  <programme start="20180320195800 -0600" stop="20180320220000 -0600" channel="TBS">
+  <programme start="20180319195800 -0600" stop="20180319220000 -0600" channel="TBS">
     <title lang="es">Un accidente llamado amor</title>
   </programme>
-  <programme start="20180320220000 -0600" stop="20180321000600 -0600" channel="TBS">
+  <programme start="20180319220000 -0600" stop="20180320000600 -0600" channel="TBS">
     <title lang="es">Pueblo Chico Pistola Grande</title>
     <desc lang="es">Un granjero muy cobarde se enamora de una dama recién llegada al pueblo, ahora deberá tomar valor para el duelo a tiros con el esposo de la mujer(n)</desc>
     <credits>
@@ -27701,305 +27837,308 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20180321000600 -0600" stop="20180321002800 -0600" channel="TBS">
+  <programme start="20180320000600 -0600" stop="20180320002800 -0600" channel="TBS">
     <title lang="es">Angie Tribeca</title>
   </programme>
-  <programme start="20180321002800 -0600" stop="20180321011300 -0600" channel="TBS">
+  <programme start="20180320002800 -0600" stop="20180320011300 -0600" channel="TBS">
     <title lang="es">Angie Tribeca</title>
   </programme>
-  <programme start="20180321011300 -0600" stop="20180321020000 -0600" channel="TBS">
+  <programme start="20180320011300 -0600" stop="20180320020000 -0600" channel="TBS">
     <title lang="es">America's funniest videos</title>
   </programme>
-  <programme start="20180321020000 -0600" stop="20180321022200 -0600" channel="TBS">
+  <programme start="20180320020000 -0600" stop="20180320022200 -0600" channel="TBS">
     <title lang="es">30 Rock</title>
   </programme>
-  <programme start="20180321022200 -0600" stop="20180321024400 -0600" channel="TBS">
+  <programme start="20180320022200 -0600" stop="20180320024400 -0600" channel="TBS">
     <title lang="es">30 Rock</title>
   </programme>
-  <programme start="20180321024400 -0600" stop="20180321030600 -0600" channel="TBS">
+  <programme start="20180320024400 -0600" stop="20180320030600 -0600" channel="TBS">
     <title lang="es">30 Rock</title>
   </programme>
-  <programme start="20180321030600 -0600" stop="20180321033000 -0600" channel="TBS">
+  <programme start="20180320030600 -0600" stop="20180320033000 -0600" channel="TBS">
     <title lang="es">30 Rock</title>
   </programme>
-  <programme start="20180321033000 -0600" stop="20180321035200 -0600" channel="TBS">
+  <programme start="20180320033000 -0600" stop="20180320035200 -0600" channel="TBS">
     <title lang="es">30 Rock</title>
   </programme>
-  <programme start="20180321035200 -0600" stop="20180321041400 -0600" channel="TBS">
+  <programme start="20180320035200 -0600" stop="20180320041400 -0600" channel="TBS">
     <title lang="es">30 Rock</title>
   </programme>
-  <programme start="20180321041400 -0600" stop="20180321043600 -0600" channel="TBS">
+  <programme start="20180320041400 -0600" stop="20180320043600 -0600" channel="TBS">
     <title lang="es">30 Rock</title>
   </programme>
-  <programme start="20180321043600 -0600" stop="20180321050000 -0600" channel="TBS">
+  <programme start="20180320043600 -0600" stop="20180320050000 -0600" channel="TBS">
     <title lang="es">30 Rock</title>
   </programme>
-  <programme start="20180321050000 -0600" stop="20180321060000 -0600" channel="TBS">
+  <programme start="20180320050000 -0600" stop="20180320060000 -0600" channel="TBS">
     <title lang="es">Los Videos + Tontos del Mundo</title>
   </programme>
-  <programme start="20180321060000 -0600" stop="20180321062200 -0600" channel="TBS">
+  <programme start="20180320060000 -0600" stop="20180320062200 -0600" channel="TBS">
     <title lang="es">Los Videos + Tontos del Mundo</title>
   </programme>
-  <programme start="20180321062200 -0600" stop="20180321072900 -0600" channel="TBS">
+  <programme start="20180320062200 -0600" stop="20180320072900 -0600" channel="TBS">
     <title lang="es">Los Videos + Tontos del Mundo</title>
   </programme>
-  <programme start="20180321072900 -0600" stop="20180321075100 -0600" channel="TBS">
+  <programme start="20180320072900 -0600" stop="20180320075100 -0600" channel="TBS">
     <title lang="es">I'm sorry</title>
   </programme>
-  <programme start="20180321075100 -0600" stop="20180321082600 -0600" channel="TBS">
+  <programme start="20180320075100 -0600" stop="20180320082600 -0600" channel="TBS">
     <title lang="es">I'm sorry</title>
   </programme>
-  <programme start="20180321082600 -0600" stop="20180321084800 -0600" channel="TBS">
+  <programme start="20180320082600 -0600" stop="20180320084800 -0600" channel="TBS">
     <title lang="es">Anger Management</title>
   </programme>
-  <programme start="20180321084800 -0600" stop="20180321091000 -0600" channel="TBS">
+  <programme start="20180320084800 -0600" stop="20180320091000 -0600" channel="TBS">
     <title lang="es">Anger Management</title>
   </programme>
-  <programme start="20180321091000 -0600" stop="20180321093200 -0600" channel="TBS">
+  <programme start="20180320091000 -0600" stop="20180320093200 -0600" channel="TBS">
     <title lang="es">Anger Management</title>
   </programme>
-  <programme start="20180321093200 -0600" stop="20180321095800 -0600" channel="TBS">
+  <programme start="20180320093200 -0600" stop="20180320095800 -0600" channel="TBS">
     <title lang="es">Anger Management</title>
   </programme>
-  <programme start="20180321095800 -0600" stop="20180321102000 -0600" channel="TBS">
+  <programme start="20180320095800 -0600" stop="20180320102000 -0600" channel="TBS">
     <title lang="es">Anger Management</title>
   </programme>
-  <programme start="20180321102000 -0600" stop="20180321104200 -0600" channel="TBS">
+  <programme start="20180320102000 -0600" stop="20180320104200 -0600" channel="TBS">
     <title lang="es">Anger Management</title>
   </programme>
-  <programme start="20180321104200 -0600" stop="20180321110400 -0600" channel="TBS">
+  <programme start="20180320104200 -0600" stop="20180320110400 -0600" channel="TBS">
     <title lang="es">Anger Management</title>
   </programme>
-  <programme start="20180321110400 -0600" stop="20180321113000 -0600" channel="TBS">
+  <programme start="20180320110400 -0600" stop="20180320113000 -0600" channel="TBS">
     <title lang="es">Anger Management</title>
   </programme>
-  <programme start="20180321113000 -0600" stop="20180321115200 -0600" channel="TBS">
+  <programme start="20180320113000 -0600" stop="20180320115200 -0600" channel="TBS">
     <title lang="es">I'm sorry</title>
   </programme>
-  <programme start="20180321115200 -0600" stop="20180321121400 -0600" channel="TBS">
+  <programme start="20180320115200 -0600" stop="20180320121400 -0600" channel="TBS">
     <title lang="es">I'm sorry</title>
   </programme>
-  <programme start="20180321121400 -0600" stop="20180321123600 -0600" channel="TBS">
+  <programme start="20180320121400 -0600" stop="20180320123600 -0600" channel="TBS">
     <title lang="es">I'm sorry</title>
   </programme>
-  <programme start="20180321123600 -0600" stop="20180321125800 -0600" channel="TBS">
+  <programme start="20180320123600 -0600" stop="20180320125800 -0600" channel="TBS">
     <title lang="es">I'm sorry</title>
   </programme>
-  <programme start="20180321125800 -0600" stop="20180321132000 -0600" channel="TBS">
+  <programme start="20180320125800 -0600" stop="20180320132000 -0600" channel="TBS">
     <title lang="es">I'm sorry</title>
   </programme>
-  <programme start="20180321132000 -0600" stop="20180321143300 -0600" channel="TBS">
+  <programme start="20180320132000 -0600" stop="20180320143300 -0600" channel="TBS">
     <title lang="es">I'm sorry</title>
   </programme>
-  <programme start="20180321143300 -0600" stop="20180321162100 -0600" channel="TBS">
+  <programme start="20180320143300 -0600" stop="20180320162100 -0600" channel="TBS">
     <title lang="es">El hombre de la casa</title>
   </programme>
-  <programme start="20180321162100 -0600" stop="20180321182300 -0600" channel="TBS">
+  <programme start="20180320162100 -0600" stop="20180320182300 -0600" channel="TBS">
     <title lang="es">Un accidente llamado amor</title>
   </programme>
-  <programme start="20180321182300 -0600" stop="20180321195800 -0600" channel="TBS">
+  <programme start="20180320182300 -0600" stop="20180320195800 -0600" channel="TBS">
     <title lang="es">Seguridad no garantizada</title>
   </programme>
-  <programme start="20180321195800 -0600" stop="20180321220000 -0600" channel="TBS">
+  <programme start="20180320195800 -0600" stop="20180320220000 -0600" channel="TBS">
     <title lang="es">Amor eterno</title>
   </programme>
-  <programme start="20180321220000 -0600" stop="20180321235800 -0600" channel="TBS">
+  <programme start="20180320220000 -0600" stop="20180320235800 -0600" channel="TBS">
     <title lang="es">Proyecto X</title>
   </programme>
-  <programme start="20180321235800 -0600" stop="20180322002000 -0600" channel="TBS">
+  <programme start="20180320235800 -0600" stop="20180321002000 -0600" channel="TBS">
     <title lang="es">I'm sorry</title>
   </programme>
-  <programme start="20180322002000 -0600" stop="20180322010600 -0600" channel="TBS">
+  <programme start="20180321002000 -0600" stop="20180321010600 -0600" channel="TBS">
     <title lang="es">I'm sorry</title>
   </programme>
-  <programme start="20180322010600 -0600" stop="20180322015400 -0600" channel="TBS">
+  <programme start="20180321010600 -0600" stop="20180321015400 -0600" channel="TBS">
     <title lang="es">America's funniest videos</title>
   </programme>
-  <programme start="20180322015400 -0600" stop="20180322021600 -0600" channel="TBS">
+  <programme start="20180321015400 -0600" stop="20180321021600 -0600" channel="TBS">
     <title lang="es">Anger Management</title>
   </programme>
-  <programme start="20180322021600 -0600" stop="20180322023800 -0600" channel="TBS">
+  <programme start="20180321021600 -0600" stop="20180321023800 -0600" channel="TBS">
     <title lang="es">Anger Management</title>
   </programme>
-  <programme start="20180322023800 -0600" stop="20180322030000 -0600" channel="TBS">
+  <programme start="20180321023800 -0600" stop="20180321030000 -0600" channel="TBS">
     <title lang="es">Anger Management</title>
   </programme>
-  <programme start="20180322030000 -0600" stop="20180322032500 -0600" channel="TBS">
+  <programme start="20180321030000 -0600" stop="20180321032500 -0600" channel="TBS">
     <title lang="es">Anger Management</title>
   </programme>
-  <programme start="20180322032500 -0600" stop="20180322034700 -0600" channel="TBS">
+  <programme start="20180321032500 -0600" stop="20180321034700 -0600" channel="TBS">
     <title lang="es">Anger Management</title>
   </programme>
-  <programme start="20180322034700 -0600" stop="20180322040900 -0600" channel="TBS">
+  <programme start="20180321034700 -0600" stop="20180321040900 -0600" channel="TBS">
     <title lang="es">Anger Management</title>
   </programme>
-  <programme start="20180322040900 -0600" stop="20180322043100 -0600" channel="TBS">
+  <programme start="20180321040900 -0600" stop="20180321043100 -0600" channel="TBS">
     <title lang="es">Anger Management</title>
   </programme>
-  <programme start="20180322043100 -0600" stop="20180322045500 -0600" channel="TBS">
+  <programme start="20180321043100 -0600" stop="20180321045500 -0600" channel="TBS">
     <title lang="es">Anger Management</title>
   </programme>
-  <programme start="20180322045500 -0600" stop="20180322060000 -0600" channel="TBS">
+  <programme start="20180321045500 -0600" stop="20180321060000 -0600" channel="TBS">
     <title lang="es">Los Videos + Tontos del Mundo</title>
   </programme>
-  <programme start="20180322060000 -0600" stop="20180322063400 -0600" channel="TBS">
+  <programme start="20180321060000 -0600" stop="20180321063400 -0600" channel="TBS">
     <title lang="es">Hollywood one on one</title>
   </programme>
-  <programme start="20180322063400 -0600" stop="20180322072100 -0600" channel="TBS">
+  <programme start="20180321063400 -0600" stop="20180321072100 -0600" channel="TBS">
     <title lang="es">Los Videos + Tontos del Mundo</title>
   </programme>
-  <programme start="20180322072100 -0600" stop="20180322074300 -0600" channel="TBS">
+  <programme start="20180321072100 -0600" stop="20180321074300 -0600" channel="TBS">
     <title lang="es">Reprobados</title>
   </programme>
-  <programme start="20180322074300 -0600" stop="20180322081400 -0600" channel="TBS">
+  <programme start="20180321074300 -0600" stop="20180321081400 -0600" channel="TBS">
     <title lang="es">Reprobados</title>
   </programme>
-  <programme start="20180322081400 -0600" stop="20180322083600 -0600" channel="TBS">
+  <programme start="20180321081400 -0600" stop="20180321083600 -0600" channel="TBS">
     <title lang="es">La Niñera</title>
   </programme>
-  <programme start="20180322083600 -0600" stop="20180322085800 -0600" channel="TBS">
+  <programme start="20180321083600 -0600" stop="20180321085800 -0600" channel="TBS">
     <title lang="es">La Niñera</title>
   </programme>
-  <programme start="20180322085800 -0600" stop="20180322092000 -0600" channel="TBS">
+  <programme start="20180321085800 -0600" stop="20180321092000 -0600" channel="TBS">
     <title lang="es">La Niñera</title>
   </programme>
-  <programme start="20180322092000 -0600" stop="20180322095200 -0600" channel="TBS">
+  <programme start="20180321092000 -0600" stop="20180321095200 -0600" channel="TBS">
     <title lang="es">La Niñera</title>
   </programme>
-  <programme start="20180322095200 -0600" stop="20180322101400 -0600" channel="TBS">
+  <programme start="20180321095200 -0600" stop="20180321101400 -0600" channel="TBS">
     <title lang="es">La Niñera</title>
   </programme>
-  <programme start="20180322101400 -0600" stop="20180322103600 -0600" channel="TBS">
+  <programme start="20180321101400 -0600" stop="20180321103600 -0600" channel="TBS">
     <title lang="es">La Niñera</title>
   </programme>
-  <programme start="20180322103600 -0600" stop="20180322105800 -0600" channel="TBS">
+  <programme start="20180321103600 -0600" stop="20180321105800 -0600" channel="TBS">
     <title lang="es">La Niñera</title>
   </programme>
-  <programme start="20180322105800 -0600" stop="20180322113000 -0600" channel="TBS">
+  <programme start="20180321105800 -0600" stop="20180321113000 -0600" channel="TBS">
     <title lang="es">La Niñera</title>
   </programme>
-  <programme start="20180322113000 -0600" stop="20180322115200 -0600" channel="TBS">
+  <programme start="20180321113000 -0600" stop="20180321115200 -0600" channel="TBS">
     <title lang="es">The Mindy Project</title>
   </programme>
-  <programme start="20180322115200 -0600" stop="20180322121400 -0600" channel="TBS">
+  <programme start="20180321115200 -0600" stop="20180321121400 -0600" channel="TBS">
     <title lang="es">The Mindy Project</title>
   </programme>
-  <programme start="20180322121400 -0600" stop="20180322125100 -0600" channel="TBS">
+  <programme start="20180321121400 -0600" stop="20180321125100 -0600" channel="TBS">
     <title lang="es">The Mindy Project</title>
   </programme>
-  <programme start="20180322125100 -0600" stop="20180322160200 -0600" channel="TBS">
+  <programme start="20180321125100 -0600" stop="20180321160200 -0600" channel="TBS">
     <title lang="es">Pearl Harbor</title>
   </programme>
-  <programme start="20180322160200 -0600" stop="20180322180600 -0600" channel="TBS">
+  <programme start="20180321160200 -0600" stop="20180321180600 -0600" channel="TBS">
     <title lang="es">Asi somos</title>
   </programme>
-  <programme start="20180322180600 -0600" stop="20180322195000 -0600" channel="TBS">
+  <programme start="20180321180600 -0600" stop="20180321195000 -0600" channel="TBS">
     <title lang="es">Doble identidad</title>
   </programme>
-  <programme start="20180322195000 -0600" stop="20180322220000 -0600" channel="TBS">
+  <programme start="20180321195000 -0600" stop="20180321220000 -0600" channel="TBS">
     <title lang="es">Duelo de titanes</title>
   </programme>
-  <programme start="20180322220000 -0600" stop="20180322235700 -0600" channel="TBS">
+  <programme start="20180321220000 -0600" stop="20180321235700 -0600" channel="TBS">
     <title lang="es">American Pie 5</title>
   </programme>
-  <programme start="20180322235700 -0600" stop="20180323001900 -0600" channel="TBS">
+  <programme start="20180321235700 -0600" stop="20180322001900 -0600" channel="TBS">
     <title lang="es">The Mindy Project</title>
   </programme>
-  <programme start="20180323001900 -0600" stop="20180323010100 -0600" channel="TBS">
+  <programme start="20180322001900 -0600" stop="20180322010100 -0600" channel="TBS">
     <title lang="es">The Mindy Project</title>
   </programme>
-  <programme start="20180323010100 -0600" stop="20180323014700 -0600" channel="TBS">
+  <programme start="20180322010100 -0600" stop="20180322014700 -0600" channel="TBS">
     <title lang="es">America's funniest videos</title>
   </programme>
-  <programme start="20180323014700 -0600" stop="20180323020900 -0600" channel="TBS">
+  <programme start="20180322014700 -0600" stop="20180322020900 -0600" channel="TBS">
     <title lang="es">La Niñera</title>
   </programme>
-  <programme start="20180323020900 -0600" stop="20180323023100 -0600" channel="TBS">
+  <programme start="20180322020900 -0600" stop="20180322023100 -0600" channel="TBS">
     <title lang="es">La Niñera</title>
   </programme>
-  <programme start="20180323023100 -0600" stop="20180323025300 -0600" channel="TBS">
+  <programme start="20180322023100 -0600" stop="20180322025300 -0600" channel="TBS">
     <title lang="es">La Niñera</title>
   </programme>
-  <programme start="20180323025300 -0600" stop="20180323032300 -0600" channel="TBS">
+  <programme start="20180322025300 -0600" stop="20180322032300 -0600" channel="TBS">
     <title lang="es">La Niñera</title>
   </programme>
-  <programme start="20180323032300 -0600" stop="20180323034500 -0600" channel="TBS">
+  <programme start="20180322032300 -0600" stop="20180322034500 -0600" channel="TBS">
     <title lang="es">La Niñera</title>
   </programme>
-  <programme start="20180323034500 -0600" stop="20180323040700 -0600" channel="TBS">
+  <programme start="20180322034500 -0600" stop="20180322040700 -0600" channel="TBS">
     <title lang="es">La Niñera</title>
   </programme>
-  <programme start="20180323040700 -0600" stop="20180323042900 -0600" channel="TBS">
+  <programme start="20180322040700 -0600" stop="20180322042900 -0600" channel="TBS">
     <title lang="es">La Niñera</title>
   </programme>
-  <programme start="20180323042900 -0600" stop="20180323045900 -0600" channel="TBS">
+  <programme start="20180322042900 -0600" stop="20180322045900 -0600" channel="TBS">
     <title lang="es">La Niñera</title>
   </programme>
-  <programme start="20180323045900 -0600" stop="20180323060000 -0600" channel="TBS">
+  <programme start="20180322045900 -0600" stop="20180322060000 -0600" channel="TBS">
     <title lang="es">Los Videos + Tontos del Mundo</title>
   </programme>
-  <programme start="20180323060000 -0600" stop="20180323062200 -0600" channel="TBS">
+  <programme start="20180322060000 -0600" stop="20180322062200 -0600" channel="TBS">
     <title lang="es">Los Videos + Tontos del Mundo</title>
   </programme>
-  <programme start="20180323062200 -0600" stop="20180323072900 -0600" channel="TBS">
+  <programme start="20180322062200 -0600" stop="20180322072900 -0600" channel="TBS">
     <title lang="es">Los Videos + Tontos del Mundo</title>
   </programme>
-  <programme start="20180323072900 -0600" stop="20180323075100 -0600" channel="TBS">
+  <programme start="20180322072900 -0600" stop="20180322075100 -0600" channel="TBS">
     <title lang="es">Search party</title>
   </programme>
-  <programme start="20180323075100 -0600" stop="20180323082600 -0600" channel="TBS">
+  <programme start="20180322075100 -0600" stop="20180322082600 -0600" channel="TBS">
     <title lang="es">Search party</title>
   </programme>
-  <programme start="20180323082600 -0600" stop="20180323084800 -0600" channel="TBS">
+  <programme start="20180322082600 -0600" stop="20180322084800 -0600" channel="TBS">
     <title lang="es">Brooklyn nine-nine</title>
   </programme>
-  <programme start="20180323084800 -0600" stop="20180323091000 -0600" channel="TBS">
+  <programme start="20180322084800 -0600" stop="20180322091000 -0600" channel="TBS">
     <title lang="es">Brooklyn nine-nine</title>
   </programme>
-  <programme start="20180323091000 -0600" stop="20180323093200 -0600" channel="TBS">
+  <programme start="20180322091000 -0600" stop="20180322093200 -0600" channel="TBS">
     <title lang="es">Brooklyn nine-nine</title>
   </programme>
-  <programme start="20180323093200 -0600" stop="20180323095700 -0600" channel="TBS">
+  <programme start="20180322093200 -0600" stop="20180322095700 -0600" channel="TBS">
     <title lang="es">Brooklyn nine-nine</title>
   </programme>
-  <programme start="20180323095700 -0600" stop="20180323101900 -0600" channel="TBS">
+  <programme start="20180322095700 -0600" stop="20180322101900 -0600" channel="TBS">
     <title lang="es">Brooklyn nine-nine</title>
   </programme>
-  <programme start="20180323101900 -0600" stop="20180323104100 -0600" channel="TBS">
+  <programme start="20180322101900 -0600" stop="20180322104100 -0600" channel="TBS">
     <title lang="es">Brooklyn nine-nine</title>
   </programme>
-  <programme start="20180323104100 -0600" stop="20180323110300 -0600" channel="TBS">
+  <programme start="20180322104100 -0600" stop="20180322110300 -0600" channel="TBS">
     <title lang="es">Brooklyn nine-nine</title>
   </programme>
-  <programme start="20180323110300 -0600" stop="20180323113000 -0600" channel="TBS">
+  <programme start="20180322110300 -0600" stop="20180322113000 -0600" channel="TBS">
     <title lang="es">Brooklyn nine-nine</title>
   </programme>
-  <programme start="20180323113000 -0600" stop="20180323115200 -0600" channel="TBS">
+  <programme start="20180322113000 -0600" stop="20180322115200 -0600" channel="TBS">
     <title lang="es">Search party</title>
   </programme>
-  <programme start="20180323115200 -0600" stop="20180323121400 -0600" channel="TBS">
+  <programme start="20180322115200 -0600" stop="20180322121400 -0600" channel="TBS">
     <title lang="es">Search party</title>
   </programme>
-  <programme start="20180323121400 -0600" stop="20180323123600 -0600" channel="TBS">
+  <programme start="20180322121400 -0600" stop="20180322123600 -0600" channel="TBS">
     <title lang="es">Search party</title>
   </programme>
-  <programme start="20180323123600 -0600" stop="20180323132800 -0600" channel="TBS">
+  <programme start="20180322123600 -0600" stop="20180322132800 -0600" channel="TBS">
     <title lang="es">Search party</title>
   </programme>
-  <programme start="20180323132800 -0600" stop="20180323150700 -0600" channel="TBS">
+  <programme start="20180322132800 -0600" stop="20180322150700 -0600" channel="TBS">
     <title lang="es">Doble identidad</title>
   </programme>
-  <programme start="20180323150700 -0600" stop="20180323171900 -0600" channel="TBS">
+  <programme start="20180322150700 -0600" stop="20180322171900 -0600" channel="TBS">
     <title lang="es">Duelo de titanes</title>
   </programme>
-  <programme start="20180323171900 -0600" stop="20180323195000 -0600" channel="TBS">
+  <programme start="20180322171900 -0600" stop="20180322195000 -0600" channel="TBS">
     <title lang="es">Spanglish</title>
   </programme>
-  <programme start="20180323195000 -0600" stop="20180323220000 -0600" channel="TBS">
+  <programme start="20180322195000 -0600" stop="20180322220000 -0600" channel="TBS">
     <title lang="es">Jugando sucio</title>
   </programme>
-  <programme start="20180323220000 -0600" stop="20180323235100 -0600" channel="TBS">
+  <programme start="20180322220000 -0600" stop="20180322235100 -0600" channel="TBS">
     <title lang="es">Cansada de besar sapos</title>
+  </programme>
+  <programme start="20180322235100 -0600" stop="20180323001300 -0600" channel="TBS">
+    <title lang="es">El desvío</title>
   </programme>
   <programme start="20180323235100 -0600" stop="20180324001300 -0600" channel="TBS">
     <title lang="es">El desvío</title>
@@ -28061,254 +28200,251 @@
   <programme start="20180317220800 -0600" stop="20180318002400 -0600" channel="TCM">
     <title lang="es">Lobo</title>
   </programme>
-  <programme start="20180318220800 -0600" stop="20180319002400 -0600" channel="TCM">
-    <title lang="es">Lobo</title>
-  </programme>
-  <programme start="20180319002400 -0600" stop="20180319020000 -0600" channel="TCM">
+  <programme start="20180318002400 -0600" stop="20180318020000 -0600" channel="TCM">
     <title lang="es">Sobreviven</title>
   </programme>
-  <programme start="20180319020000 -0600" stop="20180319035000 -0600" channel="TCM">
+  <programme start="20180318020000 -0600" stop="20180318035000 -0600" channel="TCM">
     <title lang="es">La Hora del Espanto</title>
   </programme>
-  <programme start="20180319035000 -0600" stop="20180319042300 -0600" channel="TCM">
+  <programme start="20180318035000 -0600" stop="20180318042300 -0600" channel="TCM">
     <title lang="es">Spoiler Alert</title>
   </programme>
-  <programme start="20180319042300 -0600" stop="20180319050900 -0600" channel="TCM">
+  <programme start="20180318042300 -0600" stop="20180318050900 -0600" channel="TCM">
     <title lang="es">Xena la princesa guerrera</title>
   </programme>
-  <programme start="20180319050900 -0600" stop="20180319053600 -0600" channel="TCM">
+  <programme start="20180318050900 -0600" stop="20180318053600 -0600" channel="TCM">
     <title lang="es">Casados con Hijos</title>
   </programme>
-  <programme start="20180319053600 -0600" stop="20180319060200 -0600" channel="TCM">
+  <programme start="20180318053600 -0600" stop="20180318060200 -0600" channel="TCM">
     <title lang="es">Casados con Hijos</title>
   </programme>
-  <programme start="20180319060200 -0600" stop="20180319062800 -0600" channel="TCM">
+  <programme start="20180318060200 -0600" stop="20180318062800 -0600" channel="TCM">
     <title lang="es">La Niñera</title>
   </programme>
-  <programme start="20180319062800 -0600" stop="20180319065600 -0600" channel="TCM">
+  <programme start="20180318062800 -0600" stop="20180318065600 -0600" channel="TCM">
     <title lang="es">La Niñera</title>
   </programme>
-  <programme start="20180319065600 -0600" stop="20180319074500 -0600" channel="TCM">
+  <programme start="20180318065600 -0600" stop="20180318074500 -0600" channel="TCM">
     <title lang="es">Xena la princesa guerrera</title>
   </programme>
-  <programme start="20180319074500 -0600" stop="20180319081100 -0600" channel="TCM">
+  <programme start="20180318074500 -0600" stop="20180318081100 -0600" channel="TCM">
+    <title lang="es">Casados con Hijos</title>
+  </programme>
+  <programme start="20180318081100 -0600" stop="20180318083900 -0600" channel="TCM">
+    <title lang="es">Casados con Hijos</title>
+  </programme>
+  <programme start="20180318083900 -0600" stop="20180318090500 -0600" channel="TCM">
+    <title lang="es">La Niñera</title>
+  </programme>
+  <programme start="20180318090500 -0600" stop="20180318093300 -0600" channel="TCM">
+    <title lang="es">La Niñera</title>
+  </programme>
+  <programme start="20180318093300 -0600" stop="20180318121800 -0600" channel="TCM">
+    <title lang="es">Río bravo</title>
+  </programme>
+  <programme start="20180318121800 -0600" stop="20180318144700 -0600" channel="TCM">
+    <title lang="es">Godzilla</title>
+    <desc lang="es">Una lagartija muta a un tamaño descomunal por culpa de experimentos radioactivos que ahora amenaza con destruir la isla de Manhattan(n)</desc>
+    <credits>
+      <actor>Matthew Broderick</actor>
+      <actor>Jean Reno</actor>
+      <actor>Maria Pitillo</actor>
+      <actor>Hank Azaria</actor>
+      <actor>Kevin Dunn</actor>
+      <producer>Dean Devlin</producer>
+      <composer>David Arnold</composer>
+    </credits>
+    <date>1998</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Suspenso</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/godzilla.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20180318144700 -0600" stop="20180318162200 -0600" channel="TCM">
+    <title lang="es">Anaconda</title>
+  </programme>
+  <programme start="20180318162200 -0600" stop="20180318175900 -0600" channel="TCM">
+    <title lang="es">Critters: extrañas criaturas</title>
+  </programme>
+  <programme start="20180318175900 -0600" stop="20180318200000 -0600" channel="TCM">
+    <title lang="es">Gremlins</title>
+  </programme>
+  <programme start="20180318200000 -0600" stop="20180318221600 -0600" channel="TCM">
+    <title lang="es">Lobo</title>
+  </programme>
+  <programme start="20180318221600 -0600" stop="20180319000900 -0600" channel="TCM">
+    <title lang="es">La Hora del Espanto</title>
+  </programme>
+  <programme start="20180319000900 -0600" stop="20180319013300 -0600" channel="TCM">
+    <title lang="es">Fuego</title>
+  </programme>
+  <programme start="20180319013300 -0600" stop="20180319032500 -0600" channel="TCM">
+    <title lang="es">La diosa impura</title>
+  </programme>
+  <programme start="20180319032500 -0600" stop="20180319040000 -0600" channel="TCM">
+    <title lang="es">Spoiler Alert</title>
+  </programme>
+  <programme start="20180319040000 -0600" stop="20180319042500 -0600" channel="TCM">
+    <title lang="es">Spoiler Alert</title>
+  </programme>
+  <programme start="20180319042500 -0600" stop="20180319051300 -0600" channel="TCM">
+    <title lang="es">Xena la princesa guerrera</title>
+  </programme>
+  <programme start="20180319051300 -0600" stop="20180319053900 -0600" channel="TCM">
+    <title lang="es">Casados con Hijos</title>
+  </programme>
+  <programme start="20180319053900 -0600" stop="20180319060600 -0600" channel="TCM">
+    <title lang="es">Casados con Hijos</title>
+  </programme>
+  <programme start="20180319060600 -0600" stop="20180319063200 -0600" channel="TCM">
+    <title lang="es">La Niñera</title>
+  </programme>
+  <programme start="20180319063200 -0600" stop="20180319065900 -0600" channel="TCM">
+    <title lang="es">La Niñera</title>
+  </programme>
+  <programme start="20180319065900 -0600" stop="20180319074400 -0600" channel="TCM">
+    <title lang="es">Xena la princesa guerrera</title>
+  </programme>
+  <programme start="20180319074400 -0600" stop="20180319081100 -0600" channel="TCM">
     <title lang="es">Casados con Hijos</title>
   </programme>
   <programme start="20180319081100 -0600" stop="20180319083900 -0600" channel="TCM">
     <title lang="es">Casados con Hijos</title>
   </programme>
-  <programme start="20180319083900 -0600" stop="20180319090500 -0600" channel="TCM">
+  <programme start="20180319083900 -0600" stop="20180319090400 -0600" channel="TCM">
     <title lang="es">La Niñera</title>
   </programme>
-  <programme start="20180319090500 -0600" stop="20180319093300 -0600" channel="TCM">
+  <programme start="20180319090400 -0600" stop="20180319093200 -0600" channel="TCM">
     <title lang="es">La Niñera</title>
   </programme>
-  <programme start="20180319093300 -0600" stop="20180319121800 -0600" channel="TCM">
-    <title lang="es">Río bravo</title>
-  </programme>
-  <programme start="20180319121800 -0600" stop="20180319144700 -0600" channel="TCM">
-    <title lang="es">Godzilla</title>
-    <desc lang="es">Una lagartija muta a un tamaño descomunal por culpa de experimentos radioactivos que ahora amenaza con destruir la isla de Manhattan(n)</desc>
-    <credits>
-      <actor>Matthew Broderick</actor>
-      <actor>Jean Reno</actor>
-      <actor>Maria Pitillo</actor>
-      <actor>Hank Azaria</actor>
-      <actor>Kevin Dunn</actor>
-      <producer>Dean Devlin</producer>
-      <composer>David Arnold</composer>
-    </credits>
-    <date>1998</date>
-    <category lang="es">Acción</category>
-    <category lang="es">Ciencia Ficción</category>
-    <category lang="es">Suspenso</category>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/godzilla.jpg" />
-    <rating>
-      <value>PG-13</value>
-    </rating>
-  </programme>
-  <programme start="20180319144700 -0600" stop="20180319162200 -0600" channel="TCM">
-    <title lang="es">Anaconda</title>
-  </programme>
-  <programme start="20180319162200 -0600" stop="20180319175900 -0600" channel="TCM">
-    <title lang="es">Critters: extrañas criaturas</title>
-  </programme>
-  <programme start="20180319175900 -0600" stop="20180319200000 -0600" channel="TCM">
-    <title lang="es">Gremlins</title>
-  </programme>
-  <programme start="20180319200000 -0600" stop="20180319221600 -0600" channel="TCM">
-    <title lang="es">Lobo</title>
-  </programme>
-  <programme start="20180319221600 -0600" stop="20180320000900 -0600" channel="TCM">
-    <title lang="es">La Hora del Espanto</title>
-  </programme>
-  <programme start="20180320000900 -0600" stop="20180320013300 -0600" channel="TCM">
-    <title lang="es">Fuego</title>
-  </programme>
-  <programme start="20180320013300 -0600" stop="20180320032500 -0600" channel="TCM">
-    <title lang="es">La diosa impura</title>
-  </programme>
-  <programme start="20180320032500 -0600" stop="20180320040000 -0600" channel="TCM">
-    <title lang="es">Spoiler Alert</title>
-  </programme>
-  <programme start="20180320040000 -0600" stop="20180320042500 -0600" channel="TCM">
-    <title lang="es">Spoiler Alert</title>
-  </programme>
-  <programme start="20180320042500 -0600" stop="20180320051300 -0600" channel="TCM">
-    <title lang="es">Xena la princesa guerrera</title>
-  </programme>
-  <programme start="20180320051300 -0600" stop="20180320053900 -0600" channel="TCM">
-    <title lang="es">Casados con Hijos</title>
-  </programme>
-  <programme start="20180320053900 -0600" stop="20180320060600 -0600" channel="TCM">
-    <title lang="es">Casados con Hijos</title>
-  </programme>
-  <programme start="20180320060600 -0600" stop="20180320063200 -0600" channel="TCM">
-    <title lang="es">La Niñera</title>
-  </programme>
-  <programme start="20180320063200 -0600" stop="20180320065900 -0600" channel="TCM">
-    <title lang="es">La Niñera</title>
-  </programme>
-  <programme start="20180320065900 -0600" stop="20180320074400 -0600" channel="TCM">
-    <title lang="es">Xena la princesa guerrera</title>
-  </programme>
-  <programme start="20180320074400 -0600" stop="20180320081100 -0600" channel="TCM">
-    <title lang="es">Casados con Hijos</title>
-  </programme>
-  <programme start="20180320081100 -0600" stop="20180320083900 -0600" channel="TCM">
-    <title lang="es">Casados con Hijos</title>
-  </programme>
-  <programme start="20180320083900 -0600" stop="20180320090400 -0600" channel="TCM">
-    <title lang="es">La Niñera</title>
-  </programme>
-  <programme start="20180320090400 -0600" stop="20180320093200 -0600" channel="TCM">
-    <title lang="es">La Niñera</title>
-  </programme>
-  <programme start="20180320093200 -0600" stop="20180320114000 -0600" channel="TCM">
+  <programme start="20180319093200 -0600" stop="20180319114000 -0600" channel="TCM">
     <title lang="es">Una relación peligrosa</title>
   </programme>
-  <programme start="20180320114000 -0600" stop="20180320132000 -0600" channel="TCM">
+  <programme start="20180319114000 -0600" stop="20180319132000 -0600" channel="TCM">
     <title lang="es">Los Muppets en el espacio</title>
   </programme>
-  <programme start="20180320132000 -0600" stop="20180320151200 -0600" channel="TCM">
+  <programme start="20180319132000 -0600" stop="20180319151200 -0600" channel="TCM">
     <title lang="es">Willy Wonka y la fábrica</title>
   </programme>
-  <programme start="20180320151200 -0600" stop="20180320172500 -0600" channel="TCM">
+  <programme start="20180319151200 -0600" stop="20180319172500 -0600" channel="TCM">
     <title lang="es">Filadelfia</title>
   </programme>
-  <programme start="20180320172500 -0600" stop="20180320200000 -0600" channel="TCM">
+  <programme start="20180319172500 -0600" stop="20180319200000 -0600" channel="TCM">
     <title lang="es">Cuestión de honor</title>
   </programme>
-  <programme start="20180320200000 -0600" stop="20180320220500 -0600" channel="TCM">
+  <programme start="20180319200000 -0600" stop="20180319220500 -0600" channel="TCM">
     <title lang="es">Air America</title>
   </programme>
-  <programme start="20180320220500 -0600" stop="20180320234500 -0600" channel="TCM">
+  <programme start="20180319220500 -0600" stop="20180319234500 -0600" channel="TCM">
     <title lang="es">Hard target:Operación cacería</title>
   </programme>
-  <programme start="20180320234500 -0600" stop="20180321012200 -0600" channel="TCM">
+  <programme start="20180319234500 -0600" stop="20180320012200 -0600" channel="TCM">
     <title lang="es">El reclamador</title>
   </programme>
-  <programme start="20180321012200 -0600" stop="20180321034900 -0600" channel="TCM">
+  <programme start="20180320012200 -0600" stop="20180320034900 -0600" channel="TCM">
     <title lang="es">Nacido el 4 de Julio</title>
   </programme>
-  <programme start="20180321034900 -0600" stop="20180321044000 -0600" channel="TCM">
+  <programme start="20180320034900 -0600" stop="20180320044000 -0600" channel="TCM">
     <title lang="es">Spoiler Alert</title>
   </programme>
-  <programme start="20180321044000 -0600" stop="20180321053000 -0600" channel="TCM">
+  <programme start="20180320044000 -0600" stop="20180320053000 -0600" channel="TCM">
     <title lang="es">Xena la princesa guerrera</title>
   </programme>
-  <programme start="20180321053000 -0600" stop="20180321055500 -0600" channel="TCM">
+  <programme start="20180320053000 -0600" stop="20180320055500 -0600" channel="TCM">
     <title lang="es">Casados con Hijos</title>
   </programme>
-  <programme start="20180321055500 -0600" stop="20180321062000 -0600" channel="TCM">
+  <programme start="20180320055500 -0600" stop="20180320062000 -0600" channel="TCM">
     <title lang="es">Casados con Hijos</title>
   </programme>
-  <programme start="20180321062000 -0600" stop="20180321064500 -0600" channel="TCM">
+  <programme start="20180320062000 -0600" stop="20180320064500 -0600" channel="TCM">
     <title lang="es">La Niñera</title>
   </programme>
-  <programme start="20180321064500 -0600" stop="20180321071000 -0600" channel="TCM">
+  <programme start="20180320064500 -0600" stop="20180320071000 -0600" channel="TCM">
     <title lang="es">La Niñera</title>
   </programme>
-  <programme start="20180321071000 -0600" stop="20180321080000 -0600" channel="TCM">
+  <programme start="20180320071000 -0600" stop="20180320080000 -0600" channel="TCM">
     <title lang="es">Xena la princesa guerrera</title>
   </programme>
-  <programme start="20180321080000 -0600" stop="20180321082500 -0600" channel="TCM">
+  <programme start="20180320080000 -0600" stop="20180320082500 -0600" channel="TCM">
     <title lang="es">Casados con Hijos</title>
   </programme>
-  <programme start="20180321082500 -0600" stop="20180321085000 -0600" channel="TCM">
+  <programme start="20180320082500 -0600" stop="20180320085000 -0600" channel="TCM">
     <title lang="es">Casados con Hijos</title>
   </programme>
-  <programme start="20180321085000 -0600" stop="20180321091500 -0600" channel="TCM">
+  <programme start="20180320085000 -0600" stop="20180320091500 -0600" channel="TCM">
     <title lang="es">La Niñera</title>
   </programme>
-  <programme start="20180321091500 -0600" stop="20180321094000 -0600" channel="TCM">
+  <programme start="20180320091500 -0600" stop="20180320094000 -0600" channel="TCM">
     <title lang="es">La Niñera</title>
   </programme>
-  <programme start="20180321094000 -0600" stop="20180321112000 -0600" channel="TCM">
+  <programme start="20180320094000 -0600" stop="20180320112000 -0600" channel="TCM">
     <title lang="es">Los Muppets en el espacio</title>
   </programme>
-  <programme start="20180321112000 -0600" stop="20180321135400 -0600" channel="TCM">
+  <programme start="20180320112000 -0600" stop="20180320135400 -0600" channel="TCM">
     <title lang="es">Cuestión de honor</title>
   </programme>
-  <programme start="20180321135400 -0600" stop="20180321161100 -0600" channel="TCM">
+  <programme start="20180320135400 -0600" stop="20180320161100 -0600" channel="TCM">
     <title lang="es">Filadelfia</title>
   </programme>
-  <programme start="20180321161100 -0600" stop="20180321175700 -0600" channel="TCM">
+  <programme start="20180320161100 -0600" stop="20180320175700 -0600" channel="TCM">
     <title lang="es">Nuestro amor</title>
   </programme>
-  <programme start="20180321175700 -0600" stop="20180321200000 -0600" channel="TCM">
+  <programme start="20180320175700 -0600" stop="20180320200000 -0600" channel="TCM">
     <title lang="es">Air America</title>
   </programme>
-  <programme start="20180321200000 -0600" stop="20180321214600 -0600" channel="TCM">
+  <programme start="20180320200000 -0600" stop="20180320214600 -0600" channel="TCM">
     <title lang="es">Hard target:Operación cacería</title>
   </programme>
-  <programme start="20180321214600 -0600" stop="20180321233000 -0600" channel="TCM">
+  <programme start="20180320214600 -0600" stop="20180320233000 -0600" channel="TCM">
     <title lang="es">Difícil de matar</title>
   </programme>
-  <programme start="20180321233000 -0600" stop="20180322015900 -0600" channel="TCM">
+  <programme start="20180320233000 -0600" stop="20180321015900 -0600" channel="TCM">
     <title lang="es">Nacido el 4 de Julio</title>
   </programme>
-  <programme start="20180322015900 -0600" stop="20180322040500 -0600" channel="TCM">
+  <programme start="20180321015900 -0600" stop="20180321040500 -0600" channel="TCM">
     <title lang="es">Highlander</title>
   </programme>
-  <programme start="20180322040500 -0600" stop="20180322045500 -0600" channel="TCM">
+  <programme start="20180321040500 -0600" stop="20180321045500 -0600" channel="TCM">
     <title lang="es">Xena la princesa guerrera</title>
   </programme>
-  <programme start="20180322045500 -0600" stop="20180322054500 -0600" channel="TCM">
+  <programme start="20180321045500 -0600" stop="20180321054500 -0600" channel="TCM">
     <title lang="es">Xena la princesa guerrera</title>
   </programme>
-  <programme start="20180322054500 -0600" stop="20180322061000 -0600" channel="TCM">
+  <programme start="20180321054500 -0600" stop="20180321061000 -0600" channel="TCM">
     <title lang="es">Casados con Hijos</title>
   </programme>
-  <programme start="20180322061000 -0600" stop="20180322063500 -0600" channel="TCM">
+  <programme start="20180321061000 -0600" stop="20180321063500 -0600" channel="TCM">
     <title lang="es">Casados con Hijos</title>
   </programme>
-  <programme start="20180322063500 -0600" stop="20180322070000 -0600" channel="TCM">
+  <programme start="20180321063500 -0600" stop="20180321070000 -0600" channel="TCM">
     <title lang="es">La Niñera</title>
   </programme>
-  <programme start="20180322070000 -0600" stop="20180322072500 -0600" channel="TCM">
+  <programme start="20180321070000 -0600" stop="20180321072500 -0600" channel="TCM">
     <title lang="es">La Niñera</title>
   </programme>
-  <programme start="20180322072500 -0600" stop="20180322081500 -0600" channel="TCM">
+  <programme start="20180321072500 -0600" stop="20180321081500 -0600" channel="TCM">
     <title lang="es">Xena la princesa guerrera</title>
   </programme>
-  <programme start="20180322081500 -0600" stop="20180322084000 -0600" channel="TCM">
+  <programme start="20180321081500 -0600" stop="20180321084000 -0600" channel="TCM">
     <title lang="es">Casados con Hijos</title>
   </programme>
-  <programme start="20180322084000 -0600" stop="20180322090500 -0600" channel="TCM">
+  <programme start="20180321084000 -0600" stop="20180321090500 -0600" channel="TCM">
     <title lang="es">Casados con Hijos</title>
   </programme>
-  <programme start="20180322090500 -0600" stop="20180322093000 -0600" channel="TCM">
+  <programme start="20180321090500 -0600" stop="20180321093000 -0600" channel="TCM">
     <title lang="es">La Niñera</title>
   </programme>
-  <programme start="20180322093000 -0600" stop="20180322095500 -0600" channel="TCM">
+  <programme start="20180321093000 -0600" stop="20180321095500 -0600" channel="TCM">
     <title lang="es">La Niñera</title>
   </programme>
-  <programme start="20180322095500 -0600" stop="20180322115000 -0600" channel="TCM">
+  <programme start="20180321095500 -0600" stop="20180321115000 -0600" channel="TCM">
     <title lang="es">Willy Wonka y la fábrica</title>
   </programme>
-  <programme start="20180322115000 -0600" stop="20180322141700 -0600" channel="TCM">
+  <programme start="20180321115000 -0600" stop="20180321141700 -0600" channel="TCM">
     <title lang="es">Godzilla</title>
     <desc lang="es">Una lagartija muta a un tamaño descomunal por culpa de experimentos radioactivos que ahora amenaza con destruir la isla de Manhattan(n)</desc>
     <credits>
@@ -28330,25 +28466,25 @@
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20180322141700 -0600" stop="20180322160300 -0600" channel="TCM">
+  <programme start="20180321141700 -0600" stop="20180321160300 -0600" channel="TCM">
     <title lang="es">Nuestro amor</title>
   </programme>
-  <programme start="20180322160300 -0600" stop="20180322180300 -0600" channel="TCM">
+  <programme start="20180321160300 -0600" stop="20180321180300 -0600" channel="TCM">
     <title lang="es">Las ex novias de mi novio</title>
   </programme>
-  <programme start="20180322180300 -0600" stop="20180322200000 -0600" channel="TCM">
+  <programme start="20180321180300 -0600" stop="20180321200000 -0600" channel="TCM">
     <title lang="es">28 días</title>
   </programme>
-  <programme start="20180322200000 -0600" stop="20180322220000 -0600" channel="TCM">
+  <programme start="20180321200000 -0600" stop="20180321220000 -0600" channel="TCM">
     <title lang="es">8 Mile: Calle de ilusiones</title>
   </programme>
-  <programme start="20180322220000 -0600" stop="20180322234200 -0600" channel="TCM">
+  <programme start="20180321220000 -0600" stop="20180321234200 -0600" channel="TCM">
     <title lang="es">Calles de fuego</title>
   </programme>
-  <programme start="20180322234200 -0600" stop="20180323011900 -0600" channel="TCM">
+  <programme start="20180321234200 -0600" stop="20180322011900 -0600" channel="TCM">
     <title lang="es">Darkman: el rostro de la veng</title>
   </programme>
-  <programme start="20180323011900 -0600" stop="20180323033800 -0600" channel="TCM">
+  <programme start="20180322011900 -0600" stop="20180322033800 -0600" channel="TCM">
     <title lang="es">Godzilla</title>
     <desc lang="es">Una lagartija muta a un tamaño descomunal por culpa de experimentos radioactivos que ahora amenaza con destruir la isla de Manhattan(n)</desc>
     <credits>
@@ -28370,62 +28506,65 @@
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20180323033800 -0600" stop="20180323040000 -0600" channel="TCM">
+  <programme start="20180322033800 -0600" stop="20180322040000 -0600" channel="TCM">
     <title lang="es">Spoiler Alert</title>
   </programme>
-  <programme start="20180323040000 -0600" stop="20180323044500 -0600" channel="TCM">
+  <programme start="20180322040000 -0600" stop="20180322044500 -0600" channel="TCM">
     <title lang="es">Xena la princesa guerrera</title>
   </programme>
-  <programme start="20180323044500 -0600" stop="20180323053500 -0600" channel="TCM">
+  <programme start="20180322044500 -0600" stop="20180322053500 -0600" channel="TCM">
     <title lang="es">Xena la princesa guerrera</title>
   </programme>
-  <programme start="20180323053500 -0600" stop="20180323060000 -0600" channel="TCM">
+  <programme start="20180322053500 -0600" stop="20180322060000 -0600" channel="TCM">
     <title lang="es">Casados con Hijos</title>
   </programme>
-  <programme start="20180323060000 -0600" stop="20180323062500 -0600" channel="TCM">
+  <programme start="20180322060000 -0600" stop="20180322062500 -0600" channel="TCM">
     <title lang="es">Casados con Hijos</title>
   </programme>
-  <programme start="20180323062500 -0600" stop="20180323065000 -0600" channel="TCM">
+  <programme start="20180322062500 -0600" stop="20180322065000 -0600" channel="TCM">
     <title lang="es">La Niñera</title>
   </programme>
-  <programme start="20180323065000 -0600" stop="20180323071500 -0600" channel="TCM">
+  <programme start="20180322065000 -0600" stop="20180322071500 -0600" channel="TCM">
     <title lang="es">La Niñera</title>
   </programme>
-  <programme start="20180323071500 -0600" stop="20180323080500 -0600" channel="TCM">
+  <programme start="20180322071500 -0600" stop="20180322080500 -0600" channel="TCM">
     <title lang="es">Xena la princesa guerrera</title>
   </programme>
-  <programme start="20180323080500 -0600" stop="20180323083000 -0600" channel="TCM">
+  <programme start="20180322080500 -0600" stop="20180322083000 -0600" channel="TCM">
     <title lang="es">Casados con Hijos</title>
   </programme>
-  <programme start="20180323083000 -0600" stop="20180323085500 -0600" channel="TCM">
+  <programme start="20180322083000 -0600" stop="20180322085500 -0600" channel="TCM">
     <title lang="es">Casados con Hijos</title>
   </programme>
-  <programme start="20180323085500 -0600" stop="20180323092000 -0600" channel="TCM">
+  <programme start="20180322085500 -0600" stop="20180322092000 -0600" channel="TCM">
     <title lang="es">La Niñera</title>
   </programme>
-  <programme start="20180323092000 -0600" stop="20180323094500 -0600" channel="TCM">
+  <programme start="20180322092000 -0600" stop="20180322094500 -0600" channel="TCM">
     <title lang="es">La Niñera</title>
   </programme>
-  <programme start="20180323094500 -0600" stop="20180323114200 -0600" channel="TCM">
+  <programme start="20180322094500 -0600" stop="20180322114200 -0600" channel="TCM">
     <title lang="es">28 días</title>
   </programme>
-  <programme start="20180323114200 -0600" stop="20180323141400 -0600" channel="TCM">
+  <programme start="20180322114200 -0600" stop="20180322141400 -0600" channel="TCM">
     <title lang="es">La edad de la inocencia</title>
   </programme>
-  <programme start="20180323141400 -0600" stop="20180323161600 -0600" channel="TCM">
+  <programme start="20180322141400 -0600" stop="20180322161600 -0600" channel="TCM">
     <title lang="es">Las ex novias de mi novio</title>
   </programme>
-  <programme start="20180323161600 -0600" stop="20180323175900 -0600" channel="TCM">
+  <programme start="20180322161600 -0600" stop="20180322175900 -0600" channel="TCM">
     <title lang="es">Calles de fuego</title>
   </programme>
-  <programme start="20180323175900 -0600" stop="20180323200000 -0600" channel="TCM">
+  <programme start="20180322175900 -0600" stop="20180322200000 -0600" channel="TCM">
     <title lang="es">8 Mile: Calle de ilusiones</title>
   </programme>
-  <programme start="20180323200000 -0600" stop="20180323220700 -0600" channel="TCM">
+  <programme start="20180322200000 -0600" stop="20180322220700 -0600" channel="TCM">
     <title lang="es">El Demoledor</title>
   </programme>
-  <programme start="20180323220700 -0600" stop="20180323234900 -0600" channel="TCM">
+  <programme start="20180322220700 -0600" stop="20180322234900 -0600" channel="TCM">
     <title lang="es">Darkman: el rostro de la veng</title>
+  </programme>
+  <programme start="20180322234900 -0600" stop="20180323020100 -0600" channel="TCM">
+    <title lang="es">En la línea de fuego</title>
   </programme>
   <programme start="20180323234900 -0600" stop="20180324020100 -0600" channel="TCM">
     <title lang="es">En la línea de fuego</title>
