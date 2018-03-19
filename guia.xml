@@ -227,12 +227,7 @@
   </channel>
   <channel id="MAX Prime">
     <display-name lang="es">MAX Prime</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/max_prime_este.png" />
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="MAXPrime">
-    <display-name lang="es">MAXPrime</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/max_prime_este.png" />
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/max_prime_oeste.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="MaxUp">
@@ -26234,677 +26229,259 @@
   <programme start="20180324225500 -0600" stop="20180325002500 -0600" channel="MAX">
     <title lang="es">Frank y Lola: amor, sexo y tra</title>
   </programme>
-  <programme start="20180318012000 -0600" stop="20180318030000 -0600" channel="MAX Prime">
-    <title lang="es">El barco fantasma</title>
+  <programme start="20180318000500 -0600" stop="20180318020000 -0600" channel="MAX Prime">
+    <title lang="es">Entourage: la película</title>
   </programme>
-  <programme start="20180318030000 -0600" stop="20180318043000 -0600" channel="MAX Prime">
-    <title lang="es">La trampa</title>
+  <programme start="20180318020000 -0600" stop="20180318041500 -0600" channel="MAX Prime">
+    <title lang="es">Cosas Que Importan</title>
   </programme>
-  <programme start="20180318043000 -0600" stop="20180318060000 -0600" channel="MAX Prime">
-    <title lang="es">La sombra de la muerte</title>
+  <programme start="20180318041500 -0600" stop="20180318070000 -0600" channel="MAX Prime">
+    <title lang="es">Los cañones de Navarone</title>
   </programme>
-  <programme start="20180318060000 -0600" stop="20180318072500 -0600" channel="MAX Prime">
-    <title lang="es">Cuando las luces se apagan</title>
+  <programme start="20180318070000 -0600" stop="20180318092000 -0600" channel="MAX Prime">
+    <title lang="es">Asesinos</title>
   </programme>
-  <programme start="20180318072500 -0600" stop="20180318090000 -0600" channel="MAX Prime">
-    <title lang="es">Exorcismo en el Vaticano</title>
-  </programme>
-  <programme start="20180318090000 -0600" stop="20180318103500 -0600" channel="MAX Prime">
-    <title lang="es">Inframundo: Guerras de sangre</title>
-  </programme>
-  <programme start="20180318103500 -0600" stop="20180318124000 -0600" channel="MAX Prime">
-    <title lang="es">Escuadrón suicida</title>
-  </programme>
-  <programme start="20180318124000 -0600" stop="20180318144000 -0600" channel="MAX Prime">
-    <title lang="es">Amigos de armas</title>
-  </programme>
-  <programme start="20180318144000 -0600" stop="20180318151500 -0600" channel="MAX Prime">
-    <title lang="es">Expo internacional de moto 17</title>
-  </programme>
-  <programme start="20180318151500 -0600" stop="20180318164000 -0600" channel="MAX Prime">
-    <title lang="es">Cuando las luces se apagan</title>
-  </programme>
-  <programme start="20180318164000 -0600" stop="20180318181500 -0600" channel="MAX Prime">
-    <title lang="es">Exorcismo en el Vaticano</title>
-  </programme>
-  <programme start="20180318181500 -0600" stop="20180318195000 -0600" channel="MAX Prime">
-    <title lang="es">Inframundo: Guerras de sangre</title>
-  </programme>
-  <programme start="20180318195000 -0600" stop="20180318220000 -0600" channel="MAX Prime">
-    <title lang="es">Escuadrón suicida</title>
-  </programme>
-  <programme start="20180318220000 -0600" stop="20180318235500 -0600" channel="MAX Prime">
-    <title lang="es">Amigos de armas</title>
-  </programme>
-  <programme start="20180318235500 -0600" stop="20180319011500 -0600" channel="MAX Prime">
-    <title lang="es">A sensual mind</title>
-  </programme>
-  <programme start="20180319235500 -0600" stop="20180320011500 -0600" channel="MAX Prime">
-    <title lang="es">A sensual mind</title>
-  </programme>
-  <programme start="20180320011500 -0600" stop="20180320030000 -0600" channel="MAX Prime">
-    <title lang="es">Una historia violenta</title>
-  </programme>
-  <programme start="20180320030000 -0600" stop="20180320044000 -0600" channel="MAX Prime">
-    <title lang="es">La gran pelea de Muhammad Ali</title>
-  </programme>
-  <programme start="20180320044000 -0600" stop="20180320061500 -0600" channel="MAX Prime">
-    <title lang="es">Superman IV</title>
-  </programme>
-  <programme start="20180320061500 -0600" stop="20180320075000 -0600" channel="MAX Prime">
+  <programme start="20180318092000 -0600" stop="20180318105500 -0600" channel="MAX Prime">
     <title lang="es">La Era del vampiro</title>
   </programme>
-  <programme start="20180320075000 -0600" stop="20180320093000 -0600" channel="MAX Prime">
-    <title lang="es">Mortal kombat: la aniquilación</title>
-  </programme>
-  <programme start="20180320093000 -0600" stop="20180320111500 -0600" channel="MAX Prime">
-    <title lang="es">Los Ángeles de Charlie</title>
-    <desc lang="es">2000 (Charlie’s Angels) Cameron Diaz, Drew Barrymore y Lucy Liu.  Tres mujeres detectives con un jefe misterioso se ven en la tarea de recuperar un software(n)</desc>
-    <credits>
-      <actor>Cameron Diaz</actor>
-      <actor>Drew Barrymore</actor>
-      <actor>Lucy Liu</actor>
-      <actor>Bill Murray</actor>
-      <actor>Sam Rockwell</actor>
-    </credits>
-    <date>2000</date>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventura</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Crimen</category>
-    <category lang="es">Suspenso</category>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/los_angeles_de_charlie.jpg" />
-    <country>Alemania</country>
-    <country>Estados Unidos</country>
-    <rating>
-      <value>PG-13</value>
-    </rating>
-  </programme>
-  <programme start="20180320111500 -0600" stop="20180320131500 -0600" channel="MAX Prime">
-    <title lang="es">La historia de Vinny Pazienza</title>
-  </programme>
-  <programme start="20180320131500 -0600" stop="20180320150000 -0600" channel="MAX Prime">
-    <title lang="es">Contra el Reloj</title>
-  </programme>
-  <programme start="20180320150000 -0600" stop="20180320163000 -0600" channel="MAX Prime">
-    <title lang="es">Ausencia</title>
-  </programme>
-  <programme start="20180320163000 -0600" stop="20180320181500 -0600" channel="MAX Prime">
-    <title lang="es">Cinturón rojo</title>
-  </programme>
-  <programme start="20180320181500 -0600" stop="20180320201500 -0600" channel="MAX Prime">
-    <title lang="es">La historia de Vinny Pazienza</title>
-  </programme>
-  <programme start="20180320201500 -0600" stop="20180320220000 -0600" channel="MAX Prime">
-    <title lang="es">Demolición</title>
-  </programme>
-  <programme start="20180320220000 -0600" stop="20180320234000 -0600" channel="MAX Prime">
-    <title lang="es">Las cruzadas</title>
-  </programme>
-  <programme start="20180320234000 -0600" stop="20180321010500 -0600" channel="MAX Prime">
-    <title lang="es">First class tits</title>
-  </programme>
-  <programme start="20180321010500 -0600" stop="20180321024000 -0600" channel="MAX Prime">
-    <title lang="es">La trampa</title>
-  </programme>
-  <programme start="20180321024000 -0600" stop="20180321042500 -0600" channel="MAX Prime">
-    <title lang="es">Un muchacho como todos</title>
-  </programme>
-  <programme start="20180321042500 -0600" stop="20180321061000 -0600" channel="MAX Prime">
-    <title lang="es">Red De Corrupción</title>
-  </programme>
-  <programme start="20180321061000 -0600" stop="20180321080500 -0600" channel="MAX Prime">
-    <title lang="es">Blade Trinity</title>
-  </programme>
-  <programme start="20180321080500 -0600" stop="20180321094000 -0600" channel="MAX Prime">
-    <title lang="es">Exorcismo en el Vaticano</title>
-  </programme>
-  <programme start="20180321094000 -0600" stop="20180321111500 -0600" channel="MAX Prime">
-    <title lang="es">Inframundo: Guerras de sangre</title>
-  </programme>
-  <programme start="20180321111500 -0600" stop="20180321140000 -0600" channel="MAX Prime">
-    <title lang="es">El asesinato de Jesse James</title>
-  </programme>
-  <programme start="20180321140000 -0600" stop="20180321155500 -0600" channel="MAX Prime">
-    <title lang="es">Manos de piedra</title>
-  </programme>
-  <programme start="20180321155500 -0600" stop="20180321173000 -0600" channel="MAX Prime">
-    <title lang="es">Exorcismo en el Vaticano</title>
-  </programme>
-  <programme start="20180321173000 -0600" stop="20180321190500 -0600" channel="MAX Prime">
-    <title lang="es">Inframundo: Guerras de sangre</title>
-  </programme>
-  <programme start="20180321190500 -0600" stop="20180321210000 -0600" channel="MAX Prime">
-    <title lang="es">Vinyl</title>
-    <sub-title lang="es">S1-Ep1</sub-title>
-    <episode-num>S1-Ep1</episode-num>
-  </programme>
-  <programme start="20180321210000 -0600" stop="20180321220000 -0600" channel="MAX Prime">
-    <title lang="es">Vinyl</title>
-    <sub-title lang="es">S1-Ep2</sub-title>
-    <episode-num>S1-Ep2</episode-num>
-  </programme>
-  <programme start="20180321220000 -0600" stop="20180321235500 -0600" channel="MAX Prime">
-    <title lang="es">Manos de piedra</title>
-  </programme>
-  <programme start="20180321235500 -0600" stop="20180322014000 -0600" channel="MAX Prime">
-    <title lang="es">My dirty secret</title>
-  </programme>
-  <programme start="20180322014000 -0600" stop="20180322032500 -0600" channel="MAX Prime">
-    <title lang="es">Los Ángeles de Charlie</title>
-    <desc lang="es">2000 (Charlie’s Angels) Cameron Diaz, Drew Barrymore y Lucy Liu.  Tres mujeres detectives con un jefe misterioso se ven en la tarea de recuperar un software(n)</desc>
-    <credits>
-      <actor>Cameron Diaz</actor>
-      <actor>Drew Barrymore</actor>
-      <actor>Lucy Liu</actor>
-      <actor>Bill Murray</actor>
-      <actor>Sam Rockwell</actor>
-    </credits>
-    <date>2000</date>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventura</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Crimen</category>
-    <category lang="es">Suspenso</category>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/los_angeles_de_charlie.jpg" />
-    <country>Alemania</country>
-    <country>Estados Unidos</country>
-    <rating>
-      <value>PG-13</value>
-    </rating>
-  </programme>
-  <programme start="20180322032500 -0600" stop="20180322052000 -0600" channel="MAX Prime">
-    <title lang="es">Academia de genios</title>
-  </programme>
-  <programme start="20180322052000 -0600" stop="20180322074500 -0600" channel="MAX Prime">
-    <title lang="es">El Informe Pelícano</title>
-  </programme>
-  <programme start="20180322074500 -0600" stop="20180322095500 -0600" channel="MAX Prime">
-    <title lang="es">Los Siete Pecados Capitales</title>
-  </programme>
-  <programme start="20180322095500 -0600" stop="20180322113000 -0600" channel="MAX Prime">
-    <title lang="es">Un monstruo en el camino</title>
-  </programme>
-  <programme start="20180322113000 -0600" stop="20180322132000 -0600" channel="MAX Prime">
-    <title lang="es">Resident Evil: Capítulo Final</title>
-    <desc lang="es">Alice es la única sobreviviente de lo que suponía iba a ser la última parada contra los zombis. Ahora, ella deberá regresar a donde todo comenzó(n)</desc>
-    <credits>
-      <actor>Milla Jovovich</actor>
-      <actor>Ali Larter</actor>
-      <actor>Shawn Roberts</actor>
-      <actor>Rola</actor>
-      <actor>Ruby Rose</actor>
-      <actor>Eoin Macken</actor>
-      <actor>Iain Glen</actor>
-      <actor>William Levy</actor>
-      <actor>Sienna Guillory</actor>
-      <producer>Paul W. S. Anderson</producer>
-      <producer>Jeremy Bolt</producer>
-      <producer>Don Carmody</producer>
-      <producer>Samuel Hadida</producer>
-      <composer>Tomandandy</composer>
-      <composer>Bassnectar</composer>
-    </credits>
-    <date>2017</date>
-    <category lang="es">Terror</category>
-    <category lang="es">Acción</category>
-    <category lang="es">Horror</category>
-    <category lang="es">Ciencia Ficción</category>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/resident_evil_capitulo_final.jpg" />
-    <country>Alemania</country>
-    <country>Australia</country>
-    <country>Canadá</country>
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
-  <programme start="20180322132000 -0600" stop="20180322150000 -0600" channel="MAX Prime">
-    <title lang="es">Operación avalancha</title>
-  </programme>
-  <programme start="20180322150000 -0600" stop="20180322165500 -0600" channel="MAX Prime">
-    <title lang="es">El duelo</title>
-  </programme>
-  <programme start="20180322165500 -0600" stop="20180322183500 -0600" channel="MAX Prime">
-    <title lang="es">Los Perdedores</title>
-  </programme>
-  <programme start="20180322183500 -0600" stop="20180322201000 -0600" channel="MAX Prime">
-    <title lang="es">Un monstruo en el camino</title>
-  </programme>
-  <programme start="20180322201000 -0600" stop="20180322220000 -0600" channel="MAX Prime">
-    <title lang="es">Resident Evil: Capítulo Final</title>
-    <desc lang="es">Alice es la única sobreviviente de lo que suponía iba a ser la última parada contra los zombis. Ahora, ella deberá regresar a donde todo comenzó(n)</desc>
-    <credits>
-      <actor>Milla Jovovich</actor>
-      <actor>Ali Larter</actor>
-      <actor>Shawn Roberts</actor>
-      <actor>Rola</actor>
-      <actor>Ruby Rose</actor>
-      <actor>Eoin Macken</actor>
-      <actor>Iain Glen</actor>
-      <actor>William Levy</actor>
-      <actor>Sienna Guillory</actor>
-      <producer>Paul W. S. Anderson</producer>
-      <producer>Jeremy Bolt</producer>
-      <producer>Don Carmody</producer>
-      <producer>Samuel Hadida</producer>
-      <composer>Tomandandy</composer>
-      <composer>Bassnectar</composer>
-    </credits>
-    <date>2017</date>
-    <category lang="es">Terror</category>
-    <category lang="es">Acción</category>
-    <category lang="es">Horror</category>
-    <category lang="es">Ciencia Ficción</category>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/resident_evil_capitulo_final.jpg" />
-    <country>Alemania</country>
-    <country>Australia</country>
-    <country>Canadá</country>
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
-  <programme start="20180322220000 -0600" stop="20180322233500 -0600" channel="MAX Prime">
-    <title lang="es">Operación avalancha</title>
-  </programme>
-  <programme start="20180322233500 -0600" stop="20180323005500 -0600" channel="MAX Prime">
-    <title lang="es">A sensual mind</title>
-  </programme>
-  <programme start="20180323233500 -0600" stop="20180324005500 -0600" channel="MAX Prime">
-    <title lang="es">A sensual mind</title>
-  </programme>
-  <programme start="20180324005500 -0600" stop="20180324031000 -0600" channel="MAX Prime">
-    <title lang="es">El Exorcista</title>
-  </programme>
-  <programme start="20180324031000 -0600" stop="20180324053000 -0600" channel="MAX Prime">
-    <title lang="es">Siete años en el Tibet</title>
-  </programme>
-  <programme start="20180324053000 -0600" stop="20180324060500 -0600" channel="MAX Prime">
-    <title lang="es">Especial Tokyo motor show 2017</title>
-  </programme>
-  <programme start="20180324060500 -0600" stop="20180324082000 -0600" channel="MAX Prime">
-    <title lang="es">El Fugitivo</title>
-  </programme>
-  <programme start="20180324082000 -0600" stop="20180324104500 -0600" channel="MAX Prime">
+  <programme start="20180318105500 -0600" stop="20180318132000 -0600" channel="MAX Prime">
     <title lang="es">Cartas desde Iwo Jima</title>
   </programme>
-  <programme start="20180324104500 -0600" stop="20180324124500 -0600" channel="MAX Prime">
-    <title lang="es">Amigos de armas</title>
+  <programme start="20180318132000 -0600" stop="20180318152500 -0600" channel="MAX Prime">
+    <title lang="es">Lo llamaban Jeeg robot</title>
   </programme>
-  <programme start="20180324124500 -0600" stop="20180324152500 -0600" channel="MAX Prime">
-    <title lang="es">Superman regresa</title>
+  <programme start="20180318152500 -0600" stop="20180318172500 -0600" channel="MAX Prime">
+    <title lang="es">Triple 9</title>
   </programme>
-  <programme start="20180324152500 -0600" stop="20180324170000 -0600" channel="MAX Prime">
-    <title lang="es">Escalofrío</title>
+  <programme start="20180318172500 -0600" stop="20180318191000 -0600" channel="MAX Prime">
+    <title lang="es">Cinturón rojo</title>
   </programme>
-  <programme start="20180324170000 -0600" stop="20180324180500 -0600" channel="MAX Prime">
-    <title lang="es">Vinyl</title>
-    <sub-title lang="es">S1-Ep3</sub-title>
-    <episode-num>S1-Ep3</episode-num>
+  <programme start="20180318191000 -0600" stop="20180318211000 -0600" channel="MAX Prime">
+    <title lang="es">La historia de Vinny Pazienza</title>
   </programme>
-  <programme start="20180324180500 -0600" stop="20180324182500 -0600" channel="MAX Prime">
-    <title lang="es">World congress San Fco 2017</title>
+  <programme start="20180318211000 -0600" stop="20180318220000 -0600" channel="MAX Prime">
+    <title lang="es">Strike back</title>
+    <sub-title lang="es">S5</sub-title>
+    <episode-num>S5</episode-num>
   </programme>
-  <programme start="20180324182500 -0600" stop="20180324202500 -0600" channel="MAX Prime">
-    <title lang="es">Amigos de armas</title>
+  <programme start="20180318220000 -0600" stop="20180319000000 -0600" channel="MAX Prime">
+    <title lang="es">Manos de piedra</title>
   </programme>
-  <programme start="20180324202500 -0600" stop="20180324210000 -0600" channel="MAX Prime">
-    <title lang="es">Expo internacional de moto 17</title>
+  <programme start="20180319000000 -0600" stop="20180319014500 -0600" channel="MAX Prime">
+    <title lang="es">Ouija: El orígen del mal</title>
   </programme>
-  <programme start="20180324210000 -0600" stop="20180324220000 -0600" channel="MAX Prime">
-    <title lang="es">Vinyl</title>
-    <sub-title lang="es">S1-Ep2</sub-title>
-    <episode-num>S1-Ep2</episode-num>
+  <programme start="20180319014500 -0600" stop="20180319032000 -0600" channel="MAX Prime">
+    <title lang="es">Acosada por mi doctor: regreso</title>
   </programme>
-  <programme start="20180324220000 -0600" stop="20180324230000 -0600" channel="MAX Prime">
-    <title lang="es">Vinyl</title>
-    <sub-title lang="es">S1-Ep3</sub-title>
-    <episode-num>S1-Ep3</episode-num>
+  <programme start="20180319032000 -0600" stop="20180319060500 -0600" channel="MAX Prime">
+    <title lang="es">Africa Mía</title>
   </programme>
-  <programme start="20180324230000 -0600" stop="20180324233500 -0600" channel="MAX Prime">
-    <title lang="es">Especial Tokyo motor show 2017</title>
+  <programme start="20180319060500 -0600" stop="20180319080500 -0600" channel="MAX Prime">
+    <title lang="es">Pecados de guerra</title>
   </programme>
-  <programme start="20180324233500 -0600" stop="20180325010000 -0600" channel="MAX Prime">
-    <title lang="es">First class tits</title>
+  <programme start="20180319080500 -0600" stop="20180319103500 -0600" channel="MAX Prime">
+    <title lang="es">Hermandad en guerra</title>
   </programme>
-  <programme start="20180318012000 -0600" stop="20180318030000 -0600" channel="MAXPrime">
-    <title lang="es">El barco fantasma</title>
+  <programme start="20180319103500 -0600" stop="20180319122000 -0600" channel="MAX Prime">
+    <title lang="es">El gánster número uno</title>
   </programme>
-  <programme start="20180318030000 -0600" stop="20180318043000 -0600" channel="MAXPrime">
-    <title lang="es">La trampa</title>
+  <programme start="20180319122000 -0600" stop="20180319141000 -0600" channel="MAX Prime">
+    <title lang="es">Sanctum</title>
   </programme>
-  <programme start="20180318043000 -0600" stop="20180318060000 -0600" channel="MAXPrime">
+  <programme start="20180319141000 -0600" stop="20180319161500 -0600" channel="MAX Prime">
+    <title lang="es">Warcraft: El primer encuentro</title>
+  </programme>
+  <programme start="20180319161500 -0600" stop="20180319180500 -0600" channel="MAX Prime">
+    <title lang="es">Resident Evil: Capítulo Final</title>
+    <desc lang="es">Alice es la única sobreviviente de lo que suponía iba a ser la última parada contra los zombis. Ahora, ella deberá regresar a donde todo comenzó(n)</desc>
+    <credits>
+      <actor>Milla Jovovich</actor>
+      <actor>Ali Larter</actor>
+      <actor>Shawn Roberts</actor>
+      <actor>Rola</actor>
+      <actor>Ruby Rose</actor>
+      <actor>Eoin Macken</actor>
+      <actor>Iain Glen</actor>
+      <actor>William Levy</actor>
+      <actor>Sienna Guillory</actor>
+      <producer>Paul W. S. Anderson</producer>
+      <producer>Jeremy Bolt</producer>
+      <producer>Don Carmody</producer>
+      <producer>Samuel Hadida</producer>
+      <composer>Tomandandy</composer>
+      <composer>Bassnectar</composer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Terror</category>
+    <category lang="es">Acción</category>
+    <category lang="es">Horror</category>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/resident_evil_capitulo_final.jpg" />
+    <country>Alemania</country>
+    <country>Australia</country>
+    <country>Canadá</country>
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20180319180500 -0600" stop="20180319193000 -0600" channel="MAX Prime">
+    <title lang="es">Cuando las luces se apagan</title>
+  </programme>
+  <programme start="20180319193000 -0600" stop="20180319210000 -0600" channel="MAX Prime">
     <title lang="es">La sombra de la muerte</title>
   </programme>
-  <programme start="20180318060000 -0600" stop="20180318072500 -0600" channel="MAXPrime">
-    <title lang="es">Cuando las luces se apagan</title>
+  <programme start="20180319210000 -0600" stop="20180319215000 -0600" channel="MAX Prime">
+    <title lang="es">Strike back</title>
+    <sub-title lang="es">S5</sub-title>
+    <episode-num>S5</episode-num>
   </programme>
-  <programme start="20180318072500 -0600" stop="20180318090000 -0600" channel="MAXPrime">
-    <title lang="es">Exorcismo en el Vaticano</title>
+  <programme start="20180319215000 -0600" stop="20180319234000 -0600" channel="MAX Prime">
+    <title lang="es">La cosa</title>
   </programme>
-  <programme start="20180318090000 -0600" stop="20180318103500 -0600" channel="MAXPrime">
-    <title lang="es">Inframundo: Guerras de sangre</title>
-  </programme>
-  <programme start="20180318103500 -0600" stop="20180318124000 -0600" channel="MAXPrime">
-    <title lang="es">Escuadrón suicida</title>
-  </programme>
-  <programme start="20180318124000 -0600" stop="20180318144000 -0600" channel="MAXPrime">
-    <title lang="es">Amigos de armas</title>
-  </programme>
-  <programme start="20180318144000 -0600" stop="20180318151500 -0600" channel="MAXPrime">
-    <title lang="es">Expo internacional de moto 17</title>
-  </programme>
-  <programme start="20180318151500 -0600" stop="20180318164000 -0600" channel="MAXPrime">
-    <title lang="es">Cuando las luces se apagan</title>
-  </programme>
-  <programme start="20180318164000 -0600" stop="20180318181500 -0600" channel="MAXPrime">
-    <title lang="es">Exorcismo en el Vaticano</title>
-  </programme>
-  <programme start="20180318181500 -0600" stop="20180318195000 -0600" channel="MAXPrime">
-    <title lang="es">Inframundo: Guerras de sangre</title>
-  </programme>
-  <programme start="20180318195000 -0600" stop="20180318220000 -0600" channel="MAXPrime">
-    <title lang="es">Escuadrón suicida</title>
-  </programme>
-  <programme start="20180318220000 -0600" stop="20180318235500 -0600" channel="MAXPrime">
-    <title lang="es">Amigos de armas</title>
-  </programme>
-  <programme start="20180318235500 -0600" stop="20180319011500 -0600" channel="MAXPrime">
-    <title lang="es">A sensual mind</title>
-  </programme>
-  <programme start="20180319235500 -0600" stop="20180320011500 -0600" channel="MAXPrime">
-    <title lang="es">A sensual mind</title>
-  </programme>
-  <programme start="20180320011500 -0600" stop="20180320030000 -0600" channel="MAXPrime">
-    <title lang="es">Una historia violenta</title>
-  </programme>
-  <programme start="20180320030000 -0600" stop="20180320044000 -0600" channel="MAXPrime">
-    <title lang="es">La gran pelea de Muhammad Ali</title>
-  </programme>
-  <programme start="20180320044000 -0600" stop="20180320061500 -0600" channel="MAXPrime">
-    <title lang="es">Superman IV</title>
-  </programme>
-  <programme start="20180320061500 -0600" stop="20180320075000 -0600" channel="MAXPrime">
-    <title lang="es">La Era del vampiro</title>
-  </programme>
-  <programme start="20180320075000 -0600" stop="20180320093000 -0600" channel="MAXPrime">
-    <title lang="es">Mortal kombat: la aniquilación</title>
-  </programme>
-  <programme start="20180320093000 -0600" stop="20180320111500 -0600" channel="MAXPrime">
-    <title lang="es">Los Ángeles de Charlie</title>
-    <desc lang="es">2000 (Charlie’s Angels) Cameron Diaz, Drew Barrymore y Lucy Liu.  Tres mujeres detectives con un jefe misterioso se ven en la tarea de recuperar un software(n)</desc>
-    <credits>
-      <actor>Cameron Diaz</actor>
-      <actor>Drew Barrymore</actor>
-      <actor>Lucy Liu</actor>
-      <actor>Bill Murray</actor>
-      <actor>Sam Rockwell</actor>
-    </credits>
-    <date>2000</date>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventura</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Crimen</category>
-    <category lang="es">Suspenso</category>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/los_angeles_de_charlie.jpg" />
-    <country>Alemania</country>
-    <country>Estados Unidos</country>
-    <rating>
-      <value>PG-13</value>
-    </rating>
-  </programme>
-  <programme start="20180320111500 -0600" stop="20180320131500 -0600" channel="MAXPrime">
-    <title lang="es">La historia de Vinny Pazienza</title>
-  </programme>
-  <programme start="20180320131500 -0600" stop="20180320150000 -0600" channel="MAXPrime">
-    <title lang="es">Contra el Reloj</title>
-  </programme>
-  <programme start="20180320150000 -0600" stop="20180320163000 -0600" channel="MAXPrime">
-    <title lang="es">Ausencia</title>
-  </programme>
-  <programme start="20180320163000 -0600" stop="20180320181500 -0600" channel="MAXPrime">
-    <title lang="es">Cinturón rojo</title>
-  </programme>
-  <programme start="20180320181500 -0600" stop="20180320201500 -0600" channel="MAXPrime">
-    <title lang="es">La historia de Vinny Pazienza</title>
-  </programme>
-  <programme start="20180320201500 -0600" stop="20180320220000 -0600" channel="MAXPrime">
-    <title lang="es">Demolición</title>
-  </programme>
-  <programme start="20180320220000 -0600" stop="20180320234000 -0600" channel="MAXPrime">
-    <title lang="es">Las cruzadas</title>
-  </programme>
-  <programme start="20180320234000 -0600" stop="20180321010500 -0600" channel="MAXPrime">
-    <title lang="es">First class tits</title>
-  </programme>
-  <programme start="20180321010500 -0600" stop="20180321024000 -0600" channel="MAXPrime">
-    <title lang="es">La trampa</title>
-  </programme>
-  <programme start="20180321024000 -0600" stop="20180321042500 -0600" channel="MAXPrime">
-    <title lang="es">Un muchacho como todos</title>
-  </programme>
-  <programme start="20180321042500 -0600" stop="20180321061000 -0600" channel="MAXPrime">
-    <title lang="es">Red De Corrupción</title>
-  </programme>
-  <programme start="20180321061000 -0600" stop="20180321080500 -0600" channel="MAXPrime">
-    <title lang="es">Blade Trinity</title>
-  </programme>
-  <programme start="20180321080500 -0600" stop="20180321094000 -0600" channel="MAXPrime">
-    <title lang="es">Exorcismo en el Vaticano</title>
-  </programme>
-  <programme start="20180321094000 -0600" stop="20180321111500 -0600" channel="MAXPrime">
-    <title lang="es">Inframundo: Guerras de sangre</title>
-  </programme>
-  <programme start="20180321111500 -0600" stop="20180321140000 -0600" channel="MAXPrime">
-    <title lang="es">El asesinato de Jesse James</title>
-  </programme>
-  <programme start="20180321140000 -0600" stop="20180321155500 -0600" channel="MAXPrime">
-    <title lang="es">Manos de piedra</title>
-  </programme>
-  <programme start="20180321155500 -0600" stop="20180321173000 -0600" channel="MAXPrime">
-    <title lang="es">Exorcismo en el Vaticano</title>
-  </programme>
-  <programme start="20180321173000 -0600" stop="20180321190500 -0600" channel="MAXPrime">
-    <title lang="es">Inframundo: Guerras de sangre</title>
-  </programme>
-  <programme start="20180321190500 -0600" stop="20180321210000 -0600" channel="MAXPrime">
-    <title lang="es">Vinyl</title>
-    <sub-title lang="es">S1-Ep1</sub-title>
-    <episode-num>S1-Ep1</episode-num>
-  </programme>
-  <programme start="20180321210000 -0600" stop="20180321220000 -0600" channel="MAXPrime">
-    <title lang="es">Vinyl</title>
-    <sub-title lang="es">S1-Ep2</sub-title>
-    <episode-num>S1-Ep2</episode-num>
-  </programme>
-  <programme start="20180321220000 -0600" stop="20180321235500 -0600" channel="MAXPrime">
-    <title lang="es">Manos de piedra</title>
-  </programme>
-  <programme start="20180321235500 -0600" stop="20180322014000 -0600" channel="MAXPrime">
-    <title lang="es">My dirty secret</title>
-  </programme>
-  <programme start="20180322014000 -0600" stop="20180322032500 -0600" channel="MAXPrime">
-    <title lang="es">Los Ángeles de Charlie</title>
-    <desc lang="es">2000 (Charlie’s Angels) Cameron Diaz, Drew Barrymore y Lucy Liu.  Tres mujeres detectives con un jefe misterioso se ven en la tarea de recuperar un software(n)</desc>
-    <credits>
-      <actor>Cameron Diaz</actor>
-      <actor>Drew Barrymore</actor>
-      <actor>Lucy Liu</actor>
-      <actor>Bill Murray</actor>
-      <actor>Sam Rockwell</actor>
-    </credits>
-    <date>2000</date>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventura</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Crimen</category>
-    <category lang="es">Suspenso</category>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/los_angeles_de_charlie.jpg" />
-    <country>Alemania</country>
-    <country>Estados Unidos</country>
-    <rating>
-      <value>PG-13</value>
-    </rating>
-  </programme>
-  <programme start="20180322032500 -0600" stop="20180322052000 -0600" channel="MAXPrime">
-    <title lang="es">Academia de genios</title>
-  </programme>
-  <programme start="20180322052000 -0600" stop="20180322074500 -0600" channel="MAXPrime">
-    <title lang="es">El Informe Pelícano</title>
-  </programme>
-  <programme start="20180322074500 -0600" stop="20180322095500 -0600" channel="MAXPrime">
-    <title lang="es">Los Siete Pecados Capitales</title>
-  </programme>
-  <programme start="20180322095500 -0600" stop="20180322113000 -0600" channel="MAXPrime">
+  <programme start="20180319234000 -0600" stop="20180320012000 -0600" channel="MAX Prime">
     <title lang="es">Un monstruo en el camino</title>
   </programme>
-  <programme start="20180322113000 -0600" stop="20180322132000 -0600" channel="MAXPrime">
-    <title lang="es">Resident Evil: Capítulo Final</title>
-    <desc lang="es">Alice es la única sobreviviente de lo que suponía iba a ser la última parada contra los zombis. Ahora, ella deberá regresar a donde todo comenzó(n)</desc>
-    <credits>
-      <actor>Milla Jovovich</actor>
-      <actor>Ali Larter</actor>
-      <actor>Shawn Roberts</actor>
-      <actor>Rola</actor>
-      <actor>Ruby Rose</actor>
-      <actor>Eoin Macken</actor>
-      <actor>Iain Glen</actor>
-      <actor>William Levy</actor>
-      <actor>Sienna Guillory</actor>
-      <producer>Paul W. S. Anderson</producer>
-      <producer>Jeremy Bolt</producer>
-      <producer>Don Carmody</producer>
-      <producer>Samuel Hadida</producer>
-      <composer>Tomandandy</composer>
-      <composer>Bassnectar</composer>
-    </credits>
-    <date>2017</date>
-    <category lang="es">Terror</category>
-    <category lang="es">Acción</category>
-    <category lang="es">Horror</category>
-    <category lang="es">Ciencia Ficción</category>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/resident_evil_capitulo_final.jpg" />
-    <country>Alemania</country>
-    <country>Australia</country>
-    <country>Canadá</country>
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
-  <programme start="20180322132000 -0600" stop="20180322150000 -0600" channel="MAXPrime">
-    <title lang="es">Operación avalancha</title>
-  </programme>
-  <programme start="20180322150000 -0600" stop="20180322165500 -0600" channel="MAXPrime">
-    <title lang="es">El duelo</title>
-  </programme>
-  <programme start="20180322165500 -0600" stop="20180322183500 -0600" channel="MAXPrime">
-    <title lang="es">Los Perdedores</title>
-  </programme>
-  <programme start="20180322183500 -0600" stop="20180322201000 -0600" channel="MAXPrime">
+  <programme start="20180320234000 -0600" stop="20180321012000 -0600" channel="MAX Prime">
     <title lang="es">Un monstruo en el camino</title>
   </programme>
-  <programme start="20180322201000 -0600" stop="20180322220000 -0600" channel="MAXPrime">
-    <title lang="es">Resident Evil: Capítulo Final</title>
-    <desc lang="es">Alice es la única sobreviviente de lo que suponía iba a ser la última parada contra los zombis. Ahora, ella deberá regresar a donde todo comenzó(n)</desc>
-    <credits>
-      <actor>Milla Jovovich</actor>
-      <actor>Ali Larter</actor>
-      <actor>Shawn Roberts</actor>
-      <actor>Rola</actor>
-      <actor>Ruby Rose</actor>
-      <actor>Eoin Macken</actor>
-      <actor>Iain Glen</actor>
-      <actor>William Levy</actor>
-      <actor>Sienna Guillory</actor>
-      <producer>Paul W. S. Anderson</producer>
-      <producer>Jeremy Bolt</producer>
-      <producer>Don Carmody</producer>
-      <producer>Samuel Hadida</producer>
-      <composer>Tomandandy</composer>
-      <composer>Bassnectar</composer>
-    </credits>
-    <date>2017</date>
-    <category lang="es">Terror</category>
-    <category lang="es">Acción</category>
-    <category lang="es">Horror</category>
-    <category lang="es">Ciencia Ficción</category>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/resident_evil_capitulo_final.jpg" />
-    <country>Alemania</country>
-    <country>Australia</country>
-    <country>Canadá</country>
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
-  <programme start="20180322220000 -0600" stop="20180322233500 -0600" channel="MAXPrime">
-    <title lang="es">Operación avalancha</title>
-  </programme>
-  <programme start="20180322233500 -0600" stop="20180323005500 -0600" channel="MAXPrime">
-    <title lang="es">A sensual mind</title>
-  </programme>
-  <programme start="20180323233500 -0600" stop="20180324005500 -0600" channel="MAXPrime">
-    <title lang="es">A sensual mind</title>
-  </programme>
-  <programme start="20180324005500 -0600" stop="20180324031000 -0600" channel="MAXPrime">
+  <programme start="20180321012000 -0600" stop="20180321034000 -0600" channel="MAX Prime">
     <title lang="es">El Exorcista</title>
   </programme>
-  <programme start="20180324031000 -0600" stop="20180324053000 -0600" channel="MAXPrime">
-    <title lang="es">Siete años en el Tibet</title>
+  <programme start="20180321034000 -0600" stop="20180321055000 -0600" channel="MAX Prime">
+    <title lang="es">Un Romance Peligroso</title>
   </programme>
-  <programme start="20180324053000 -0600" stop="20180324060500 -0600" channel="MAXPrime">
-    <title lang="es">Especial Tokyo motor show 2017</title>
-  </programme>
-  <programme start="20180324060500 -0600" stop="20180324082000 -0600" channel="MAXPrime">
+  <programme start="20180321055000 -0600" stop="20180321081000 -0600" channel="MAX Prime">
     <title lang="es">El Fugitivo</title>
   </programme>
-  <programme start="20180324082000 -0600" stop="20180324104500 -0600" channel="MAXPrime">
-    <title lang="es">Cartas desde Iwo Jima</title>
+  <programme start="20180321081000 -0600" stop="20180321094000 -0600" channel="MAX Prime">
+    <title lang="es">En los alrededores</title>
   </programme>
-  <programme start="20180324104500 -0600" stop="20180324124500 -0600" channel="MAXPrime">
+  <programme start="20180321094000 -0600" stop="20180321114000 -0600" channel="MAX Prime">
+    <title lang="es">Situación extrema</title>
+  </programme>
+  <programme start="20180321114000 -0600" stop="20180321132000 -0600" channel="MAX Prime">
+    <title lang="es">Operación avalancha</title>
+  </programme>
+  <programme start="20180321132000 -0600" stop="20180321153000 -0600" channel="MAX Prime">
+    <title lang="es">Los Siete Pecados Capitales</title>
+  </programme>
+  <programme start="20180321153000 -0600" stop="20180321173000 -0600" channel="MAX Prime">
+    <title lang="es">Identidad Desconocida</title>
+  </programme>
+  <programme start="20180321173000 -0600" stop="20180321200000 -0600" channel="MAX Prime">
+    <title lang="es">Caballo de guerra</title>
+  </programme>
+  <programme start="20180321200000 -0600" stop="20180321220000 -0600" channel="MAX Prime">
     <title lang="es">Amigos de armas</title>
   </programme>
-  <programme start="20180324124500 -0600" stop="20180324152500 -0600" channel="MAXPrime">
+  <programme start="20180321220000 -0600" stop="20180321234000 -0600" channel="MAX Prime">
+    <title lang="es">Operación avalancha</title>
+  </programme>
+  <programme start="20180321234000 -0600" stop="20180322013500 -0600" channel="MAX Prime">
+    <title lang="es">El duelo</title>
+  </programme>
+  <programme start="20180322013500 -0600" stop="20180322032500 -0600" channel="MAX Prime">
+    <title lang="es">El placer de ganar</title>
+  </programme>
+  <programme start="20180322032500 -0600" stop="20180322041500 -0600" channel="MAX Prime">
+    <title lang="es">Confesiones de taxi</title>
+  </programme>
+  <programme start="20180322041500 -0600" stop="20180322051000 -0600" channel="MAX Prime">
+    <title lang="es">Confesiones de taxi</title>
+  </programme>
+  <programme start="20180322051000 -0600" stop="20180322065000 -0600" channel="MAX Prime">
+    <title lang="es">La última cena</title>
+  </programme>
+  <programme start="20180322065000 -0600" stop="20180322085500 -0600" channel="MAX Prime">
+    <title lang="es">Nacido para matar</title>
+  </programme>
+  <programme start="20180322085500 -0600" stop="20180322105500 -0600" channel="MAX Prime">
+    <title lang="es">Misión a marte</title>
+  </programme>
+  <programme start="20180322105500 -0600" stop="20180322130500 -0600" channel="MAX Prime">
+    <title lang="es">Escuadrón suicida</title>
+  </programme>
+  <programme start="20180322130500 -0600" stop="20180322145500 -0600" channel="MAX Prime">
+    <title lang="es">Más allá de la máscara</title>
+  </programme>
+  <programme start="20180322145500 -0600" stop="20180322173500 -0600" channel="MAX Prime">
     <title lang="es">Superman regresa</title>
   </programme>
-  <programme start="20180324152500 -0600" stop="20180324170000 -0600" channel="MAXPrime">
-    <title lang="es">Escalofrío</title>
+  <programme start="20180322173500 -0600" stop="20180322192500 -0600" channel="MAX Prime">
+    <title lang="es">Entourage: la película</title>
   </programme>
-  <programme start="20180324170000 -0600" stop="20180324180500 -0600" channel="MAXPrime">
-    <title lang="es">Vinyl</title>
-    <sub-title lang="es">S1-Ep3</sub-title>
-    <episode-num>S1-Ep3</episode-num>
-  </programme>
-  <programme start="20180324180500 -0600" stop="20180324182500 -0600" channel="MAXPrime">
-    <title lang="es">World congress San Fco 2017</title>
-  </programme>
-  <programme start="20180324182500 -0600" stop="20180324202500 -0600" channel="MAXPrime">
-    <title lang="es">Amigos de armas</title>
-  </programme>
-  <programme start="20180324202500 -0600" stop="20180324210000 -0600" channel="MAXPrime">
+  <programme start="20180322192500 -0600" stop="20180322200000 -0600" channel="MAX Prime">
     <title lang="es">Expo internacional de moto 17</title>
   </programme>
-  <programme start="20180324210000 -0600" stop="20180324220000 -0600" channel="MAXPrime">
-    <title lang="es">Vinyl</title>
-    <sub-title lang="es">S1-Ep2</sub-title>
-    <episode-num>S1-Ep2</episode-num>
+  <programme start="20180322200000 -0600" stop="20180322220000 -0600" channel="MAX Prime">
+    <title lang="es">Doctor Strange: Hechicero</title>
   </programme>
-  <programme start="20180324220000 -0600" stop="20180324230000 -0600" channel="MAXPrime">
-    <title lang="es">Vinyl</title>
-    <sub-title lang="es">S1-Ep3</sub-title>
-    <episode-num>S1-Ep3</episode-num>
+  <programme start="20180322220000 -0600" stop="20180323001000 -0600" channel="MAX Prime">
+    <title lang="es">Escuadrón suicida</title>
   </programme>
-  <programme start="20180324230000 -0600" stop="20180324233500 -0600" channel="MAXPrime">
-    <title lang="es">Especial Tokyo motor show 2017</title>
+  <programme start="20180323220000 -0600" stop="20180324001000 -0600" channel="MAX Prime">
+    <title lang="es">Escuadrón suicida</title>
   </programme>
-  <programme start="20180324233500 -0600" stop="20180325010000 -0600" channel="MAXPrime">
-    <title lang="es">First class tits</title>
+  <programme start="20180324001000 -0600" stop="20180324015500 -0600" channel="MAX Prime">
+    <title lang="es">Keanu</title>
+  </programme>
+  <programme start="20180324015500 -0600" stop="20180324033000 -0600" channel="MAX Prime">
+    <title lang="es">Traicionada</title>
+  </programme>
+  <programme start="20180324033000 -0600" stop="20180324051500 -0600" channel="MAX Prime">
+    <title lang="es">Destino final 3</title>
+  </programme>
+  <programme start="20180324051500 -0600" stop="20180324065500 -0600" channel="MAX Prime">
+    <title lang="es">El barco fantasma</title>
+  </programme>
+  <programme start="20180324065500 -0600" stop="20180324090500 -0600" channel="MAX Prime">
+    <title lang="es">Superman III</title>
+  </programme>
+  <programme start="20180324090500 -0600" stop="20180324105000 -0600" channel="MAX Prime">
+    <title lang="es">Los Ángeles de Charlie</title>
+    <desc lang="es">2000 (Charlie’s Angels) Cameron Diaz, Drew Barrymore y Lucy Liu.  Tres mujeres detectives con un jefe misterioso se ven en la tarea de recuperar un software(n)</desc>
+    <credits>
+      <actor>Cameron Diaz</actor>
+      <actor>Drew Barrymore</actor>
+      <actor>Lucy Liu</actor>
+      <actor>Bill Murray</actor>
+      <actor>Sam Rockwell</actor>
+    </credits>
+    <date>2000</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Crimen</category>
+    <category lang="es">Suspenso</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/los_angeles_de_charlie.jpg" />
+    <country>Alemania</country>
+    <country>Estados Unidos</country>
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20180324105000 -0600" stop="20180324130000 -0600" channel="MAX Prime">
+    <title lang="es">Warcraft: El primer encuentro</title>
+  </programme>
+  <programme start="20180324130000 -0600" stop="20180324143500 -0600" channel="MAX Prime">
+    <title lang="es">Una pareja explosiva 2</title>
+  </programme>
+  <programme start="20180324143500 -0600" stop="20180324165500 -0600" channel="MAX Prime">
+    <title lang="es">Invictus</title>
+  </programme>
+  <programme start="20180324165500 -0600" stop="20180324184000 -0600" channel="MAX Prime">
+    <title lang="es">Red De Corrupción</title>
+  </programme>
+  <programme start="20180324184000 -0600" stop="20180324202500 -0600" channel="MAX Prime">
+    <title lang="es">Las cruzadas</title>
+  </programme>
+  <programme start="20180324202500 -0600" stop="20180324220000 -0600" channel="MAX Prime">
+    <title lang="es">Inframundo: Guerras de sangre</title>
+  </programme>
+  <programme start="20180324220000 -0600" stop="20180325001000 -0600" channel="MAX Prime">
+    <title lang="es">Warcraft: El primer encuentro</title>
   </programme>
   <programme start="20180318003500 -0600" stop="20180318020500 -0600" channel="MaxUp">
     <title lang="es">La fiesta de las salchichas</title>
