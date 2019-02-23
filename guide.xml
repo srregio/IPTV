@@ -57,6 +57,7 @@
   </channel>
   <channel id="E!">
     <display-name lang="en">E!</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/e_entertainment_television-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="FOX HD">
@@ -1352,6 +1353,297 @@ El Chavo del Ocho
   <programme start="20190223113000 +0000" stop="20190223130000 +0000" channel="DISTRITO COMEDIA">
     <title lang="en">
 Una familia de diez
+
+</title>
+  </programme>
+  <programme start="20190223000600 +0000" stop="20190223004000 +0000" channel="E!">
+    <title lang="en">
+Busy Tonight
+
+</title>
+  </programme>
+  <programme start="20190223004000 +0000" stop="20190223010000 +0000" channel="E!">
+    <title lang="en">
+Busy Tonight
+
+</title>
+  </programme>
+  <programme start="20190223010000 +0000" stop="20190223030000 +0000" channel="E!">
+    <title lang="en">
+Paid Programming
+
+</title>
+  </programme>
+  <programme start="20190223030000 +0000" stop="20190223040000 +0000" channel="E!">
+    <title lang="en">
+Mysteries and scandals
+
+</title>
+  </programme>
+  <programme start="20190223040000 +0000" stop="20190223050000 +0000" channel="E!">
+    <title lang="en">
+The bi life
+
+</title>
+  </programme>
+  <programme start="20190223050000 +0000" stop="20190223060000 +0000" channel="E!">
+    <title lang="en">
+The bi life
+
+</title>
+  </programme>
+  <programme start="20190223060000 +0000" stop="20190223080000 +0000" channel="E!">
+    <title lang="en">
+Paid Programming
+
+</title>
+  </programme>
+  <programme start="20190223080000 +0000" stop="20190223090000 +0000" channel="E!">
+    <title lang="en">
+Below deck
+
+</title>
+  </programme>
+  <programme start="20190223090000 +0000" stop="20190223100000 +0000" channel="E!">
+    <title lang="en">
+Below deck
+
+</title>
+  </programme>
+  <programme start="20190223100000 +0000" stop="20190223110000 +0000" channel="E!">
+    <title lang="en">
+Wags Miami
+
+</title>
+  </programme>
+  <programme start="20190223110000 +0000" stop="20190223120000 +0000" channel="E!">
+    <title lang="en">
+Very Cavallari
+
+</title>
+  </programme>
+  <programme start="20190223120000 +0000" stop="20190223130000 +0000" channel="E!">
+    <title lang="en">
+Very Cavallari
+
+</title>
+  </programme>
+  <programme start="20190223130000 +0000" stop="20190223140000 +0000" channel="E!">
+    <title lang="en">
+Summer House
+
+</title>
+  </programme>
+  <programme start="20190223140000 +0000" stop="20190223150000 +0000" channel="E!">
+    <title lang="en">
+Summer House
+
+</title>
+  </programme>
+  <programme start="20190223150000 +0000" stop="20190223160000 +0000" channel="E!">
+    <title lang="en">
+Hollywood medium with Tyler
+
+</title>
+  </programme>
+  <programme start="20190223160000 +0000" stop="20190223163000 +0000" channel="E!">
+    <title lang="en">
+Busy Tonight
+
+</title>
+  </programme>
+  <programme start="20190223163000 +0000" stop="20190223170000 +0000" channel="E!">
+    <title lang="en">
+Nighty pop
+
+</title>
+  </programme>
+  <programme start="20190223170000 +0000" stop="20190223180000 +0000" channel="E!">
+    <title lang="en">
+Cuidate de la camara
+
+</title>
+  </programme>
+  <programme start="20190223180000 +0000" stop="20190223190000 +0000" channel="E!">
+    <title lang="en">
+Cuidate de la camara
+
+</title>
+  </programme>
+  <programme start="20190223190000 +0000" stop="20190223200000 +0000" channel="E!">
+    <title lang="en">
+The bi life
+
+</title>
+  </programme>
+  <programme start="20190223200000 +0000" stop="20190223210000 +0000" channel="E!">
+    <title lang="en">
+The bi life
+
+</title>
+  </programme>
+  <programme start="20190223210000 +0000" stop="20190223220000 +0000" channel="E!">
+    <title lang="en">
+Summer House
+
+</title>
+  </programme>
+  <programme start="20190223220000 +0000" stop="20190223230000 +0000" channel="E!">
+    <title lang="en">
+Summer House
+
+</title>
+  </programme>
+  <programme start="20190223230000 +0000" stop="20190224000000 +0000" channel="E!">
+    <title lang="en">
+Mysteries and scandals
+
+</title>
+  </programme>
+  <programme start="20190224000000 +0000" stop="20190224004000 +0000" channel="E!">
+    <title lang="en">
+Mysteries and scandals
+
+</title>
+  </programme>
+  <programme start="20190224004000 +0000" stop="20190224010000 +0000" channel="E!">
+    <title lang="en">
+Busy Tonight
+
+</title>
+  </programme>
+  <programme start="20190224010000 +0000" stop="20190224030000 +0000" channel="E!">
+    <title lang="en">
+Paid Programming
+
+</title>
+  </programme>
+  <programme start="20190224030000 +0000" stop="20190224040000 +0000" channel="E!">
+    <title lang="en">
+Below deck
+
+</title>
+  </programme>
+  <programme start="20190224040000 +0000" stop="20190224050000 +0000" channel="E!">
+    <title lang="en">
+Summer House
+
+</title>
+  </programme>
+  <programme start="20190224050000 +0000" stop="20190224060000 +0000" channel="E!">
+    <title lang="en">
+Summer House
+
+</title>
+  </programme>
+  <programme start="20190224060000 +0000" stop="20190224080000 +0000" channel="E!">
+    <title lang="en">
+Paid Programming
+
+</title>
+  </programme>
+  <programme start="20190224080000 +0000" stop="20190224090000 +0000" channel="E!">
+    <title lang="en">
+Below deck
+
+</title>
+  </programme>
+  <programme start="20190224090000 +0000" stop="20190224100000 +0000" channel="E!">
+    <title lang="en">
+Cuidate de la camara
+
+</title>
+  </programme>
+  <programme start="20190224100000 +0000" stop="20190224110000 +0000" channel="E!">
+    <title lang="en">
+Cuidate de la camara
+
+</title>
+  </programme>
+  <programme start="20190224110000 +0000" stop="20190224120000 +0000" channel="E!">
+    <title lang="en">
+
+Cámbiame el look
+
+
+</title>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/cambiame_el_look.jpg" />
+  </programme>
+  <programme start="20190224120000 +0000" stop="20190224130000 +0000" channel="E!">
+    <title lang="en">
+
+Cámbiame el look
+
+
+</title>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/cambiame_el_look.jpg" />
+  </programme>
+  <programme start="20190224130000 +0000" stop="20190224140000 +0000" channel="E!">
+    <title lang="en">
+
+Cámbiame el look
+
+
+</title>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/cambiame_el_look.jpg" />
+  </programme>
+  <programme start="20190224140000 +0000" stop="20190224143000 +0000" channel="E!">
+    <title lang="en">
+E! news: el universo Cuarón
+
+</title>
+  </programme>
+  <programme start="20190224143000 +0000" stop="20190224150000 +0000" channel="E!">
+    <title lang="en">
+Live from E! Academy Awards
+
+</title>
+  </programme>
+  <programme start="20190224150000 +0000" stop="20190224160000 +0000" channel="E!">
+    <title lang="en">
+Academy Awards, red carpet
+
+</title>
+  </programme>
+  <programme start="20190224160000 +0000" stop="20190224180000 +0000" channel="E!">
+    <title lang="en">
+Academy Awards, red carpet
+
+</title>
+  </programme>
+  <programme start="20190224180000 +0000" stop="20190224190000 +0000" channel="E!">
+    <title lang="en">
+Red carpet rundown: Oscars
+
+</title>
+  </programme>
+  <programme start="20190224190000 +0000" stop="20190224210000 +0000" channel="E!">
+    <title lang="en">
+Academy Awards, red carpet
+
+</title>
+  </programme>
+  <programme start="20190224210000 +0000" stop="20190224220000 +0000" channel="E!">
+    <title lang="en">
+Mi mitad + hot
+
+</title>
+  </programme>
+  <programme start="20190224220000 +0000" stop="20190224223000 +0000" channel="E!">
+    <title lang="en">
+Nighty pop
+
+</title>
+  </programme>
+  <programme start="20190224223000 +0000" stop="20190225000000 +0000" channel="E!">
+    <title lang="en">
+Academy Awards E! after party
+
+</title>
+  </programme>
+  <programme start="20190223015000 +0000" stop="20190223033500 +0000" channel="FOX LIFE HD">
+    <title lang="en">
+Una vida perfecta
 
 </title>
   </programme>
