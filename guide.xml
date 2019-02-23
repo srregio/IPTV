@@ -55,18 +55,35 @@
     <display-name lang="en">DISTRITO COMEDIA</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="E!">
+    <display-name lang="en">E!</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="FOX HD">
+    <display-name lang="en">FOX HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="FOX LIFE HD">
+    <display-name lang="en">FOX LIFE HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
   <channel id="NICK JR HD">
     <display-name lang="en">NICK JR HD</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/nick_jr-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <programme start="20190223010000 +0000" stop="20190223013000 +0000" channel="AZTECA MAS">
     <title lang="en">
-José de los milagros
+Sin Pisar el Pasto
 
 </title>
   </programme>
-  <programme start="20190223013000 +0000" stop="20190223050000 +0000" channel="AZTECA MAS">
+  <programme start="20190223013000 +0000" stop="20190223040000 +0000" channel="AZTECA MAS">
+    <title lang="en">
+Paid Programming
+
+</title>
+  </programme>
+  <programme start="20190223040000 +0000" stop="20190223050000 +0000" channel="AZTECA MAS">
     <title lang="en">
 Paid Programming
 
@@ -84,141 +101,252 @@ Paid Programming
 
 </title>
   </programme>
-  <programme start="20190223063000 +0000" stop="20190223070000 +0000" channel="AZTECA MAS">
+  <programme start="20190223063000 +0000" stop="20190223073000 +0000" channel="AZTECA MAS">
     <title lang="en">
-Paid Programming
-
-</title>
-  </programme>
-  <programme start="20190223070000 +0000" stop="20190223073000 +0000" channel="AZTECA MAS">
-    <title lang="en">
-Manantial CDMX
+Naturista Naturalmente
 
 </title>
   </programme>
   <programme start="20190223073000 +0000" stop="20190223080000 +0000" channel="AZTECA MAS">
     <title lang="en">
-Soy sano
+Paid Programming
 
 </title>
   </programme>
-  <programme start="20190223080000 +0000" stop="20190223090000 +0000" channel="AZTECA MAS">
+  <programme start="20190223080000 +0000" stop="20190223083000 +0000" channel="AZTECA MAS">
     <title lang="en">
-Naturista Naturalmente
+Manantial CDMX
 
 </title>
   </programme>
-  <programme start="20190223090000 +0000" stop="20190223093000 +0000" channel="AZTECA MAS">
+  <programme start="20190223083000 +0000" stop="20190223090000 +0000" channel="AZTECA MAS">
     <title lang="en">
-Soy sano
+Paid Programming
 
 </title>
   </programme>
-  <programme start="20190223093000 +0000" stop="20190223100000 +0000" channel="AZTECA MAS">
+  <programme start="20190223090000 +0000" stop="20190223110000 +0000" channel="AZTECA MAS">
     <title lang="en">
-Sendero del bien
-
-</title>
-  </programme>
-  <programme start="20190223100000 +0000" stop="20190223103000 +0000" channel="AZTECA MAS">
-    <title lang="en">
-Soy sano
-
-</title>
-  </programme>
-  <programme start="20190223103000 +0000" stop="20190223110000 +0000" channel="AZTECA MAS">
-    <title lang="en">
-Naturista Naturalmente
+Aqua Clyva
 
 </title>
   </programme>
   <programme start="20190223110000 +0000" stop="20190223113000 +0000" channel="AZTECA MAS">
     <title lang="en">
-Soy sano
+Agua Inmaculada
 
 </title>
   </programme>
   <programme start="20190223113000 +0000" stop="20190223120000 +0000" channel="AZTECA MAS">
     <title lang="en">
-Manantial CDMX
+Aqua Clyva
 
 </title>
   </programme>
   <programme start="20190223120000 +0000" stop="20190223140000 +0000" channel="AZTECA MAS">
     <title lang="en">
-Un tipo a todo dar
+World Golf Championships
 
 </title>
   </programme>
-  <programme start="20190223140000 +0000" stop="20190223150000 +0000" channel="AZTECA MAS">
+  <programme start="20190223140000 +0000" stop="20190223160000 +0000" channel="AZTECA MAS">
     <title lang="en">
-A quien corresponda
-
-</title>
-  </programme>
-  <programme start="20190223150000 +0000" stop="20190223160000 +0000" channel="AZTECA MAS">
-    <title lang="en">
-Ahora más información de punto
+World Golf Championships
 
 </title>
   </programme>
   <programme start="20190223160000 +0000" stop="20190223170000 +0000" channel="AZTECA MAS">
     <title lang="en">
-¡Pásele yo invito!
+World Golf Championships
 
 </title>
   </programme>
-  <programme start="20190223170000 +0000" stop="20190223180000 +0000" channel="AZTECA MAS">
+  <programme start="20190223170000 +0000" stop="20190223173000 +0000" channel="AZTECA MAS">
     <title lang="en">
-Gata Salvaje
+Mugo Live
 
 </title>
+  </programme>
+  <programme start="20190223173000 +0000" stop="20190223180000 +0000" channel="AZTECA MAS">
+    <title lang="en">
+
+El Precio de la Historia
+
+
+</title>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/el_precio_de_la_historia.jpg" />
   </programme>
   <programme start="20190223180000 +0000" stop="20190223190000 +0000" channel="AZTECA MAS">
     <title lang="en">
-El secreto de Feriha
+Extreme Makeover
 
 </title>
   </programme>
   <programme start="20190223190000 +0000" stop="20190223200000 +0000" channel="AZTECA MAS">
     <title lang="en">
-¿Que culpa tiene Fatmagul?
+Cazadores de tesoros
 
 </title>
   </programme>
   <programme start="20190223200000 +0000" stop="20190223210000 +0000" channel="AZTECA MAS">
     <title lang="en">
+El oscuro paseo de la fama
+
+</title>
+  </programme>
+  <programme start="20190223210000 +0000" stop="20190223213000 +0000" channel="AZTECA MAS">
+    <title lang="en">
+Cambiemos de Chamba
+
+</title>
+  </programme>
+  <programme start="20190223213000 +0000" stop="20190223220000 +0000" channel="AZTECA MAS">
+    <title lang="en">
+Entre risas
+
+</title>
+  </programme>
+  <programme start="20190223220000 +0000" stop="20190223230000 +0000" channel="AZTECA MAS">
+    <title lang="en">
+Noches con Platanito
+
+</title>
+  </programme>
+  <programme start="20190223230000 +0000" stop="20190224000000 +0000" channel="AZTECA MAS">
+    <title lang="en">
+Extranormal Punto 2
+
+</title>
+  </programme>
+  <programme start="20190224000000 +0000" stop="20190224010000 +0000" channel="AZTECA MAS">
+    <title lang="en">
+Paid Programming
+
+</title>
+  </programme>
+  <programme start="20190224010000 +0000" stop="20190224013000 +0000" channel="AZTECA MAS">
+    <title lang="en">
+Dificil de creer
+
+</title>
+  </programme>
+  <programme start="20190224013000 +0000" stop="20190224043000 +0000" channel="AZTECA MAS">
+    <title lang="en">
+Paid Programming
+
+</title>
+  </programme>
+  <programme start="20190224043000 +0000" stop="20190224050000 +0000" channel="AZTECA MAS">
+    <title lang="en">
+Dificil de creer
+
+</title>
+  </programme>
+  <programme start="20190224050000 +0000" stop="20190224063000 +0000" channel="AZTECA MAS">
+    <title lang="en">
+Paid Programming
+
+</title>
+  </programme>
+  <programme start="20190224063000 +0000" stop="20190224073000 +0000" channel="AZTECA MAS">
+    <title lang="en">
+Naturista Naturalmente
+
+</title>
+  </programme>
+  <programme start="20190224073000 +0000" stop="20190224080000 +0000" channel="AZTECA MAS">
+    <title lang="en">
+Dificil de creer
+
+</title>
+  </programme>
+  <programme start="20190224080000 +0000" stop="20190224083000 +0000" channel="AZTECA MAS">
+    <title lang="en">
+Iglesia
+
+</title>
+  </programme>
+  <programme start="20190224083000 +0000" stop="20190224090000 +0000" channel="AZTECA MAS">
+    <title lang="en">
+Septimo Sentido
+
+</title>
+  </programme>
+  <programme start="20190224090000 +0000" stop="20190224103000 +0000" channel="AZTECA MAS">
+    <title lang="en">
+Aqua Clyva
+
+</title>
+  </programme>
+  <programme start="20190224103000 +0000" stop="20190224110000 +0000" channel="AZTECA MAS">
+    <title lang="en">
+Agua Inmaculada
+
+</title>
+  </programme>
+  <programme start="20190224110000 +0000" stop="20190224113000 +0000" channel="AZTECA MAS">
+    <title lang="en">
+Soy sano
+
+</title>
+  </programme>
+  <programme start="20190224113000 +0000" stop="20190224120000 +0000" channel="AZTECA MAS">
+    <title lang="en">
+Aqua Clyva
+
+</title>
+  </programme>
+  <programme start="20190224120000 +0000" stop="20190224140000 +0000" channel="AZTECA MAS">
+    <title lang="en">
+World Golf Championships
+
+</title>
+  </programme>
+  <programme start="20190224140000 +0000" stop="20190224160000 +0000" channel="AZTECA MAS">
+    <title lang="en">
+World Golf Championships
+
+</title>
+  </programme>
+  <programme start="20190224160000 +0000" stop="20190224170000 +0000" channel="AZTECA MAS">
+    <title lang="en">
+World Golf Championships
+
+</title>
+  </programme>
+  <programme start="20190224170000 +0000" stop="20190224180000 +0000" channel="AZTECA MAS">
+    <title lang="en">
+Alienígenas ancestrales
+
+</title>
+  </programme>
+  <programme start="20190224180000 +0000" stop="20190224200000 +0000" channel="AZTECA MAS">
+    <title lang="en">
+T3rcer Milenio
+
+</title>
+  </programme>
+  <programme start="20190224200000 +0000" stop="20190224210000 +0000" channel="AZTECA MAS">
+    <title lang="en">
+Furia en la Ciudad
+
+</title>
+  </programme>
+  <programme start="20190224210000 +0000" stop="20190224220000 +0000" channel="AZTECA MAS">
+    <title lang="en">
 Entrañas de lo Prohibido
 
 </title>
   </programme>
-  <programme start="20190223210000 +0000" stop="20190223220000 +0000" channel="AZTECA MAS">
+  <programme start="20190224220000 +0000" stop="20190224230000 +0000" channel="AZTECA MAS">
     <title lang="en">
-Ahora Más Noticias
+Extranormal Punto 2
 
 </title>
   </programme>
-  <programme start="20190223220000 +0000" stop="20190223223000 +0000" channel="AZTECA MAS">
+  <programme start="20190224230000 +0000" stop="20190225000000 +0000" channel="AZTECA MAS">
     <title lang="en">
-Dante Night Show
-
-</title>
-  </programme>
-  <programme start="20190223223000 +0000" stop="20190223230000 +0000" channel="AZTECA MAS">
-    <title lang="en">
-Sin Pisar el Pasto
-
-</title>
-  </programme>
-  <programme start="20190223230000 +0000" stop="20190223233000 +0000" channel="AZTECA MAS">
-    <title lang="en">
-Manantial CDMX
-
-</title>
-  </programme>
-  <programme start="20190223233000 +0000" stop="20190224000000 +0000" channel="AZTECA MAS">
-    <title lang="en">
-Paid Programming
+Cazadores de Ovnis
 
 </title>
   </programme>
@@ -264,105 +392,237 @@ Himno Nacional
 
 </title>
   </programme>
-  <programme start="20190223061500 +0000" stop="20190223090000 +0000" channel="AZTECA UNO">
+  <programme start="20190223061500 +0000" stop="20190223070000 +0000" channel="AZTECA UNO">
     <title lang="en">
-Hechos AM
+Paid Programming
 
 </title>
   </programme>
-  <programme start="20190223090000 +0000" stop="20190223120000 +0000" channel="AZTECA UNO">
+  <programme start="20190223070000 +0000" stop="20190223073000 +0000" channel="AZTECA UNO">
     <title lang="en">
-
-Venga la alegría
-
+Farmacias Similares
 
 </title>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  </programme>
+  <programme start="20190223073000 +0000" stop="20190223080000 +0000" channel="AZTECA UNO">
+    <title lang="en">
+Iglesia Universal
+
+</title>
+  </programme>
+  <programme start="20190223080000 +0000" stop="20190223090000 +0000" channel="AZTECA UNO">
+    <title lang="en">
+Historias Engarzadas
+
+</title>
+  </programme>
+  <programme start="20190223090000 +0000" stop="20190223100000 +0000" channel="AZTECA UNO">
+    <title lang="en">
+La historia detrás del mito
+
+</title>
+  </programme>
+  <programme start="20190223100000 +0000" stop="20190223120000 +0000" channel="AZTECA UNO">
+    <title lang="en">
+Cuando seas mía
+
+</title>
   </programme>
   <programme start="20190223120000 +0000" stop="20190223140000 +0000" channel="AZTECA UNO">
     <title lang="en">
-Todo un show.Camino a la Fama
+
+A cada quien su santo
+
 
 </title>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/a_cada_quien_su_santo.png" />
   </programme>
   <programme start="20190223140000 +0000" stop="20190223150000 +0000" channel="AZTECA UNO">
     <title lang="en">
-Hechos meridiano
+Hechos Sábado
 
 </title>
   </programme>
-  <programme start="20190223150000 +0000" stop="20190223160000 +0000" channel="AZTECA UNO">
+  <programme start="20190223150000 +0000" stop="20190223170000 +0000" channel="AZTECA UNO">
+    <title lang="en">
+Están entre Nosotros
+
+</title>
+  </programme>
+  <programme start="20190223170000 +0000" stop="20190223190000 +0000" channel="AZTECA UNO">
+    <title lang="en">
+Al extremo
+
+</title>
+  </programme>
+  <programme start="20190223190000 +0000" stop="20190223220000 +0000" channel="AZTECA UNO">
+    <title lang="en">
+Corazón grupero
+
+</title>
+  </programme>
+  <programme start="20190223220000 +0000" stop="20190223230000 +0000" channel="AZTECA UNO">
+    <title lang="en">
+
+Lo que callamos las mujeres
+
+
+</title>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/lo_que_callamos_las_mujeres.png" />
+  </programme>
+  <programme start="20190223230000 +0000" stop="20190224000000 +0000" channel="AZTECA UNO">
+    <title lang="en">
+La resolana con El Capi
+
+</title>
+  </programme>
+  <programme start="20190224000000 +0000" stop="20190224001500 +0000" channel="AZTECA UNO">
+    <title lang="en">
+Himno Nacional
+
+</title>
+  </programme>
+  <programme start="20190224001500 +0000" stop="20190224021500 +0000" channel="AZTECA UNO">
+    <title lang="en">
+Paid Programming
+
+</title>
+  </programme>
+  <programme start="20190224021500 +0000" stop="20190224041500 +0000" channel="AZTECA UNO">
+    <title lang="en">
+Paid Programming
+
+</title>
+  </programme>
+  <programme start="20190224041500 +0000" stop="20190224044500 +0000" channel="AZTECA UNO">
+    <title lang="en">
+Paid Programming
+
+</title>
+  </programme>
+  <programme start="20190224044500 +0000" stop="20190224050000 +0000" channel="AZTECA UNO">
+    <title lang="en">
+RTC
+
+</title>
+  </programme>
+  <programme start="20190224050000 +0000" stop="20190224053000 +0000" channel="AZTECA UNO">
+    <title lang="en">
+¡Qué Cotorreo!
+
+</title>
+  </programme>
+  <programme start="20190224053000 +0000" stop="20190224060000 +0000" channel="AZTECA UNO">
+    <title lang="en">
+Paid Programming
+
+</title>
+  </programme>
+  <programme start="20190224060000 +0000" stop="20190224061500 +0000" channel="AZTECA UNO">
+    <title lang="en">
+Himno Nacional
+
+</title>
+  </programme>
+  <programme start="20190224061500 +0000" stop="20190224070000 +0000" channel="AZTECA UNO">
+    <title lang="en">
+Paid Programming
+
+</title>
+  </programme>
+  <programme start="20190224070000 +0000" stop="20190224073000 +0000" channel="AZTECA UNO">
+    <title lang="en">
+¡Qué Cotorreo!
+
+</title>
+  </programme>
+  <programme start="20190224073000 +0000" stop="20190224080000 +0000" channel="AZTECA UNO">
+    <title lang="en">
+Paid Programming
+
+</title>
+  </programme>
+  <programme start="20190224080000 +0000" stop="20190224090000 +0000" channel="AZTECA UNO">
+    <title lang="en">
+Historias Engarzadas
+
+</title>
+  </programme>
+  <programme start="20190224090000 +0000" stop="20190224100000 +0000" channel="AZTECA UNO">
+    <title lang="en">
+La historia detrás del mito
+
+</title>
+  </programme>
+  <programme start="20190224100000 +0000" stop="20190224120000 +0000" channel="AZTECA UNO">
+    <title lang="en">
+Cuando seas mía
+
+</title>
+  </programme>
+  <programme start="20190224120000 +0000" stop="20190224140000 +0000" channel="AZTECA UNO">
+    <title lang="en">
+
+A cada quien su santo
+
+
+</title>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/a_cada_quien_su_santo.png" />
+  </programme>
+  <programme start="20190224140000 +0000" stop="20190224160000 +0000" channel="AZTECA UNO">
     <title lang="en">
 Escape Perfecto
 
 </title>
   </programme>
-  <programme start="20190223160000 +0000" stop="20190223173000 +0000" channel="AZTECA UNO">
+  <programme start="20190224160000 +0000" stop="20190224180000 +0000" channel="AZTECA UNO">
     <title lang="en">
-
-Ventaneando
-
-
-</title>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ventaneando.png" />
-  </programme>
-  <programme start="20190223173000 +0000" stop="20190223193000 +0000" channel="AZTECA UNO">
-    <title lang="en">
-Enamorándonos
+Domingo Al Extremo
 
 </title>
   </programme>
-  <programme start="20190223193000 +0000" stop="20190223223000 +0000" channel="AZTECA UNO">
+  <programme start="20190224180000 +0000" stop="20190224200000 +0000" channel="AZTECA UNO">
     <title lang="en">
-Mi pareja puede
+
+Lo que callamos las mujeres
+
+
+</title>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/lo_que_callamos_las_mujeres.png" />
+  </programme>
+  <programme start="20190224200000 +0000" stop="20190224230000 +0000" channel="AZTECA UNO">
+    <title lang="en">
+México tiene talento
 
 </title>
   </programme>
-  <programme start="20190223223000 +0000" stop="20190223231500 +0000" channel="AZTECA UNO">
-    <title lang="en">
-Hechos de la noche
-
-</title>
-  </programme>
-  <programme start="20190223231500 +0000" stop="20190223233000 +0000" channel="AZTECA UNO">
-    <title lang="en">
-Hechos CDMX
-
-</title>
-  </programme>
-  <programme start="20190223233000 +0000" stop="20190224000000 +0000" channel="AZTECA UNO">
-    <title lang="en">
-Los protagonistas
-
-</title>
-  </programme>
-  <programme start="20190223003000 +0000" stop="20190223020000 +0000" channel="AZTECA 7">
+  <programme start="20190223003000 +0000" stop="20190223010000 +0000" channel="AZTECA 7">
     <title lang="en">
 Paid Programming
 
 </title>
   </programme>
-  <programme start="20190223020000 +0000" stop="20190223040000 +0000" channel="AZTECA 7">
+  <programme start="20190223010000 +0000" stop="20190223013000 +0000" channel="AZTECA 7">
+    <title lang="en">
+Farmacias Similares
+
+</title>
+  </programme>
+  <programme start="20190223013000 +0000" stop="20190223050000 +0000" channel="AZTECA 7">
     <title lang="en">
 Paid Programming
 
 </title>
   </programme>
-  <programme start="20190223040000 +0000" stop="20190223043000 +0000" channel="AZTECA 7">
+  <programme start="20190223050000 +0000" stop="20190223051500 +0000" channel="AZTECA 7">
     <title lang="en">
-Paid Programming
-
-</title>
-  </programme>
-  <programme start="20190223043000 +0000" stop="20190223051500 +0000" channel="AZTECA 7">
-    <title lang="en">
-Paid Programming
+Azteca 7
 
 </title>
   </programme>
   <programme start="20190223051500 +0000" stop="20190223053000 +0000" channel="AZTECA 7">
     <title lang="en">
-Especial de R.T.C
+RTC
 
 </title>
   </programme>
@@ -372,102 +632,93 @@ Paid Programming
 
 </title>
   </programme>
-  <programme start="20190223063000 +0000" stop="20190223073000 +0000" channel="AZTECA 7">
+  <programme start="20190223063000 +0000" stop="20190223070000 +0000" channel="AZTECA 7">
     <title lang="en">
-Doraemon
+Sissy, la joven emperatriz
+
+</title>
+  </programme>
+  <programme start="20190223070000 +0000" stop="20190223073000 +0000" channel="AZTECA 7">
+    <title lang="en">
+Drakers
 
 </title>
   </programme>
   <programme start="20190223073000 +0000" stop="20190223083000 +0000" channel="AZTECA 7">
     <title lang="en">
+Doraemon
+
+</title>
+  </programme>
+  <programme start="20190223083000 +0000" stop="20190223093000 +0000" channel="AZTECA 7">
+    <title lang="en">
 Pokemon
 
 </title>
   </programme>
-  <programme start="20190223083000 +0000" stop="20190223091500 +0000" channel="AZTECA 7">
+  <programme start="20190223093000 +0000" stop="20190223103000 +0000" channel="AZTECA 7">
     <title lang="en">
-Mickey:Aventuras sobre ruedas
+El increible mundo gumball
 
 </title>
   </programme>
-  <programme start="20190223091500 +0000" stop="20190223100000 +0000" channel="AZTECA 7">
+  <programme start="20190223103000 +0000" stop="20190223113000 +0000" channel="AZTECA 7">
     <title lang="en">
-Misión Espacial Uno
+Escandalosos
 
 </title>
   </programme>
-  <programme start="20190223100000 +0000" stop="20190223103000 +0000" channel="AZTECA 7">
+  <programme start="20190223113000 +0000" stop="20190223123000 +0000" channel="AZTECA 7">
     <title lang="en">
-Princesita Sofía
+Sailor Moon Crystal
 
 </title>
   </programme>
-  <programme start="20190223103000 +0000" stop="20190223110000 +0000" channel="AZTECA 7">
+  <programme start="20190223123000 +0000" stop="20190223133000 +0000" channel="AZTECA 7">
     <title lang="en">
-La Guardia del León
+Ranma 1/2
 
 </title>
   </programme>
-  <programme start="20190223110000 +0000" stop="20190223120000 +0000" channel="AZTECA 7">
+  <programme start="20190223133000 +0000" stop="20190223140000 +0000" channel="AZTECA 7">
     <title lang="en">
-Ben 10
+Indomable por naturaleza
 
 </title>
   </programme>
-  <programme start="20190223120000 +0000" stop="20190223131500 +0000" channel="AZTECA 7">
+  <programme start="20190223140000 +0000" stop="20190223154500 +0000" channel="AZTECA 7">
     <title lang="en">
-Las chicas superpoderosas
+Johnny English recargado
 
 </title>
   </programme>
-  <programme start="20190223131500 +0000" stop="20190223140000 +0000" channel="AZTECA 7">
+  <programme start="20190223154500 +0000" stop="20190223173000 +0000" channel="AZTECA 7">
     <title lang="en">
-Atchoo
+La mansión embrujada
 
 </title>
   </programme>
-  <programme start="20190223140000 +0000" stop="20190223150000 +0000" channel="AZTECA 7">
+  <programme start="20190223173000 +0000" stop="20190223193000 +0000" channel="AZTECA 7">
     <title lang="en">
-Gravity Falls
+Taxi
 
 </title>
   </programme>
-  <programme start="20190223150000 +0000" stop="20190223163000 +0000" channel="AZTECA 7">
+  <programme start="20190223193000 +0000" stop="20190223223000 +0000" channel="AZTECA 7">
     <title lang="en">
-Phineas y Ferb
+María Magdalena
 
 </title>
   </programme>
-  <programme start="20190223163000 +0000" stop="20190223183000 +0000" channel="AZTECA 7">
+  <programme start="20190223223000 +0000" stop="20190224000000 +0000" channel="AZTECA 7">
     <title lang="en">
-Lucha Azteca AAA
+Box Azteca
 
 </title>
   </programme>
-  <programme start="20190223183000 +0000" stop="20190223203000 +0000" channel="AZTECA 7">
+  <programme start="20190224223000 +0000" stop="20190225003000 +0000" channel="AZTECA 7">
     <title lang="en">
-12 Años Esclavo
-
-</title>
-  </programme>
-  <programme start="20190223203000 +0000" stop="20190223204500 +0000" channel="AZTECA 7">
-    <title lang="en">
-Saque de Neta
-
-</title>
-  </programme>
-  <programme start="20190223204500 +0000" stop="20190223230000 +0000" channel="AZTECA 7">
-    <title lang="en">
-
-Veracruz vs. Cruz Azul
-
-En Vivo
-</title>
-    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/veracruz_vs_cruz_azul.png" />
-  </programme>
-  <programme start="20190223230000 +0000" stop="20190223231500 +0000" channel="AZTECA 7">
-    <title lang="en">
-Cápsula Golf
+Box Azteca
 
 </title>
   </programme>
@@ -513,40 +764,7 @@ La Loba
 </title>
     <icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/la_loba.jpg" />
   </programme>
-  <programme start="20190223060000 +0000" stop="20190223070000 +0000" channel="AZTECA CORAZON">
-    <title lang="en">
-Siempre tuya Acapulco
-
-</title>
-  </programme>
-  <programme start="20190223070000 +0000" stop="20190223080000 +0000" channel="AZTECA CORAZON">
-    <title lang="en">
-
-Prófugas del Destino
-
-
-</title>
-    <icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/profugas_del_destino.jpg" />
-  </programme>
-  <programme start="20190223080000 +0000" stop="20190223090000 +0000" channel="AZTECA CORAZON">
-    <title lang="en">
-Vidas robadas
-
-</title>
-  </programme>
-  <programme start="20190223090000 +0000" stop="20190223100000 +0000" channel="AZTECA CORAZON">
-    <title lang="en">
-Entre Correr y Vivir
-
-</title>
-  </programme>
-  <programme start="20190223100000 +0000" stop="20190223110000 +0000" channel="AZTECA CORAZON">
-    <title lang="en">
-Vivir a Destiempo
-
-</title>
-  </programme>
-  <programme start="20190223110000 +0000" stop="20190223120000 +0000" channel="AZTECA CORAZON">
+  <programme start="20190223060000 +0000" stop="20190223064800 +0000" channel="AZTECA CORAZON">
     <title lang="en">
 
 La Loba
@@ -555,89 +773,149 @@ La Loba
 </title>
     <icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/la_loba.jpg" />
   </programme>
-  <programme start="20190223120000 +0000" stop="20190223130000 +0000" channel="AZTECA CORAZON">
+  <programme start="20190223064800 +0000" stop="20190223073600 +0000" channel="AZTECA CORAZON">
+    <title lang="en">
+
+La Loba
+
+
+</title>
+    <icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/la_loba.jpg" />
+  </programme>
+  <programme start="20190223073600 +0000" stop="20190223082400 +0000" channel="AZTECA CORAZON">
+    <title lang="en">
+
+La Loba
+
+
+</title>
+    <icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/la_loba.jpg" />
+  </programme>
+  <programme start="20190223082400 +0000" stop="20190223091200 +0000" channel="AZTECA CORAZON">
+    <title lang="en">
+
+La Loba
+
+
+</title>
+    <icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/la_loba.jpg" />
+  </programme>
+  <programme start="20190223091200 +0000" stop="20190223100000 +0000" channel="AZTECA CORAZON">
+    <title lang="en">
+
+La Loba
+
+
+</title>
+    <icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/la_loba.jpg" />
+  </programme>
+  <programme start="20190223100000 +0000" stop="20190223110000 +0000" channel="AZTECA CORAZON">
+    <title lang="en">
+Lo que la gente cuenta
+
+</title>
+  </programme>
+  <programme start="20190223110000 +0000" stop="20190223114800 +0000" channel="AZTECA CORAZON">
     <title lang="en">
 Siempre tuya Acapulco
 
 </title>
   </programme>
-  <programme start="20190223130000 +0000" stop="20190223140000 +0000" channel="AZTECA CORAZON">
+  <programme start="20190223114800 +0000" stop="20190223123600 +0000" channel="AZTECA CORAZON">
     <title lang="en">
-
-Prófugas del Destino
-
+Siempre tuya Acapulco
 
 </title>
-    <icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/profugas_del_destino.jpg" />
   </programme>
-  <programme start="20190223140000 +0000" stop="20190223150000 +0000" channel="AZTECA CORAZON">
+  <programme start="20190223123600 +0000" stop="20190223132400 +0000" channel="AZTECA CORAZON">
     <title lang="en">
-Vidas robadas
+Siempre tuya Acapulco
+
+</title>
+  </programme>
+  <programme start="20190223132400 +0000" stop="20190223141200 +0000" channel="AZTECA CORAZON">
+    <title lang="en">
+Siempre tuya Acapulco
+
+</title>
+  </programme>
+  <programme start="20190223141200 +0000" stop="20190223150000 +0000" channel="AZTECA CORAZON">
+    <title lang="en">
+Siempre tuya Acapulco
 
 </title>
   </programme>
   <programme start="20190223150000 +0000" stop="20190223160000 +0000" channel="AZTECA CORAZON">
     <title lang="en">
-Entre Correr y Vivir
+Mujeres rompiendo el silencio
 
 </title>
   </programme>
-  <programme start="20190223160000 +0000" stop="20190223170000 +0000" channel="AZTECA CORAZON">
-    <title lang="en">
-Vivir a Destiempo
-
-</title>
-  </programme>
-  <programme start="20190223170000 +0000" stop="20190223180000 +0000" channel="AZTECA CORAZON">
-    <title lang="en">
-
-La Loba
-
-
-</title>
-    <icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/la_loba.jpg" />
-  </programme>
-  <programme start="20190223180000 +0000" stop="20190223190000 +0000" channel="AZTECA CORAZON">
-    <title lang="en">
-Siempre tuya Acapulco
-
-</title>
-  </programme>
-  <programme start="20190223190000 +0000" stop="20190223200000 +0000" channel="AZTECA CORAZON">
-    <title lang="en">
-
-Prófugas del Destino
-
-
-</title>
-    <icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/profugas_del_destino.jpg" />
-  </programme>
-  <programme start="20190223200000 +0000" stop="20190223210000 +0000" channel="AZTECA CORAZON">
+  <programme start="20190223160000 +0000" stop="20190223164800 +0000" channel="AZTECA CORAZON">
     <title lang="en">
 Vidas robadas
 
 </title>
   </programme>
-  <programme start="20190223210000 +0000" stop="20190223220000 +0000" channel="AZTECA CORAZON">
+  <programme start="20190223164800 +0000" stop="20190223173600 +0000" channel="AZTECA CORAZON">
     <title lang="en">
-Entre Correr y Vivir
+Vidas robadas
 
 </title>
   </programme>
-  <programme start="20190223220000 +0000" stop="20190223230000 +0000" channel="AZTECA CORAZON">
+  <programme start="20190223173600 +0000" stop="20190223182400 +0000" channel="AZTECA CORAZON">
+    <title lang="en">
+Vidas robadas
+
+</title>
+  </programme>
+  <programme start="20190223182400 +0000" stop="20190223191200 +0000" channel="AZTECA CORAZON">
+    <title lang="en">
+Vidas robadas
+
+</title>
+  </programme>
+  <programme start="20190223191200 +0000" stop="20190223200000 +0000" channel="AZTECA CORAZON">
+    <title lang="en">
+Vidas robadas
+
+</title>
+  </programme>
+  <programme start="20190223200000 +0000" stop="20190223210000 +0000" channel="AZTECA CORAZON">
+    <title lang="en">
+Lo que la gente cuenta
+
+</title>
+  </programme>
+  <programme start="20190223210000 +0000" stop="20190223214800 +0000" channel="AZTECA CORAZON">
     <title lang="en">
 Vivir a Destiempo
 
 </title>
   </programme>
-  <programme start="20190223230000 +0000" stop="20190224000000 +0000" channel="AZTECA CORAZON">
+  <programme start="20190223214800 +0000" stop="20190223223600 +0000" channel="AZTECA CORAZON">
     <title lang="en">
-
-La Loba
-
+Vivir a Destiempo
 
 </title>
-    <icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/la_loba.jpg" />
+  </programme>
+  <programme start="20190223223600 +0000" stop="20190223232400 +0000" channel="AZTECA CORAZON">
+    <title lang="en">
+Vivir a Destiempo
+
+</title>
+  </programme>
+  <programme start="20190223232400 +0000" stop="20190224000000 +0000" channel="AZTECA CORAZON">
+    <title lang="en">
+Vivir a Destiempo
+
+</title>
+  </programme>
+  <programme start="20190224232400 +0000" stop="20190225001200 +0000" channel="AZTECA CORAZON">
+    <title lang="en">
+Vivir a Destiempo
+
+</title>
   </programme>
   <programme start="20190223010000 +0000" stop="20190223020000 +0000" channel="CANAL 5">
     <title lang="en">
@@ -645,7 +923,13 @@ México Nuevo Siglo
 
 </title>
   </programme>
-  <programme start="20190223020000 +0000" stop="20190223043000 +0000" channel="CANAL 5">
+  <programme start="20190223020000 +0000" stop="20190223040000 +0000" channel="CANAL 5">
+    <title lang="en">
+Paid Programming
+
+</title>
+  </programme>
+  <programme start="20190223040000 +0000" stop="20190223043000 +0000" channel="CANAL 5">
     <title lang="en">
 Paid Programming
 
@@ -653,7 +937,7 @@ Paid Programming
   </programme>
   <programme start="20190223043000 +0000" stop="20190223050000 +0000" channel="CANAL 5">
     <title lang="en">
-Veredicto Final
+Especial de R.T.C
 
 </title>
   </programme>
@@ -663,19 +947,25 @@ Paid Programming
 
 </title>
   </programme>
-  <programme start="20190223053000 +0000" stop="20190223061500 +0000" channel="CANAL 5">
+  <programme start="20190223053000 +0000" stop="20190223060000 +0000" channel="CANAL 5">
     <title lang="en">
 Soy sano
 
 </title>
   </programme>
-  <programme start="20190223061500 +0000" stop="20190223063000 +0000" channel="CANAL 5">
+  <programme start="20190223060000 +0000" stop="20190223063000 +0000" channel="CANAL 5">
     <title lang="en">
-Molang
+Plaza Sesamo
 
 </title>
   </programme>
-  <programme start="20190223063000 +0000" stop="20190223070000 +0000" channel="CANAL 5">
+  <programme start="20190223063000 +0000" stop="20190223064500 +0000" channel="CANAL 5">
+    <title lang="en">
+Peppa pig
+
+</title>
+  </programme>
+  <programme start="20190223064500 +0000" stop="20190223070000 +0000" channel="CANAL 5">
     <title lang="en">
 Masha y el oso
 
@@ -683,94 +973,94 @@ Masha y el oso
   </programme>
   <programme start="20190223070000 +0000" stop="20190223073000 +0000" channel="CANAL 5">
     <title lang="en">
-Plaza Sesamo
+Super Wings
 
 </title>
   </programme>
   <programme start="20190223073000 +0000" stop="20190223080000 +0000" channel="CANAL 5">
     <title lang="en">
-Super Wings
-
-</title>
-  </programme>
-  <programme start="20190223080000 +0000" stop="20190223081500 +0000" channel="CANAL 5">
-    <title lang="en">
-Sesamo 3: Pequeñas Aventureras
-
-</title>
-  </programme>
-  <programme start="20190223081500 +0000" stop="20190223083000 +0000" channel="CANAL 5">
-    <title lang="en">
-PJ Masks: Héroes en pijamas
-
-</title>
-  </programme>
-  <programme start="20190223083000 +0000" stop="20190223093000 +0000" channel="CANAL 5">
-    <title lang="en">
 Thomas y sus amigos 
 
 </title>
   </programme>
-  <programme start="20190223093000 +0000" stop="20190223100000 +0000" channel="CANAL 5">
+  <programme start="20190223080000 +0000" stop="20190223083000 +0000" channel="CANAL 5">
     <title lang="en">
-Beyblade burst
+Cleo y Cuquin
 
 </title>
   </programme>
-  <programme start="20190223100000 +0000" stop="20190223113000 +0000" channel="CANAL 5">
+  <programme start="20190223083000 +0000" stop="20190223090000 +0000" channel="CANAL 5">
     <title lang="en">
-My Little Pony: La magia
+Thomas y sus Amigos: Un gran m
+
+</title>
+  </programme>
+  <programme start="20190223090000 +0000" stop="20190223100000 +0000" channel="CANAL 5">
+    <title lang="en">
+Max Steel: Turbo Cargado
+
+</title>
+  </programme>
+  <programme start="20190223100000 +0000" stop="20190223103000 +0000" channel="CANAL 5">
+    <title lang="en">
+Enchantimals
+
+</title>
+  </programme>
+  <programme start="20190223103000 +0000" stop="20190223113000 +0000" channel="CANAL 5">
+    <title lang="en">
+Polly Pocket
 
 </title>
   </programme>
   <programme start="20190223113000 +0000" stop="20190223130000 +0000" channel="CANAL 5">
     <title lang="en">
-Pingüinos de Madagascar
+Barbie dreamhouse adventure
 
 </title>
   </programme>
-  <programme start="20190223130000 +0000" stop="20190223150000 +0000" channel="CANAL 5">
+  <programme start="20190223130000 +0000" stop="20190223143000 +0000" channel="CANAL 5">
     <title lang="en">
-
-Bob Esponja
-
-
-</title>
-    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/bob_esponja.png" />
-  </programme>
-  <programme start="20190223150000 +0000" stop="20190223160000 +0000" channel="CANAL 5">
-    <title lang="en">
-Dragon ball super
+iCarly
 
 </title>
   </programme>
-  <programme start="20190223160000 +0000" stop="20190223173000 +0000" channel="CANAL 5">
+  <programme start="20190223143000 +0000" stop="20190223161500 +0000" channel="CANAL 5">
     <title lang="en">
-Flash
+iCarly Va a Japón
 
 </title>
   </programme>
-  <programme start="20190223173000 +0000" stop="20190223190000 +0000" channel="CANAL 5">
+  <programme start="20190223161500 +0000" stop="20190223181500 +0000" channel="CANAL 5">
     <title lang="en">
-Malcolm el de en medio
+lejos de Tierra
 
 </title>
   </programme>
-  <programme start="20190223190000 +0000" stop="20190223203000 +0000" channel="CANAL 5">
+  <programme start="20190223181500 +0000" stop="20190223201500 +0000" channel="CANAL 5">
     <title lang="en">
-Ridículos MTV
+
+Gravedad
+
 
 </title>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/gravedad.jpg" />
   </programme>
-  <programme start="20190223203000 +0000" stop="20190223223000 +0000" channel="CANAL 5">
+  <programme start="20190223201500 +0000" stop="20190223223000 +0000" channel="CANAL 5">
     <title lang="en">
-Premio lo Nuestro 2019
+Abraham Lincoln: Cazador
 
 </title>
   </programme>
   <programme start="20190223223000 +0000" stop="20190224000000 +0000" channel="CANAL 5">
     <title lang="en">
-La viuda negra
+Actividad Paranormal: Los Marc
+
+</title>
+  </programme>
+  <programme start="20190224223000 +0000" stop="20190225003000 +0000" channel="CANAL 5">
+    <title lang="en">
+Actividad Paranormal: Los Marc
 
 </title>
   </programme>
@@ -792,25 +1082,19 @@ Especial de R.T.C
 
 </title>
   </programme>
-  <programme start="20190223043000 +0000" stop="20190223053000 +0000" channel="EL NUEVE">
+  <programme start="20190223043000 +0000" stop="20190223083000 +0000" channel="EL NUEVE">
     <title lang="en">
 Paid Programming
 
 </title>
   </programme>
-  <programme start="20190223053000 +0000" stop="20190223060000 +0000" channel="EL NUEVE">
-    <title lang="en">
-Iglesia de Dios Internacional
-
-</title>
-  </programme>
-  <programme start="20190223060000 +0000" stop="20190223090000 +0000" channel="EL NUEVE">
+  <programme start="20190223083000 +0000" stop="20190223103000 +0000" channel="EL NUEVE">
     <title lang="en">
 Paid Programming
 
 </title>
   </programme>
-  <programme start="20190223090000 +0000" stop="20190223120000 +0000" channel="EL NUEVE">
+  <programme start="20190223103000 +0000" stop="20190223120000 +0000" channel="EL NUEVE">
     <title lang="en">
 Paid Programming
 
@@ -822,61 +1106,43 @@ Paid Programming
 
 </title>
   </programme>
-  <programme start="20190223140000 +0000" stop="20190223143000 +0000" channel="EL NUEVE">
+  <programme start="20190223140000 +0000" stop="20190223153000 +0000" channel="EL NUEVE">
     <title lang="en">
-Paid Programming
+Reventon musical
 
 </title>
   </programme>
-  <programme start="20190223143000 +0000" stop="20190223150000 +0000" channel="EL NUEVE">
+  <programme start="20190223153000 +0000" stop="20190223163000 +0000" channel="EL NUEVE">
     <title lang="en">
-El Noticiero Karla Iberia
+Hazaña, el Deporte Vive
 
 </title>
   </programme>
-  <programme start="20190223150000 +0000" stop="20190223160000 +0000" channel="EL NUEVE">
+  <programme start="20190223163000 +0000" stop="20190223183000 +0000" channel="EL NUEVE">
     <title lang="en">
-Vecinos
+Educación sexual en breves
 
 </title>
   </programme>
-  <programme start="20190223160000 +0000" stop="20190223173000 +0000" channel="EL NUEVE">
+  <programme start="20190223183000 +0000" stop="20190223204500 +0000" channel="EL NUEVE">
     <title lang="en">
-Intrusos
+Las noches del blanquita
 
 </title>
   </programme>
-  <programme start="20190223173000 +0000" stop="20190223193000 +0000" channel="EL NUEVE">
+  <programme start="20190223204500 +0000" stop="20190223230000 +0000" channel="EL NUEVE">
     <title lang="en">
-Mi Familia Perfecta
+Necaxa vs. Tijuana
+En Vivo
+</title>
+  </programme>
+  <programme start="20190224230000 +0000" stop="20190225003000 +0000" channel="EL NUEVE">
+    <title lang="en">
+KM-31
 
 </title>
   </programme>
-  <programme start="20190223193000 +0000" stop="20190223210000 +0000" channel="EL NUEVE">
-    <title lang="en">
-La hora pico
-
-</title>
-  </programme>
-  <programme start="20190223210000 +0000" stop="20190223223000 +0000" channel="EL NUEVE">
-    <title lang="en">
-12 corazones
-
-</title>
-  </programme>
-  <programme start="20190223223000 +0000" stop="20190224000000 +0000" channel="EL NUEVE">
-    <title lang="en">
-El rostro de la venganza
-
-</title>
-  </programme>
-  <programme start="20190223010000 +0000" stop="20190223013000 +0000" channel="LAS ESTRELLAS">
-    <title lang="en">
-Veredicto Final
-
-</title>
-  </programme>
-  <programme start="20190223013000 +0000" stop="20190223043000 +0000" channel="LAS ESTRELLAS">
+  <programme start="20190223010000 +0000" stop="20190223043000 +0000" channel="LAS ESTRELLAS">
     <title lang="en">
 Paid Programming
 
@@ -888,111 +1154,159 @@ Especial de R.T.C
 
 </title>
   </programme>
-  <programme start="20190223050000 +0000" stop="20190223053000 +0000" channel="LAS ESTRELLAS">
+  <programme start="20190223050000 +0000" stop="20190223060000 +0000" channel="LAS ESTRELLAS">
     <title lang="en">
 Paid Programming
 
 </title>
   </programme>
-  <programme start="20190223053000 +0000" stop="20190223060000 +0000" channel="LAS ESTRELLAS">
+  <programme start="20190223060000 +0000" stop="20190223070000 +0000" channel="LAS ESTRELLAS">
     <title lang="en">
-Farmacias de similares
+Chespirito
 
 </title>
   </programme>
-  <programme start="20190223060000 +0000" stop="20190223063000 +0000" channel="LAS ESTRELLAS">
+  <programme start="20190223070000 +0000" stop="20190223090000 +0000" channel="LAS ESTRELLAS">
     <title lang="en">
-Las Noticias con Danielle Dith
+La horripilante bestia humana
 
 </title>
   </programme>
-  <programme start="20190223063000 +0000" stop="20190223080000 +0000" channel="LAS ESTRELLAS">
+  <programme start="20190223090000 +0000" stop="20190223110000 +0000" channel="LAS ESTRELLAS">
     <title lang="en">
-Despierta con Loret
+Mujercitas
 
 </title>
   </programme>
-  <programme start="20190223080000 +0000" stop="20190223090000 +0000" channel="LAS ESTRELLAS">
-    <title lang="en">
-Al Aire con Paola Rojas
-
-</title>
-  </programme>
-  <programme start="20190223090000 +0000" stop="20190223120000 +0000" channel="LAS ESTRELLAS">
-    <title lang="en">
-Hoy
-
-</title>
-  </programme>
-  <programme start="20190223120000 +0000" stop="20190223130000 +0000" channel="LAS ESTRELLAS">
-    <title lang="en">
-Fuego en la sangre
-
-</title>
-  </programme>
-  <programme start="20190223130000 +0000" stop="20190223143000 +0000" channel="LAS ESTRELLAS">
+  <programme start="20190223110000 +0000" stop="20190223130000 +0000" channel="LAS ESTRELLAS">
     <title lang="en">
 ¡Cuéntamelo ya!
 
 </title>
   </programme>
-  <programme start="20190223143000 +0000" stop="20190223163000 +0000" channel="LAS ESTRELLAS">
+  <programme start="20190223130000 +0000" stop="20190223150000 +0000" channel="LAS ESTRELLAS">
     <title lang="en">
-Porque el amor manda
+El inocente
 
 </title>
   </programme>
-  <programme start="20190223163000 +0000" stop="20190223173000 +0000" channel="LAS ESTRELLAS">
+  <programme start="20190223150000 +0000" stop="20190223171500 +0000" channel="LAS ESTRELLAS">
     <title lang="en">
-Nosotros los guapos
+Puerta joven
 
 </title>
   </programme>
-  <programme start="20190223173000 +0000" stop="20190223183000 +0000" channel="LAS ESTRELLAS">
+  <programme start="20190223171500 +0000" stop="20190223190000 +0000" channel="LAS ESTRELLAS">
     <title lang="en">
-Como dice el dicho
+Pequeños gigantes
 
 </title>
   </programme>
-  <programme start="20190223183000 +0000" stop="20190223193000 +0000" channel="LAS ESTRELLAS">
-    <title lang="en">
-Ringo: La Pelea de su Vida
-
-</title>
-  </programme>
-  <programme start="20190223193000 +0000" stop="20190223203000 +0000" channel="LAS ESTRELLAS">
+  <programme start="20190223190000 +0000" stop="20190223210000 +0000" channel="LAS ESTRELLAS">
     <title lang="en">
 La Rosa de Guadalupe
 
 </title>
   </programme>
-  <programme start="20190223203000 +0000" stop="20190223213000 +0000" channel="LAS ESTRELLAS">
+  <programme start="20190223210000 +0000" stop="20190224000000 +0000" channel="LAS ESTRELLAS">
+    <title lang="en">
+Los Archivos de Vega y Asociad
+
+</title>
+  </programme>
+  <programme start="20190224000000 +0000" stop="20190224003000 +0000" channel="LAS ESTRELLAS">
+    <title lang="en">
+Más Noche
+
+</title>
+  </programme>
+  <programme start="20190224003000 +0000" stop="20190224023000 +0000" channel="LAS ESTRELLAS">
+    <title lang="en">
+Paid Programming
+
+</title>
+  </programme>
+  <programme start="20190224023000 +0000" stop="20190224043000 +0000" channel="LAS ESTRELLAS">
+    <title lang="en">
+Paid Programming
+
+</title>
+  </programme>
+  <programme start="20190224043000 +0000" stop="20190224060000 +0000" channel="LAS ESTRELLAS">
+    <title lang="en">
+Paid Programming
+
+</title>
+  </programme>
+  <programme start="20190224060000 +0000" stop="20190224070000 +0000" channel="LAS ESTRELLAS">
+    <title lang="en">
+Chespirito
+
+</title>
+  </programme>
+  <programme start="20190224070000 +0000" stop="20190224090000 +0000" channel="LAS ESTRELLAS">
+    <title lang="en">
+Barridos y regados
+
+</title>
+  </programme>
+  <programme start="20190224090000 +0000" stop="20190224110000 +0000" channel="LAS ESTRELLAS">
+    <title lang="en">
+El oreja rajada
+
+</title>
+  </programme>
+  <programme start="20190224110000 +0000" stop="20190224114500 +0000" channel="LAS ESTRELLAS">
+    <title lang="en">
+Más Deporte
+
+</title>
+  </programme>
+  <programme start="20190224114500 +0000" stop="20190224140000 +0000" channel="LAS ESTRELLAS">
+    <title lang="en">
+U.N.A.M vs. León
+En Vivo
+</title>
+  </programme>
+  <programme start="20190224140000 +0000" stop="20190224150000 +0000" channel="LAS ESTRELLAS">
+    <title lang="en">
+Acción
+
+</title>
+  </programme>
+  <programme start="20190224150000 +0000" stop="20190224170000 +0000" channel="LAS ESTRELLAS">
+    <title lang="en">
+Como dice el dicho
+
+</title>
+  </programme>
+  <programme start="20190224170000 +0000" stop="20190224180000 +0000" channel="LAS ESTRELLAS">
+    <title lang="en">
+María de todos los Angeles
+
+</title>
+  </programme>
+  <programme start="20190224180000 +0000" stop="20190224200000 +0000" channel="LAS ESTRELLAS">
+    <title lang="en">
+100 mexicanos dijieron
+
+</title>
+  </programme>
+  <programme start="20190224200000 +0000" stop="20190224220000 +0000" channel="LAS ESTRELLAS">
     <title lang="en">
 Mi marido tiene mas familia
 
 </title>
   </programme>
-  <programme start="20190223213000 +0000" stop="20190223223000 +0000" channel="LAS ESTRELLAS">
+  <programme start="20190224220000 +0000" stop="20190224230000 +0000" channel="LAS ESTRELLAS">
     <title lang="en">
-Amar a Muerte
+Silvia Pinal: Frente a Ti
 
 </title>
   </programme>
-  <programme start="20190223223000 +0000" stop="20190223230000 +0000" channel="LAS ESTRELLAS">
+  <programme start="20190224230000 +0000" stop="20190225000000 +0000" channel="LAS ESTRELLAS">
     <title lang="en">
-En Punto Denise Maerker
-
-</title>
-  </programme>
-  <programme start="20190223230000 +0000" stop="20190223233000 +0000" channel="LAS ESTRELLAS">
-    <title lang="en">
-40 y 20
-
-</title>
-  </programme>
-  <programme start="20190223233000 +0000" stop="20190224000000 +0000" channel="LAS ESTRELLAS">
-    <title lang="en">
-NTD
+La Jugada
 
 </title>
   </programme>
@@ -1020,7 +1334,13 @@ Paid Programming
 
 </title>
   </programme>
-  <programme start="20190223060000 +0000" stop="20190223074000 +0000" channel="DISTRITO COMEDIA">
+  <programme start="20190223060000 +0000" stop="20190223090000 +0000" channel="DISTRITO COMEDIA">
+    <title lang="en">
+La hora pico
+
+</title>
+  </programme>
+  <programme start="20190223090000 +0000" stop="20190223113000 +0000" channel="DISTRITO COMEDIA">
     <title lang="en">
 
 El Chavo del Ocho
@@ -1029,9 +1349,9 @@ El Chavo del Ocho
 </title>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/el_chavo_del_ocho.jpg" />
   </programme>
-  <programme start="20190223074000 +0000" stop="20190223085000 +0000" channel="DISTRITO COMEDIA">
+  <programme start="20190223113000 +0000" stop="20190223130000 +0000" channel="DISTRITO COMEDIA">
     <title lang="en">
-XH Derbez
+Una familia de diez
 
 </title>
   </programme>
